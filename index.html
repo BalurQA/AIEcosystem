@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>AI Companies & Models Ecosystem Tracker</title>
+<meta name="description" content="Interactive AI companies, models, products and daily update tracker."/>
+<style>
+:root{--bg:#07111f;--panel:#0d1b2d;--panel2:#10233a;--text:#eaf2ff;--muted:#9fb3c8;--line:#24415f;--accent:#55b7ff;--green:#31d39a;--orange:#ffb347;--purple:#b28cff;--red:#ff6b7a}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 50% 0,#12345b 0,#07111f 42%);color:var(--text);font-family:Inter,system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+header{padding:24px 28px 16px;border-bottom:1px solid var(--line);position:sticky;top:0;background:rgba(7,17,31,.94);backdrop-filter:blur(12px);z-index:20}
+h1{margin:0;font-size:clamp(24px,3vw,42px);letter-spacing:-1px}.sub{color:var(--muted);margin:7px 0 0}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;margin-top:16px}.toolbar input,.toolbar select,.toolbar button{background:var(--panel);color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px 12px;font:inherit}.toolbar input{min-width:240px;flex:1}.toolbar button{cursor:pointer}.toolbar button:hover{border-color:var(--accent)}
+main{max-width:1500px;margin:auto;padding:22px}.stats{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:20px}.stat{background:linear-gradient(145deg,var(--panel),#0a1727);border:1px solid var(--line);border-radius:14px;padding:14px}.stat b{font-size:24px;display:block}.stat span{color:var(--muted);font-size:12px}
+.map{position:relative;min-height:650px;border:1px solid var(--line);border-radius:22px;background:linear-gradient(145deg,rgba(17,42,69,.7),rgba(7,17,31,.9));overflow:hidden;padding:28px}
+.cards{display:grid;grid-template-columns:repeat(6,1fr);gap:14px}.card{background:rgba(13,27,45,.96);border:1px solid var(--line);border-radius:14px;padding:13px;cursor:pointer;transition:.18s;min-height:180px}.card:hover{transform:translateY(-3px);border-color:var(--accent);box-shadow:0 8px 30px rgba(0,0,0,.22)}.card h3{margin:0 0 8px;font-size:16px}.tag{display:inline-block;padding:4px 7px;border-radius:999px;font-size:10px;margin:2px;background:#18304a;color:#bfe4ff}.model{padding:6px 0;border-bottom:1px dashed #203b57;font-size:12px}.model:last-child{border-bottom:0}.status{font-size:10px;color:var(--green);font-weight:700}.date{font-size:10px;color:var(--muted)}
+.section{margin-top:24px}.section h2{font-size:20px}.timeline{display:grid;gap:10px}.item{display:grid;grid-template-columns:105px 160px 1fr auto;gap:12px;align-items:center;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:11px}.item a{color:#9fd8ff;text-decoration:none}.item a:hover{text-decoration:underline}.pill{font-size:10px;padding:4px 7px;border-radius:999px;background:#15324b;color:#b9dbf7}.muted{color:var(--muted)}
+footer{max-width:1500px;margin:30px auto;padding:18px 22px;color:var(--muted);font-size:12px;border-top:1px solid var(--line)}
+.drawer{position:fixed;right:-520px;top:0;width:min(520px,94vw);height:100vh;background:#091625;border-left:1px solid var(--line);z-index:50;transition:right .25s;padding:24px;overflow:auto;box-shadow:-15px 0 45px rgba(0,0,0,.4)}.drawer.open{right:0}.close{float:right;background:none;border:1px solid var(--line);color:var(--text);border-radius:8px;padding:6px 9px;cursor:pointer}.drawer h2{margin-top:45px}.source{display:block;color:#8dd0ff;margin:8px 0;text-decoration:none}.empty{text-align:center;padding:35px;color:var(--muted)}
+@media(max-width:1200px){.cards{grid-template-columns:repeat(4,1fr)}.stats{grid-template-columns:repeat(3,1fr)}}
+@media(max-width:800px){.cards{grid-template-columns:repeat(2,1fr)}.stats{grid-template-columns:repeat(2,1fr)}.map{padding:15px}.hub{display:none}.item{grid-template-columns:1fr}.item .date{order:-1}}
+@media(max-width:520px){.cards{grid-template-columns:1fr}.stats{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<header>
+  <h1>AI Companies & Models Ecosystem</h1>
+  <p class="sub">Interactive knowledge map • models • products • research • announcements • daily updates</p>
+  <div class="toolbar">
+    <input id="search" placeholder="Search companies, models, agents, multimodal, coding…"/>
+    <select id="category"><option value="">All categories</option><option>Foundation Models</option><option>Agents</option><option>Multimodal</option><option>Open Models</option><option>Enterprise</option><option>Infrastructure</option></select>
+    <select id="sort"><option value="recent">Latest update</option><option value="name">Company A–Z</option><option value="models">Model count</option></select>
+    <button id="refresh">↻ Refresh data</button><button id="reset">Reset</button>
+  </div>
+</header>
+<main>
+  <section class="stats" id="stats"></section>
+  <section class="map"><div class="cards" id="companies"></div></section>
+  <section class="section"><h2>Latest updates</h2><div class="timeline" id="timeline"></div></section>
+</main>
+<footer>
+  <div>Data file: <code>data.json</code> • Update automation: GitHub Actions + <code>update.py</code> • Future/announced items are labeled and never treated as released.</div>
+  <div style="margin-top:7px">Last loaded: <span id="loaded">—</span> • Sources are linked to original company pages where available.</div>
+</footer>
+<aside class="drawer" id="drawer"><button class="close" id="close">✕</button><div id="detail"></div></aside>
+<script>
+const state={data:null};
+const $=s=>document.querySelector(s);
+function esc(s){return String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[m]))}
+function fmtDate(s){return s?new Date(s).toLocaleDateString(undefined,{year:'numeric',month:'short',day:'numeric'}):'—'}
+function render(){
+ const d=state.data||{companies:[],updates:[]}; const q=$('#search').value.toLowerCase(); const cat=$('#category').value; const sort=$('#sort').value;
+ let cs=d.companies.filter(c=>(!q||JSON.stringify(c).toLowerCase().includes(q))&&(!cat||c.categories?.includes(cat)));
+ cs.sort((a,b)=>sort==='name'?a.name.localeCompare(b.name):sort==='models'?(b.models.length-a.models.length):new Date(b.updated||0)-new Date(a.updated||0));
+ $('#stats').innerHTML=[
+  ['Companies',d.companies.length],['Models / products',d.companies.reduce((n,c)=>n+c.models.length,0)],['Recent updates',d.updates.length],['Categories',new Set(d.companies.flatMap(c=>c.categories||[])).size],['Last sync',fmtDate(d.generated_at)]
+ ].map(x=>`<div class="stat"><b>${esc(x[1])}</b><span>${esc(x[0])}</span></div>`).join('');
+ $('#companies').innerHTML=cs.length?cs.map(c=>`<article class="card" data-id="${esc(c.id)}"><h3>${esc(c.name)}</h3><div class="status">● ${esc(c.status||'Active')}</div><div>${(c.categories||[]).slice(0,3).map(x=>`<span class="tag">${esc(x)}</span>`).join('')}</div>${c.models.slice(0,5).map(m=>`<div class="model"><b>${esc(m.name)}</b><br><span class="muted">${esc(m.type||'Model')} · ${esc(m.stage||'Current')}</span></div>`).join('')}</article>`).join(''):`<div class="empty">No matches.</div>`;
+ [...document.querySelectorAll('.card')].forEach(x=>x.onclick=()=>openCompany(x.dataset.id));
+ let ups=(d.updates||[]).filter(u=>!q||JSON.stringify(u).toLowerCase().includes(q)).slice(0,60);
+ $('#timeline').innerHTML=ups.length?ups.map(u=>`<div class="item"><div class="date">${esc(fmtDate(u.date))}</div><div><b>${esc(u.company)}</b></div><div><a href="${esc(u.url)}" target="_blank" rel="noopener">${esc(u.title)}</a><div class="muted">${esc(u.summary||'')}</div></div><span class="pill">${esc(u.kind||'Update')}</span></div>`).join(''):`<div class="empty">No updates.</div>`;
+ $('#loaded').textContent=fmtDate(d.generated_at)+' '+(d.generated_at?new Date(d.generated_at).toLocaleTimeString(): '');
+}
+function openCompany(id){const c=state.data.companies.find(x=>x.id===id);if(!c)return;$('#detail').innerHTML=`<h2>${esc(c.name)}</h2><p class="muted">${esc(c.description||'')}</p><p>${(c.categories||[]).map(x=>`<span class="tag">${esc(x)}</span>`).join('')}</p><h3>Models & products</h3>${c.models.map(m=>`<div class="model"><b>${esc(m.name)}</b><br><span class="muted">${esc(m.type||'')} · ${esc(m.stage||'')} · ${esc(m.notes||'')}</span>${m.url?`<br><a class="source" href="${esc(m.url)}" target="_blank" rel="noopener">Official source ↗</a>`:''}</div>`).join('')}<h3>Recent company updates</h3>${state.data.updates.filter(u=>u.company===c.name).slice(0,15).map(u=>`<div class="model"><b>${esc(u.title)}</b><br><span class="muted">${esc(fmtDate(u.date))}</span><a class="source" href="${esc(u.url)}" target="_blank" rel="noopener">Read source ↗</a></div>`).join('')}`;$('#drawer').classList.add('open')}
+async function load(){try{const r=await fetch('data.json?ts='+Date.now(),{cache:'no-store'});state.data=await r.json();render()}catch(e){$('#timeline').innerHTML='<div class="empty">Could not load data.json. Run the included updater or serve this folder from a web server.</div>'}}
+['search','category','sort'].forEach(id=>$(('#'+id)).addEventListener('input',render));
+$('#reset').onclick=()=>{['search','category'].forEach(id=>$('#'+id).value='');$('#sort').value='recent';render()};
+$('#refresh').onclick=()=>load();$('#close').onclick=()=>$('#drawer').classList.remove('open');document.addEventListener('keydown',e=>{if(e.key==='Escape')$('#drawer').classList.remove('open')});
+load();
+</script>
+</body>
+</html>
