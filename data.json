@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T04:22:09.675364+00:00",
+  "generated_at": "2026-09-30T17:59:23.116358+00:00",
   "companies": [
     {
       "id": "openai",
@@ -526,6 +526,150 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-08-31T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Improving our alignment and security practices - Anthropic",
+      "summary": "Improving our alignment and security practices &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-27T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Previewing the Model Hardware Standard - Anthropic",
+      "summary": "Previewing the Model Hardware Standard &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-12T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "Putting sign language AI into users’ hands - Google DeepMind",
+      "summary": "Putting sign language AI into users’ hands &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KVXNiQ3JHU1hzMG1la1dyWTRUenFiaF9NelVKYUgxd2RteUhHQWlUSC1FdUtIeFVpTkl1TnAyclE0cUFQclFQVG45M0MtYnkyOXZaMDhaSjNhekV0ZGhWTE84ckdXM3NHcWJHX1MyWGVNTjJ0UktFRXVBZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-12-02T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Extending healthcare access to underserved communities with AI - AI at Meta",
+      "summary": "Extending healthcare access to underserved communities with AI &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JWmJnMHJGNmxxanI3STJPWlprZWxHbm1iZklnU3RHRmcxTFBxU3B5VDVxMlBvaS1FTmFGODBMc0Jjb2dHMXNBLVhHUWhVOWNWdy1nX1I2aWh4LUxWWmM0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-11-04T12:10:12+00:00",
+      "company": "xAI",
+      "title": "Grok Models, API Keys & Pricing - xAI",
+      "summary": "Grok Models, API Keys & Pricing &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiMkFVX3lxTE4weXY0VTFSQVNhTnphMjlIV05wRGpWZjRPc1JFdC00bmE0UE5xWHJHUzVR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-28T08:28:26+00:00",
+      "company": "Mistral AI",
+      "title": "Install and setup - Mistral AI Documentation",
+      "summary": "Install and setup &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXV0lsZ20xek04c0ctSGc5aGdnYzJfcXNyUGlIUTl5TmZ4cERfY2lDb2VZQ2hfT0s0aTY3bGhGSVk4ZEQ1cWIyUkIwelFkNEdUSUJ5UlVHaTlUTGdieWFBTQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-07T07:49:33+00:00",
+      "company": "Mistral AI",
+      "title": "Configuration reference - Mistral AI Documentation",
+      "summary": "Configuration reference &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92QXRlakFYRVJIRXlDYmxPQ01yV0tVT0dxeEROR3g0ZUg4anFKcVV2aWJjaW9aR1lqZEtDOGxUR0E3LXM3MEhkcVhXZklObTNaUDlaUW5wd2UyWWtSTmFEeVd3c2tkRUxFaWtYNEhn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-03-17T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral Small 3.1 - mistral.ai",
+      "summary": "Mistral Small 3.1 &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Bb2RXdFh5S0c5ZElneDhsSjZFbmt3bWdmSjZKeWVBdXdRZjNva0ZMdFRuTlB5OHJBRjVEWFh6MDA3UVo1ZzZVX0dYNzRYY0JCc3d4VQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-10-02T18:39:37+00:00",
+      "company": "Microsoft",
+      "title": "Foundry Models Pricing - Microsoft Azure",
+      "summary": "Foundry Models Pricing &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14OHd0ZEd0blZ1WnVnT1E2U3ZzLW9VM2xLcjNHbHBzcGw3dUVRTFY1dWgzSFJfRmUwdHBsejFsLTlxT2VvZ2Eyc1FrZGg5SHFGTmFodWQ0RFZLNnVtbjI3TS1lVVplVTZFTER2TU00clZ1bHlQYjZMY3dpY0dlUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2019-06-24T11:09:29+00:00",
+      "company": "Microsoft",
+      "title": "Azure for Students – Free Account Credit - Microsoft Azure",
+      "summary": "Azure for Students – Free Account Credit &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MTHVzcFViczJQYTNFd3pMS1hrSlpTMTgxYkZmN21mdF9iTTgySzVpdnVWVXpHZWVvYTczdFMyYXhDano0bnRJZmt6aTdZQWVwdWhLNTJvVWVDT1k?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-27T01:50:08+00:00",
+      "company": "Microsoft",
+      "title": "Manage drive space with Storage Sense - support.microsoft.com",
+      "summary": "Manage drive space with Storage Sense &nbsp;&nbsp; support.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGVaNS1Cbnkzb1RqTlVRQmVwN3Q2YmNGemgyTkhqX3dUYzJtV2M1YzU0S21xUXB6UFBKdU9Wb2VOZF9nTFRrZVJ4a2lhTm5QcHdTSUxWbE1aSE42M2hHZEd4QzlzYTV5Mk1QVG9ZSGJBNFhXeDhSNGRwZGVmOVcyUFBqVnlCNk5TNlJZZWNaTUdVOGxHN0Z2clFfQ2hJVnl0Z3dCbzFiUEpSWDJhWlZKdmVMMWJnQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-09T07:00:00+00:00",
+      "company": "Baidu",
+      "title": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards — A Model That Writes Better and Understands You More | ERNIE Blog - 百度",
+      "summary": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards — A Model That Writes Better and Understands You More | ERNIE Blog &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KQVI1emFRMjVPV1VjdXIyb05KYW9WWTRBNE1yQVZ0SkM0TW9PejJUUlJKS0pqcU9ISEFCOEN6aTZ2X3Vmb0lTX2gxcDlKbW5HUzlUak9JbEpiZXdkUDdHTDRrMUVBcXVpMXc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-15T18:05:28+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam AI Pricing - Transparent Rates for Indian Language AI APIs - Sarvam API Docs",
+      "summary": "Sarvam AI Pricing - Transparent Rates for Indian Language AI APIs &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyTkNUZXhaMks0bGEtN0UzYjZ1NVZZVGVvcGVRSlNCM3l0Y29Xak9uR2FqN2hlSlRoQ0QzUnNfbHVYS1hqMUhEdjE4aHh0X2xtLWltbUItZExpSWxjbUQ0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T10:27:16+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Text Translation | Sarvam API Docs - Sarvam API Docs",
+      "summary": "Text Translation | Sarvam API Docs &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45U0NFZFFGZ2p4UTI2Y1lSNFlNRzV1aW5NREd2RUV2UUd1eEJYbkpNUWotcTRxRFpua0VZWERvUVFBYWh2aWE2d1RxSjk4RFhFRXpveFItN3hvRzR4ZjNYcmRPYnF1UXc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-29T09:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Building AI Agents: A First-Principles Guide - Sarvam AI",
+      "summary": "Building AI Agents: A First-Principles Guide &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0dTZZai1mdmFmanI2SHpuaVVwZTBaRWRWQ1VfVm5rQUlnSzNja1VqT0k2TUpTXzBMX01Ca0J0UEhJcTlPTWZzc3FjcjJqUjdWcXBhdmZLTF91Zw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Bulbul Text-to-Speech Model - Indian Language Voice Synthesis by Sarvam AI - Sarvam API Docs",
+      "summary": "Bulbul Text-to-Speech Model - Indian Language Voice Synthesis by Sarvam AI &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3cmxHaVBmU0U2cHhQMTZvM2c4Q0NQTXZMamVBVmxRWjdTU2pNbkVwdDI5N1h0NHJOM2VzdW1lZDJvbENJZlgySEQ5bzliQzFKeTVwZXdab3B6dlpHc2R2anZqOTR3REk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-03T15:35:27+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam API Pricing | TTS, STT, LLM & More - Sarvam AI",
+      "summary": "Sarvam API Pricing | TTS, STT, LLM & More &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TQVloZ0RNcjgteWpCbnRHVmZadWVYTDl0YkhOaHVnS09mbG1Od1JZT1BMR3JnOHJjOE94NFZTel9mRzF4d2QxWg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-08T16:14:03+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Everything we announced at Sarvam Epoch - Sarvam AI",
+      "summary": "Everything we announced at Sarvam Epoch &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BODRLUmR4OXdQMTdtdVRwTU9xNHN5NVpZN1dvOU95SkF4ckFHa3Y2d0x2U0JicS1hcFVFVEtiMkRfRmR4UXhzRUhoOA?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2024-05-08T19:23:08+00:00",
       "company": "OpenAI",
