@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:59:23.116358+00:00",
+  "generated_at": "2026-10-01T18:24:34.549842+00:00",
   "companies": [
     {
       "id": "openai",
@@ -526,6 +526,206 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-02-23T08:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Detecting and preventing distillation attacks - Anthropic",
+      "summary": "Detecting and preventing distillation attacks &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUxlWTM0OXZ3cENhMEpobm5TWEM4cVRLOXRpRHlYSUZ3bThyNE1wcXhFY2ZCSkNHYUJEV1YtZ0VkSWxfVW9tc0lkVExFSFBhRUFPZENhNFNZQk5MNjJxQTdhT3dJYjl6ZUJseVplanY4R2NDcHdSU2RJWlV2MzlGYVhR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-27T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Expanding our support for scientists - Anthropic",
+      "summary": "Expanding our support for scientists &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Tc2JIOXRYSDB1Z05hSi1UdjkxN1UyZWFyMHBxQzdPMTlRbXJIVkp0Q04tVFFVX29fT3RUN2tMTEhTdlBQWmFyZlVMTTBVNVhhVFZiNXNsTnpncnFWZzE4R1I0d3ZjUTF5UmlhWG1FOEY?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-20T17:49:29+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemini 4 Argon - Google DeepMind",
+      "summary": "Gemini 4 Argon &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSXdpSTJ6RVNZcE5tU2N5c0F3dVBQblBxR3MzTWhNeS1qZThfc25kMU9RNXo3M1FQRE9GV2ZITTJacTkzaHBJdVd2aXNFLVk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-22T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "Strengthening our Frontier Safety Framework - Google DeepMind",
+      "summary": "Strengthening our Frontier Safety Framework &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IYzhjcHliU0hJX1hWV0pVRG55M2YyNmtqWGNqYjZnNmdjaHhORHJydDZ4VVFaVFp2alRRb2lYNDZNcDc2NFhsVHdNQ0VvdEJxbHptX2JLcEYzR2dLeGgxOWViMHJHSlNLejhUNHdBSDJQVUN2U2QzQmhleUdnUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-04-13T07:00:00+00:00",
+      "company": "Meta",
+      "title": "A new, unique AI dataset for animating amateur drawings - AI at Meta",
+      "summary": "A new, unique AI dataset for animating amateur drawings &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDcHpaOGpnN0dCYkVIaWlsZmlHcFlzNFp6OVhuWFB0dEJNUWJqamdBZkNRM2RiUUE2TXk2dnQ3UjF1NUN4U3ItMkowb1UyZjUwUmZ5eWNKV0tTT3MzajhmcTR2eFVsQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-15T21:50:16+00:00",
+      "company": "xAI",
+      "title": "Open Source: Grok Build Coding Agent - xAI",
+      "summary": "Open Source: Grok Build Coding Agent &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE0wRThSV3U1OUtJel9CVWMxRUpwUW12NlJreUQyQzlVSmo3NDdTVi1jYmdzVENhN3ozRDVfdg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-10-30T19:26:10+00:00",
+      "company": "Mistral AI",
+      "title": "Codestral Mamba 7B - Mistral AI Documentation",
+      "summary": "Codestral Mamba 7B &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xRDB6MVBSYTY4NEVmSTc1VjU5RkpIZmZzV2FNeW5Wd3RkTC03dTNfeDh1ZkxSZTQwaElzNVFBUXlCZXZKZWlYc0x1Vi10d2ExNEVNS0U3SmN2dm1maXJvWEpPdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-02T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork - Qwen",
+      "summary": "Qwen3.8-Max: A New Bar for Coding and Cowork &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5DYWFTeU5TUEJPRnU5dTdLa20xN3NSOWI4elR1dXZVMWNwV0dJV2hGeFhzak5yUm1zOWNCUFZncWNVbk5xbkE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-11-18T05:03:23+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen Coder - Qwen Coder",
+      "summary": "Qwen Coder &nbsp;&nbsp; Qwen Coder",
+      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE8tUUxpRVJYUUhaRUhrZi1RWGtTRHNrc2REM05kYmNJS0JnOGhrWFdrUVRKYzB0dmhaOWc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2014-09-18T12:11:54+00:00",
+      "company": "Microsoft",
+      "title": "Cloud Computing Services | Microsoft Azure - Microsoft Azure",
+      "summary": "Cloud Computing Services | Microsoft Azure &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWaW5IS3VmUjFERVpwUnkwVHJfNGprVEtCVzRxVlhtWU8xaWhJZk9vaEdSdmNFeUNjdXJfamxOeE5kUU5ZUTlXZQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-06-12T12:58:08+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft Copilot - copilot.com",
+      "summary": "Microsoft Copilot &nbsp;&nbsp; copilot.com",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5oMUhiLTVFZUZSRFlacWt0N1VpbndyYlpmQXQ0LUY4R0VjQ05kbGxpcHktTjNxc1JhOGRReThrQUdiT3Fr?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-25T04:52:59+00:00",
+      "company": "Microsoft",
+      "title": "XLOOKUP function - support.microsoft.com",
+      "summary": "XLOOKUP function &nbsp;&nbsp; support.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ia3VYLVh2UmRwWVRrejB4blBEWFFQX3ZabWh5a0tyZS1yUlh2OU1zMVRfZUR4T0ZzWDNXeGo0WlNoQXdjdno3dWNKTGdMbDdRMWdWbE01Y2xJTVN6QWM3bHRCMERGUWNPb29YSmdlOFFQVHdkNkRr?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-27T18:46:08+00:00",
+      "company": "Microsoft",
+      "title": "Download Windows 10 - Microsoft",
+      "summary": "Download Windows 10 &nbsp;&nbsp; Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lTC1IbEtDdU1OaHMtNmNRNmMyYTQ3aWZVNW8zZ1pWTTlDQXFsRXdOa01oMlE1aHJPUkRoQURoOUtHWng4dHdvOE1OTWt5b0NwZlNLdTlneWdxY3ZqQk5UM3dYQkJMbFVwU2p1S0dMbUhfNXU1?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2022-09-17T00:51:55+00:00",
+      "company": "Microsoft",
+      "title": "Process Explorer - Sysinternals - Microsoft Learn",
+      "summary": "Process Explorer - Sysinternals &nbsp;&nbsp; Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UelFJUnBGMEMtb2lMVkxScHg3NW5Vbk1PRldhZkNOalZZdUxVTU9QLXI0RkdhTnFENEp2VjYxTGs5R0NneWxkYk5jZVhfYzRkTm8zM2dVSEVnSjRFeUJiQmwzUFNDdG9EdWZTVUpIdzJpWGpXUW12LTM3SVp1dw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-04T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "nemotron-3-ultra-550b-a55b Model by NVIDIA - NVIDIA Build",
+      "summary": "nemotron-3-ultra-550b-a55b Model by NVIDIA &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Lcm5YVzJDbE4tdGNJRDNQY1Rrc1B1RmxQVXFPaV9vQjRXbzZaQUo5Y2VhZlFkdzN3MlNocWhIQjZpN3pzWkVhUlNROFFDM1ZQUXVtVGVOMFl1Q2RBWW4xWnp0cVdUS2J4WlE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-11-04T20:38:36+00:00",
+      "company": "NVIDIA",
+      "title": "Models | Try NVIDIA NIM APIs - NVIDIA Build",
+      "summary": "Models | Try NVIDIA NIM APIs &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCRmZiT2Q5Z0tjc3pQSDBoMzh3Q2hyYUYzTkk0ajE3TTlmbDNoMDZKaUhISktEbnhjVnhVdExFZno4N1VObkE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-21T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "llama-3.1-nemotron-70b-instruct Model by NVIDIA - NVIDIA Build",
+      "summary": "llama-3.1-nemotron-70b-instruct Model by NVIDIA &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83bnd4cnV1SGRVVE9aU2F5N1hVWHlrNDJNbnVQTnk2MU9PMTRXNS0yckQzeFZsTUVCeHhLOG1yZDJDNjhJeVZhSjZ2dFpMSHg1OThpcThSby10VExPYUtsVDJKazllQ1hBWTJ5bkZRcFE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-03-22T03:52:37+00:00",
+      "company": "NVIDIA",
+      "title": "Try NVIDIA NIM APIs - NVIDIA Build",
+      "summary": "Try NVIDIA NIM APIs &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA0MmpmS25INk9ucm5JZDRRMkJFcEFMb213X210X2kxR2dsanVNT0dNVFZzMWxGQTdFdFFhczRR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-01T05:40:31+00:00",
+      "company": "NVIDIA",
+      "title": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "Fine-Tuning NVIDIA Nemotron for Saudi Arabic Dialects, with a Path to Other Languages | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGdPN2F2TnVjV2hmU0F2b1NfWEQ4ZWhuTVE4MzN2UWlWWlpYS3dpS1I3Yk9ZVW1rY0tSN0ZCVFFwd1QtaVlYX0dwS004VG9lcW9KV2llZXFyMFlKUmZZQUpoTkVlaml1QUtaN2NuNVp6ajVrQkRzdDZhbFZwOGZuRVRES2VJZGtiX2ttbHk2SVR2bjRxUWxKRE1EaVMwNnpuWU9pWlN2Yk9uc0RGX2ZCSnF1Tk9wM3FGbjhF?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-15T22:59:03+00:00",
+      "company": "NVIDIA",
+      "title": "DGX Spark - NVIDIA Build",
+      "summary": "DGX Spark &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9sdi1Cc2I1SWh1TWlwb2t4SzdXOVR0aGlhbGNZa3R3a3ZuQnVyelo0MkJCOGhvVE0wQXBtQmlDZHJsM0l4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents - NVIDIA Developer",
+      "summary": "NVIDIA Nemotron 3.5 Lightning Delivers Fast, Accurate Specialized Task Execution for Long-Running Agents &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZk9VYVA1MTFfVmM1c0ZvWEFMajRsUmFvOHJOWkt4ZEVqVGg3SEpPTEpRV1RhYkdDRy02MjFaaE53X1JyWWhpMlFCWU55SzRwcVYtZ1ExS01wTDJJUjdfOGhaTjdlNnpzcllTeEF6Uko4N25fNWxsVkFrR3Bxc0lxYzd2R3NMZWxxSTd4Sm5vVkoxMGo5Y1hhSXhHLVQwUWttRU5Cb0RtaXlkbDk4ZHNEZXl2MW5WYU5ZOUV3NmhROFVsRkZNMUJWSjVWS3FNT29vOFVCVQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-29T18:53:32+00:00",
+      "company": "NVIDIA",
+      "title": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3 | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "Lower the Cost of Building and Running Visual AI Agents with NVIDIA VSS Blueprint 3.3 | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2hlQ0dycjFqRXl3T3Vabm83eTZIS25RSnB2dko4T0NneVdaM1NHMVVLYlJJMTlieURSdC1QSnFUZ2lhczdFeDEwOVN5VGl6SVl2S0RwRnVfRkZldWZHOFUzamc2UlZHb213eGd0OTI0bFRPUEhaZ0JZcVUxb3NoWFJteGMyUTBObld4aXRrSWVCWnZsZ1dsYmFLU01qZ2dOUG9EOHBpN1lKWFVHMGpLc2ZlWElld1E1ZUZKYQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-15T07:23:29+00:00",
+      "company": "Moonshot AI",
+      "title": "Incident History - Moonshot AI Status",
+      "summary": "Incident History &nbsp;&nbsp; Moonshot AI Status",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XTnBKdGdyYzRhV3ZJS1dtT0g5Ylp6bFdTYWFPRGI5bXhDb3N2ZC1iT1BaUHpaajlNcm1zQzRxZ05weEhDSEhYOHpR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-09-06T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Making complex information accessible with Mayura - Sarvam AI",
+      "summary": "Making complex information accessible with Mayura &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JOEJ5N29rcVZ4Z3c4T0VjSFR6N2dXVGI3UUJwanVSWk5GRG1zaWo2d0o3Z0RtOV8yaVdjTm0yLTliZjZxWGZkNDUtQ2JTVFZB?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-06T08:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Open-Sourcing Sarvam 30B and 105B - Sarvam AI",
+      "summary": "Open-Sourcing Sarvam 30B and 105B &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2UlItdkdVWlhMSTdPM1VEOHpPRV9yUmJENnVncUNoVDZSWGFMNEM1QVpOOElBczRmYTBORTNrZUpIc1BNZjJqR2NCSHBsbWRJd2RXazJB?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-08-31T07:00:00+00:00",
       "company": "Anthropic",
