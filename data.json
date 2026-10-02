@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:24:34.549842+00:00",
+  "generated_at": "2026-10-02T17:51:31.194928+00:00",
   "companies": [
     {
       "id": "openai",
@@ -526,6 +526,102 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-04-17T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
+      "summary": "Introducing Claude Design by Anthropic Labs &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-20T17:49:27+00:00",
+      "company": "Google DeepMind",
+      "title": "Lyria 3.5 - Google DeepMind",
+      "summary": "Lyria 3.5 &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mVUxrWGNRVDEzeFp3aXM2OS1qMGhRWGxmM29jbTAxNVBIVzNzUGQ5RTFTTDgxNEtJN2ZEUTJ3WG45b19qN0JUNGRJVHBHUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-01-11T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
+      "summary": "Meta’s progress and learnings in AI fairness and transparency &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-02-24T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing LLaMA: A foundational, 65-billion-parameter large language model - AI at Meta",
+      "summary": "Introducing LLaMA: A foundational, 65-billion-parameter large language model &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUUpfR2xEZ0VCdndnUGRPVnVNUE5WWXZvWG5qdlBqTGx5dEJsSzlvNkVTeUY3YUd0VS1pak5NVlJhRUIzVVNzaTdmREJtV1BKRkVHdW95NF9Xd0N5Q3ktcEZKMkRCRTRDeDI4Yw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T16:04:23+00:00",
+      "company": "Mistral AI",
+      "title": "Agents Introduction - Mistral AI Documentation",
+      "summary": "Agents Introduction &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoVU9HcWkyT1A0WDZCREVadi02S0FGb0NwX2VpNXhoSk9DcHR4UnU0VnQzck5TUTU3VFhJOTJzWmktTC1GRWdyQXBGcjNKaFM5T293dXBrWXBFbko3OExF?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-17T13:05:30+00:00",
+      "company": "Mistral AI",
+      "title": "Test a model in the API playground - Mistral AI Documentation",
+      "summary": "Test a model in the API playground &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkZPSnhCVFlqWjVwaXlIOGlmRGNWLVVKMnJHaUFnS0VFeFRkVkNJaHNDeU52UDhnX3pXN3ZCTDJOUWtFRFRLUi1fRmY3UmVBLWNRSmpJTUxLMGtIWWtROU5QeFJFbWRiMVZVM0tjUTlnelBZVW5KSzctOTFlLUhsWm1MUk11NE0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-25T04:51:25+00:00",
+      "company": "Microsoft",
+      "title": "VLOOKUP function - support.microsoft.com",
+      "summary": "VLOOKUP function &nbsp;&nbsp; support.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSZ2lHdDdEVEI2NmFrUE8tajhKMXRBOUVCR1poNUNzSXR5b1E5M2RvajB2MEM5LXlfc2ctTUhKMUtJeE9jbEdlcHJmZF9UdWdIOHdMMlRaaVgycW1zbDk2Y05MejZOSVNTMkg0UHQ2V2c3NUhLbVRR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-25T04:58:20+00:00",
+      "company": "Microsoft",
+      "title": "IF function - support.microsoft.com",
+      "summary": "IF function &nbsp;&nbsp; support.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwaFJMZ1pWVjRlaE1vMU1HTXBWXzVLLUhGOVMzQU5Cb0FFSmFvLURHWkpkRmQ3ZW03N1NJTHhnRHpNdXpPQTU3VXdianRnS3RqTmVmTld2ZlZCdlM0Zi0wUHNzS1h1M3FrbTlReDdhUlU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-01T18:23:04+00:00",
+      "company": "NVIDIA",
+      "title": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "Build Local AI Apps with C++ and NVIDIA TensorRT RTX Samples | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTE5WeU5BMGc5RHk5a2c0dEVZamNXeXlGbkxOVEZUd2RDanRmN09RMkhsXzk4TTBkeXVyb3BVS09rOTRnNTdteC1ZYjMxN0ZGYndyVWRibGEzU1B6aDFqNHpMSkk5Y05iU19WSlFueE1TaVdmdlEwQWdBX29JREg3MmYtTE5yLXFNYlBDV095RnZ1ZTNPTVlORg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-11-09T03:26:48+00:00",
+      "company": "Cohere",
+      "title": "Newsroom - cohere.com",
+      "summary": "Newsroom &nbsp;&nbsp; cohere.com",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAzb1RfbGU5WWJYcGxzUVc3MlNYSkE1S0N3Z3Bjb2I5T0NPTkFsT1RrVnk5UXFCeXg1dkxBSk4tQmg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Voices - Sarvam AI Text-to-Speech Samples - Sarvam API Docs",
+      "summary": "Voices - Sarvam AI Text-to-Speech Samples &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lbjRBbGxoUHJoVVplaUNyWmh0UDlDNHNxQ1Btb3lTVkxhcmpnb3pJVmhHblV1dTZsNkVobnFzSXN2ZnJyd2JtdzZucHk5Yzd3cnJUWnBzaGhzSWt5a2xrWmZXSlBsT243a25RZEJ0RGVTVFBUeE5fYQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-15T08:11:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Welcome to Doc Agents - Sarvam API Docs",
+      "summary": "Welcome to Doc Agents &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EMjBzd0h0UmlwMmhCZ3owcjdiODBPbGNORm5WLWNwQWxzblB3NkZKZjZab1l5UjlHQTJiOHpsR0pqbTF1d20zT1Y3SzdoOGNsMVRBUVhqLXlaRzZodmJna1VLYw?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-02-23T08:00:00+00:00",
       "company": "Anthropic",
