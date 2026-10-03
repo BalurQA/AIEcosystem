@@ -12,6 +12,50 @@
         "Multimodal"
       ],
       "description": "Frontier models, ChatGPT, Codex, agents, voice and multimodal APIs.",
+      "products": [
+        {
+          "name": "Dots",
+          "type": "AI agent",
+          "stage": "Current",
+          "notes": "Always-on agents that work across connected apps and their own cloud computer.",
+          "url": "https://openai.com/index/introducing-dots/"
+        },
+        {
+          "name": "ChatGPT",
+          "type": "AI assistant",
+          "stage": "Current",
+          "notes": "OpenAI's general-purpose AI assistant.",
+          "url": "https://chatgpt.com/"
+        },
+        {
+          "name": "ChatGPT Business",
+          "type": "Business workspace",
+          "stage": "Current",
+          "notes": "ChatGPT workspace for businesses.",
+          "url": "https://chatgpt.com/business/"
+        },
+        {
+          "name": "ChatGPT Enterprise",
+          "type": "Enterprise workspace",
+          "stage": "Current",
+          "notes": "Enterprise ChatGPT workspace.",
+          "url": "https://chatgpt.com/business/enterprise/"
+        },
+        {
+          "name": "ChatGPT for Education",
+          "type": "Education workspace",
+          "stage": "Current",
+          "notes": "ChatGPT workspace for educational institutions.",
+          "url": "https://chatgpt.com/business/education/"
+        },
+        {
+          "name": "Codex",
+          "type": "Coding agent",
+          "stage": "Current",
+          "notes": "Software engineering and coding workflows.",
+          "url": "https://chatgpt.com/codex/"
+        }
+      ],
       "models": [
         {
           "name": "GPT family",
@@ -26,13 +70,6 @@
           "stage": "Current",
           "notes": "Voice experiences in the API.",
           "url": "https://openai.com/news/"
-        },
-        {
-          "name": "Codex",
-          "type": "Coding agent",
-          "stage": "Current",
-          "notes": "Software engineering and coding workflows.",
-          "url": "https://openai.com/codex/"
         },
         {
           "name": "Agents API",
