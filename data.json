@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:51:31.194928+00:00",
+  "generated_at": "2026-10-03T03:19:06.053833+00:00",
   "companies": [
     {
       "id": "openai",
@@ -526,6 +526,126 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-04-08T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - ai.meta.com",
+      "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-07-23T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing Llama 3.1: Our most capable models to date - ai.meta.com",
+      "summary": "Introducing Llama 3.1: Our most capable models to date &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-09-25T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Connect 2024: The responsible approach we’re taking to generative AI - ai.meta.com",
+      "summary": "Connect 2024: The responsible approach we’re taking to generative AI &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-01-11T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Meta’s progress and learnings in AI fairness and transparency - ai.meta.com",
+      "summary": "Meta’s progress and learnings in AI fairness and transparency &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-02-24T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing LLaMA: A foundational, 65-billion-parameter large language model - ai.meta.com",
+      "summary": "Introducing LLaMA: A foundational, 65-billion-parameter large language model &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUUpfR2xEZ0VCdndnUGRPVnVNUE5WWXZvWG5qdlBqTGx5dEJsSzlvNkVTeUY3YUd0VS1pak5NVlJhRUIzVVNzaTdmREJtV1BKRkVHdW95NF9Xd0N5Q3ktcEZKMkRCRTRDeDI4Yw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-08-22T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Bringing the world closer together with a foundational multimodal model for speech translation - ai.meta.com",
+      "summary": "Bringing the world closer together with a foundational multimodal model for speech translation &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNlJicUU0RTJWZ2VjNF96VlFNcnp0TTJnUk5KQWR3VFVxNWNkYjU0clozVG03eG1Ha0FwZkhzaTUwbE5TNUJieWx0OS1xVjQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-07-14T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing CM3leon, a more efficient, state-of-the-art generative model for text and images - ai.meta.com",
+      "summary": "Introducing CM3leon, a more efficient, state-of-the-art generative model for text and images &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZGxuNGtxWjgwdFFCcGd4bjJ2d1dENHhQUG5YaEMwblFHWTVOaTVMbThuVDlEbXVzejhFcTNKLW9qbnRCeWxEeGJ1X2hKSGlnVHpBWGRlUHpJRXlPcGVCRlVtWWRCQ0JGR2s0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-04-05T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing Segment Anything: Working toward the first foundation model for image segmentation - ai.meta.com",
+      "summary": "Introducing Segment Anything: Working toward the first foundation model for image segmentation &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2FhdVBMY0tXNDRsXy1XNjIwN3phVTdZcmMzRHBkQ1o0QmZKWVpIbmFTQThZQ3pCZHdwdjYxZzhCRGc3Y253X2xrSGVSMmY0WlpHcDE5VWRSdHJHSTZZTzV2aklsWTZoNHZBTkszUFNWNW5Jdm4wNlZXTFhnWEpZOXFfX1Q?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-11-30T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing a suite of AI language translation models that preserve expression and improve streaming - ai.meta.com",
+      "summary": "Introducing a suite of AI language translation models that preserve expression and improve streaming &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtWXYzSWY4aFloUXpubmhKTGFxM0h0LXJVMXpDS0ZGSUhsNmxoMUNlYk1xMXQ2YzRkbHN6bW5EcVZoVGVJVkZMQlZYdTBVOTJTV2p2Qk1meXpJdTNq?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-05-09T07:00:00+00:00",
+      "company": "Meta",
+      "title": "ImageBind: Holistic AI learning across six modalities - ai.meta.com",
+      "summary": "ImageBind: Holistic AI learning across six modalities &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bU93UHNnRkxQY0RvZzRSWmlhZEZYWTBaeVRKNEFCb1Jtd1FNZTVkc0M3bHVGamctSlM2U2hJRkhhaE1BUVdtVEw1T2YzZEJhRFp4U0VkUzNfaG1LcExWV1o1WmEwZWhOOFJxYUV3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-11-20T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Building a chatbot based on Llama to engage an intergovernmental organization’s stakeholders - ai.meta.com",
+      "summary": "Building a chatbot based on Llama to engage an intergovernmental organization’s stakeholders &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCdWJ3cmJwZ1BLR0tZcTYzMXNGZWRwamdyUFVhX2E4c1hOdU1EUExGRmNoVm5NbjRyQ2JPOC1zalBidUhYNHpRZldIdklHQ0pfMEExTkRsVmRBZFA2SVBHV1Jn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-08-07T07:00:00+00:00",
+      "company": "Meta",
+      "title": "How to fine-tune: Focus on effective datasets - ai.meta.com",
+      "summary": "How to fine-tune: Focus on effective datasets &nbsp;&nbsp; ai.meta.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RNHZlemtXVzBULUR3Q1RISHhZMVg5cHg3cDVjblRYSGdUQXpwaEdkNE9KSHY4Vjd2UXZUUm84bmxPNGVwNkpqOWVsZ2Q1Mm5uTkc5STZ1V3ROSjI1c2VtSEZQVWhSZG9NN3FGcWpyQl9uWkpVUkhYQw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-30T07:00:00+00:00",
+      "company": "xAI",
+      "title": "Grok Build Changelog - xAI",
+      "summary": "Grok Build Changelog &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TUTByWWFSbHJPbTBkVk1Ic2dKLXE4SXhqYTdWb1hKZDhDU0pXN3hQSlZfcE5DUUIyb3Jrem5IZ1J4UQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-12T20:20:59+00:00",
+      "company": "Microsoft",
+      "title": "Sign in to SharePoint - support.microsoft.com",
+      "summary": "Sign in to SharePoint &nbsp;&nbsp; support.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNblRlV2d3QzhGUGhPX2hGU1dtN2ZwWjJtYUNBNUFkVUpDdTVSSzRqYUxjdUN2WHdaU001Y1h1dHYxMGRfTmZCYndRZ1NMd1BaMHJSbFZfbUd4Mk9QWkloOUxfYm9ITHM1OTR2bGVPNmFpX19tSHB5V2d5QWJITlB2bS15TXZOUEtKWlNKR3c4YjA5RzdDd1RzNlRsMlQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-06-12T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "mistral-nemotron Model by Mistral AI - NVIDIA Build",
+      "summary": "mistral-nemotron Model by Mistral AI &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9neVowNkdxekRfdW5LWC1PYnR2M3dLV3pyeElfZ3lDQnlSQXlTTUlmaUFZM3JTbnZsM2QtS2RfcFdQVFh4TTMyNVNWcF9QNEcwWDZYakk1RnlhRXlVOUtESQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-04-17T07:00:00+00:00",
       "company": "Anthropic",
