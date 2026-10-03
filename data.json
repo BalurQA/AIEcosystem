@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T03:19:06.053833+00:00",
+  "generated_at": "2026-10-03T03:29:04.696603+00:00",
   "companies": [
     {
       "id": "openai",
@@ -526,6 +526,134 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-09-09T07:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient. - deepseek.com",
+      "summary": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient. &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14djVpMDdpbnhCWHIyQVd5NTktcU93TE9UU1FLZVNrdDF1N05nSWEwaFd6LUZYTzJkVEIwMTJ6U18wQkQ0Nk9Sbk56UDh6ZmxrSS1ucENKM0tsdXF0ZGw1bEVqcw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-11-30T08:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "Pushing the Frontier of Open Large Language Models - deepseek.com",
+      "summary": "Pushing the Frontier of Open Large Language Models &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IU3F2UEpaNVBrbWZkbTE4ZDY5cUFGUUlLSlVrR2J4aG5JQUotTS1EcFJWQmk0UjdpOGFCTV9LS3pUdzM4NmJ4ZGYxaTNZTlBaWGV2b1Q2SVJwUWM?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-12-09T08:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "The Grand Finale - deepseek.com",
+      "summary": "The Grand Finale &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LVENJdU1GSUwtczFSeUhZWHo0amI0dVF6aEQyZV85QkFfUi1uZktQVjFxYjNGWkhXYnV5anJnaU9xbFhXMHQzU3FlR2dJWnRIb3BNRTFnSQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-13T15:03:06+00:00",
+      "company": "DeepSeek",
+      "title": "Research & News - deepseek.com",
+      "summary": "Research & News &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5udThJSXludHZIcldaaVBud1hNVGlFS092QWxMVkZobVhMYXkwY0NtRUZJbmxxTENwb2Jvc0dIN0pPTl9mTGt5dA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-23T07:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "DeepSeek-V4 Preview: Entering the Era of Affordable Million-Token Context - deepseek.com",
+      "summary": "DeepSeek-V4 Preview: Entering the Era of Affordable Million-Token Context &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91c2VuR2tyZlNOQXJDUThUZm5XZ1FuQTBIX2k2Y2w3LWZ2dFFralBxNW55X0xfUE1uaEtfdjh3T2tsTndBY2pOMzFyb0F4THdvcHpUU2Zfdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-08-20T07:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "DeepSeek-V3.1 Release - deepseek.com",
+      "summary": "DeepSeek-V3.1 Release &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aRTc3ME5PYjBRRlFta0JTVzQ5ZnJIZ3p4RUJCQnBPbDVhSjZ4SkYtd0hnZ1kxUlFENU1rekdNQjVmYjRGRjhDREQ0Ukg2YlVpVHcxLXBfNEVGOGs?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-12-25T08:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "Introducing DeepSeek-V3 - deepseek.com",
+      "summary": "Introducing DeepSeek-V3 &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MTDlDSkJoZEx1dVFJcUg3NGNlSGVCVEQ2MVI3NE82OFdieGY3NDc3OVVnMUVwVTNhWkwwLXNrZ1lZYjBjZ0xUbEo4S0x5LVZ6MXhLWWd2dUo?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-29T07:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "Introducing DeepSeek-V3.2-Exp - deepseek.com",
+      "summary": "Introducing DeepSeek-V3.2-Exp &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90TElDbTV5OEh0VGJ1TDZabzRvSVpMNTY1TDhXR0RaMTdXTGttU0J3S3NfaURjRm5Ba3o3X0dsTW94RU5hUExJb0JpaXd1TFpsOWpYRA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-03-25T07:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "DeepSeek-V3-0324 Release - deepseek.com",
+      "summary": "DeepSeek-V3-0324 Release &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00VXA2djEyYVdydnUwNHpSSFcxODRjV3NwVXVjczhiNmFnSjgxVEZKYXNaUDltb1FpNm1LbnZvbmM1TVd3dllMZmsxSVlDZzdCZ0FF?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-22T07:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "DeepSeek-V3.1 is now DeepSeek-V3.1-Terminus - deepseek.com",
+      "summary": "DeepSeek-V3.1 is now DeepSeek-V3.1-Terminus &nbsp;&nbsp; deepseek.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yVmRwd2RnUEJKY0FhQTlMZ0pRNHc3dFJ0aTJDSnlSVUxnWllRTk5hRXZaczZ6TnpJMDhZNUxMS2k2QWVtVlVlTnpxX3hQczVYczk0U0Nmd1lDbEU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-04T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "nemotron-3-ultra-550b-a55b Model by NVIDIA - build.nvidia.com",
+      "summary": "nemotron-3-ultra-550b-a55b Model by NVIDIA &nbsp;&nbsp; build.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Lcm5YVzJDbE4tdGNJRDNQY1Rrc1B1RmxQVXFPaV9vQjRXbzZaQUo5Y2VhZlFkdzN3MlNocWhIQjZpN3pzWkVhUlNROFFDM1ZQUXVtVGVOMFl1Q2RBWW4xWnp0cVdUS2J4WlE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-11-04T20:38:36+00:00",
+      "company": "NVIDIA",
+      "title": "Models | Try NVIDIA NIM APIs - build.nvidia.com",
+      "summary": "Models | Try NVIDIA NIM APIs &nbsp;&nbsp; build.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCRmZiT2Q5Z0tjc3pQSDBoMzh3Q2hyYUYzTkk0ajE3TTlmbDNoMDZKaUhISktEbnhjVnhVdExFZno4N1VObkE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-21T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "llama-3.1-nemotron-70b-instruct Model by NVIDIA - build.nvidia.com",
+      "summary": "llama-3.1-nemotron-70b-instruct Model by NVIDIA &nbsp;&nbsp; build.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83bnd4cnV1SGRVVE9aU2F5N1hVWHlrNDJNbnVQTnk2MU9PMTRXNS0yckQzeFZsTUVCeHhLOG1yZDJDNjhJeVZhSjZ2dFpMSHg1OThpcThSby10VExPYUtsVDJKazllQ1hBWTJ5bkZRcFE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-03-22T03:52:37+00:00",
+      "company": "NVIDIA",
+      "title": "Try NVIDIA NIM APIs - build.nvidia.com",
+      "summary": "Try NVIDIA NIM APIs &nbsp;&nbsp; build.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA0MmpmS25INk9ucm5JZDRRMkJFcEFMb213X210X2kxR2dsanVNT0dNVFZzMWxGQTdFdFFhczRR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-15T22:59:03+00:00",
+      "company": "NVIDIA",
+      "title": "DGX Spark - build.nvidia.com",
+      "summary": "DGX Spark &nbsp;&nbsp; build.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9sdi1Cc2I1SWh1TWlwb2t4SzdXOVR0aGlhbGNZa3R3a3ZuQnVyelo0MkJCOGhvVE0wQXBtQmlDZHJsM0l4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-06-12T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "mistral-nemotron Model by Mistral AI - build.nvidia.com",
+      "summary": "mistral-nemotron Model by Mistral AI &nbsp;&nbsp; build.nvidia.com",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9neVowNkdxekRfdW5LWC1PYnR2M3dLV3pyeElfZ3lDQnlSQXlTTUlmaUFZM3JTbnZsM2QtS2RfcFdQVFh4TTMyNVNWcF9QNEcwWDZYakk1RnlhRXlVOUtESQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-04-08T07:00:00+00:00",
       "company": "Meta",
