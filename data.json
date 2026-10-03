@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T03:29:04.696603+00:00",
+  "generated_at": "2026-10-03T03:32:09.329868+00:00",
   "companies": [
     {
       "id": "openai",
@@ -526,6 +526,14 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-08-17T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "customer story - Sarvam AI",
+      "summary": "customer story &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rVFRtM2FKeUxhYWx5UkhHM1NhbFhXQlVjUkd5elZpN2FkWDM1NF9kdVBEa3lNZzloTkNZUDVxY2NXQUIyQW5zWm11RQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-09-09T07:00:00+00:00",
       "company": "DeepSeek",
