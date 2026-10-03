@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T03:32:09.329868+00:00",
+  "generated_at": "2026-10-03T16:14:56.249411+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,206 @@
     }
   ],
   "updates": [
+    {
+      "date": "2024-05-08T19:23:08+00:00",
+      "company": "OpenAI",
+      "title": "OpenAI News - openai.com",
+      "summary": "OpenAI News &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE8zUTd4bThXcXVyblpXVjZhTnBoSHIxY1dUYlRzZXZrR1ZQN1JrVE1iRU1ZbURNcFAzSm5VMQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-05-08T19:23:13+00:00",
+      "company": "OpenAI",
+      "title": "Research - openai.com",
+      "summary": "Research &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KMERKVDc1eG9fdkdqZ1htNTljTUdDVG1jNUhjZ3hZTGlncXdDZVBtSzFCN1lhc2RGOHJDMjZsTXlody1DeVhxUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-20T07:00:00+00:00",
+      "company": "OpenAI",
+      "title": "Intelligence Age - openai.com",
+      "summary": "Intelligence Age &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YeTJYdWFkajJ6dkIzQktvQkpuM2VqTURYU1BYTlNuRUFZSzg0VzZxTUJUVHU3a1I5RUR6N1EyOWlPREZMNXJ3QjRld19YSW5GbFE4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-10-30T19:36:46+00:00",
+      "company": "OpenAI",
+      "title": "Engineering - openai.com",
+      "summary": "Engineering &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yLWlsWUVka1duZXJTWFZ5czQ1T2M1QlVMSk1OVFlNZjhCMzZsUWhVTmk3SjUxX0tLZEJiSVdUZG82Vlh3ZlhXcm1aR2o?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-04T20:04:21+00:00",
+      "company": "OpenAI",
+      "title": "Product News and Updates - openai.com",
+      "summary": "Product News and Updates &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GV3M3MzRFLVJDTnhWWFRsczRDdTZXanNRenZ4TDNjWE5mWkgtZ1k2SWNUTzVWS0dILUViNnYwRm9QYjY5cE1ZRWtlLTZjNFRpb19R?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-04T20:32:24+00:00",
+      "company": "OpenAI",
+      "title": "Security - openai.com",
+      "summary": "Security &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xODdwVTZzb3BoRmtuSWtwMjVseHRpRkk4QnpCdTdoZUprb2RYckU5dERlTkJQcEJEVFBhdlN2THAzb3Y1T1M5NQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-04T20:32:24+00:00",
+      "company": "OpenAI",
+      "title": "Safety - openai.com",
+      "summary": "Safety &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42N1hpVW5hcHh4U3Q3YS1TczBJZGhKS1BFSW1RaDM2dUpRZzN5VS1HRmI4bzQ4NFByMVZUanhqNUZFLTFpVWZQY0Y1Y0V5NlB1WXZj?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-05T21:55:09+00:00",
+      "company": "OpenAI",
+      "title": "AI Adoption - openai.com",
+      "summary": "AI Adoption &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zb1NUaE5DS1d1XzQ4UFV4VHBTdkpueXFOX2dvUnRwaFNzRnhRSmdDOXNXZlhpZmpXVnF3bFpEa2IxTzFNZkZSUUZ4M2k?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-04T19:04:07+00:00",
+      "company": "OpenAI",
+      "title": "Recent news - openai.com",
+      "summary": "Recent news &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MdEZSYjlTZHpQelBIdWZzMTRTVVlhRWZsNHpFYkFZT1p1WFRkS2hkVkJOLW5zRlRsQnBSdlBscGUzelJuYnFwUkRndldEMmpzajdRS09qRWFDdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-10T22:36:34+00:00",
+      "company": "OpenAI",
+      "title": "Applied AI - openai.com",
+      "summary": "Applied AI &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YYnd5cXBpVmx5WmV3dGZsdmdjT0ZudnZlbGNseUdPbERfc0d4ek5UYTEzLVRBZEhNNENadzkzajVxT0lYM1lzSWJ0VQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-04T20:32:24+00:00",
+      "company": "OpenAI",
+      "title": "Global Affairs - openai.com",
+      "summary": "Global Affairs &nbsp;&nbsp; openai.com",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6SG1MWVM5LVh2WnM1Vk1YVFdPUHdXVEczTldRLTJjQkxYRGFqZlJ4dGsxaXU0MkJadXhocGdqTjktb09JX0M1WTZHYXFNSXFr?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-02T23:01:00+00:00",
+      "company": "Anthropic",
+      "title": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
+      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-01T15:19:00+00:00",
+      "company": "Anthropic",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience - Anthropic",
+      "summary": "Barclays scales Claude to upgrade operations and improve client experience &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWlNWRnpuZHlvMWUyZ3ZXanVqU1NjQ3FaaTlpVHlMaDhzdzdub25CMERKYThTYjN5RFFaSzBlZGJEbHNNMkpLN0M1Wkhfa2ltdFJZX0dpY3BJNndZLXhuRHN1Zw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-12T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "Shaping the future of AI interaction by reimagining the mouse pointer - Google DeepMind",
+      "summary": "Shaping the future of AI interaction by reimagining the mouse pointer &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRGNqaEY2Z1g3Z3lBaDBPT05Ra2V0aEVfQ0QtSVFLNjl4Qno4UWNfOWdRMjVKeFFPbUVncDdHamNuM0dhZTc5N2FpZTRJQUZ3NlE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-17T13:05:56+00:00",
+      "company": "Mistral AI",
+      "title": "Activate Studio and generate an API key - Mistral AI Documentation",
+      "summary": "Activate Studio and generate an API key &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjVuSTJYTlJNRWRhRngwNHU4RjgzYksxTER5Q0I4TW9RYjhHTWJFaVVOTERYLUhsbWctQkRjZjhvNFI2U2p0ZlBKZnVKVmduakhVLTh4NHlrTjdaSzZoOHdmdHlodmJ4cWFwN2pZX0gwYjk4aFV3R0t3N2tiNnZoZ2RRT19MOVlPUDVSajY5Q0hLZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-28T09:04:16+00:00",
+      "company": "Mistral AI",
+      "title": "Install the Vibe CLI and send your first prompt - Mistral AI Documentation",
+      "summary": "Install the Vibe CLI and send your first prompt &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CUHdKTXl0OXNVRndUd3lSdW1NSmFSeUNLaGxicnF3TG8xcGg5VzJxaTRXd3ozanpILThnSDZyZEZjSmQ2S1ZiV0hmcjc5SG5OZTdDTW1UUklrUEIzVnF5ckhUemlWWnpfRXF5VVFWRU5nZDJyYzZ1ejBBTjJMZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-20T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation - qwen.ai",
+      "summary": "Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation &nbsp;&nbsp; qwen.ai",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kOWZ2LWVwakZKT3V5VDFHMHh1OTJoRjFHUmxqLXNOUE56REhrNlFZVGZpVUphUDBoTmlKTXVRdmdib0RWOHF6a045YXJ0NjA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-23T06:19:39+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Ask Qwen, Know More - qwen.ai",
+      "summary": "Ask Qwen, Know More &nbsp;&nbsp; qwen.ai",
+      "url": "https://news.google.com/rss/articles/CBMiMkFVX3lxTFB3UzdLOXZJaF9yd1N4Znd4eURQX0hyREpDeUdLWWVYc2lKOVhkeDdfOGl3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-26T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency - qwen.ai",
+      "summary": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency &nbsp;&nbsp; qwen.ai",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGTldVY25ab1p3RHFITDllMkQtUXRqWnlpek50S2dlNHJDWU1GeVlxc0ctWkdEclM3QVJ1OVFYc3hXZlR2VmhlQ0NoU1BmZUJhRHFTMA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-19T13:45:51+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen - qwen.ai",
+      "summary": "Qwen &nbsp;&nbsp; qwen.ai",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1YNU8zWTRzck9hY0xIQWhPSFZ4V3NqQzhtbUtnajd4Vk5lbm1FLUNMYmpVUDROeDlaVWstQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-06T06:41:52+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Code with Qwen Code - qwen.ai",
+      "summary": "Code with Qwen Code &nbsp;&nbsp; qwen.ai",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE56X20ycnVUdHFyMlQ5aUhUXzVsa3p0OXQ5dW9Tc1pHQWhsNzAtVEhxem5QTW1zQkdvSVZzdg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-07-11T18:39:04+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Download Qwen - qwen.ai",
+      "summary": "Download Qwen &nbsp;&nbsp; qwen.ai",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBLZURYYWpRNHhvNUxxRG5UZ05VUnd4TzlJTlVPWGpyWFZXWVJ5dzdzMDlSbjlmTlFwQl8yag?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-18T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery. - qwen.ai",
+      "summary": "Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery. &nbsp;&nbsp; qwen.ai",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04U3dzQkFxSGZYVDZSWFFPZklvaWVxTDB6Z1NjaVNJUGRYSU96S0pObmpXVEZKR09wckFCQm5IdUpBZVM5N19iUXRjNnFJVVR0WjFMRQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-12-06T14:38:47+00:00",
+      "company": "Microsoft",
+      "title": "Tải xuống ứng dụng, trò chơi & nhiều hơn nữa cho PC chạy Windows của bạn - apps.microsoft.com",
+      "summary": "Tải xuống ứng dụng, trò chơi & nhiều hơn nữa cho PC chạy Windows của bạn &nbsp;&nbsp; apps.microsoft.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bkFYUkEyMFpydFR6Yk1JNmlONmgtblBQQnBDdnRKNk5BalpTUXdSdHJ1WVRXZDhlSVZ6amEyS0Z2S1FSVFZOOV9ZeVhqeGczVUxkM1F3RnBuZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-03-16T07:06:36+00:00",
+      "company": "Baidu",
+      "title": "文心一言 - 文心一言",
+      "summary": "文心一言 &nbsp;&nbsp; 文心一言",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE1zcGNtZk13bHNPNkdnOHNMNHplZkQyZnV5ZE9iUkN3bXR0TDVwRU5aaU4wMVg0LXhxbnl4cw?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-08-17T07:00:00+00:00",
       "company": "Indian AI ecosystem",
