@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T16:14:56.249411+00:00",
+  "generated_at": "2026-10-04T16:50:36.599877+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,230 @@
     }
   ],
   "updates": [
+    {
+      "date": "2025-02-04T19:04:07+00:00",
+      "company": "OpenAI",
+      "title": "Recent news - OpenAI",
+      "summary": "Recent news &nbsp;&nbsp; OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MdEZSYjlTZHpQelBIdWZzMTRTVVlhRWZsNHpFYkFZT1p1WFRkS2hkVkJOLW5zRlRsQnBSdlBscGUzelJuYnFwUkRndldEMmpzajdRS09qRWFDdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-11-13T08:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Disrupting an AI-orchestrated cyber espionage campaign - Anthropic",
+      "summary": "Disrupting an AI-orchestrated cyber espionage campaign &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5dFRNdGRsMmVuU1RsMmI2dUlFUG9fUVEweEJsQ0hZUTFTNnk5NVk1a3QzWG5jUFVnVFY2bGEwSnlhQWk3bHd0c0NnOXAyS0hMelA3MW9ZTldsOXJ5VURESHJYNWg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-03-14T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing Claude - Anthropic",
+      "summary": "Introducing Claude &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tYVlnN3MzNmp3ZXJDQzAwUUktTmFMNFY0V1JDZ3RKVlBjSnRFUHJuYmdJU1Q2NjlWd0I3YkVpbHdWR2g1VXhnWVdRRHZfT21zY29rYVR2dTdzbm1kVUE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-30T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Redeploying Claude Fable 5 - Anthropic",
+      "summary": "Redeploying Claude Fable 5 &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ESzFvR1hURE9ERWlNc0pNaFg3UEtxbGJza2FfQXItRWpGckpVTUpiU0lVN1VvZXBSVzZ3LVBobEJNQUhFOHBlcWVOSkFndkZfckF1T3l1eDI3N3NGYVFJ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-20T17:49:29+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemini 4 Argon - deepmind.google",
+      "summary": "Gemini 4 Argon &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSXdpSTJ6RVNZcE5tU2N5c0F3dVBQblBxR3MzTWhNeS1qZThfc25kMU9RNXo3M1FQRE9GV2ZITTJacTkzaHBJdVd2aXNFLVk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-02T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemini 3.8 Flash - Model Card - deepmind.google",
+      "summary": "Gemini 3.8 Flash - Model Card &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DN19NQzJ2TndhbEEwTm1IOXZkSG8yalRoNDJmMFBKWEZnYlVJQnAzcTZTcE9uT2F5Ym5LdGFHVTNYUEpHNVVYaFhUN1NPX2JjZWdVWVRFUGlWTV8wTjkwcUllaEtiOTJCVjBCNA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-10-26T07:44:37+00:00",
+      "company": "Google DeepMind",
+      "title": "Google DeepMind - deepmind.google",
+      "summary": "Google DeepMind &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFAyY3Fnc1BjZHVnWkxyZGRFcjhnMGl2MFRpVTJJcHlXVEttNXg5T1JHRXU2VTYtSWdjUktZYQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-20T17:49:47+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemma - deepmind.google",
+      "summary": "Gemma &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4tUm1mVU1Gb2haSWdGN2plTFh6aGJTUnJXMkQ5MWg3SFZSakJCcEh4Y3ZBUmM4SlhZcHFoSmt2SFA2bzl0MjE5dk5nRjQzUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-19T17:49:46+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemini Omni - deepmind.google",
+      "summary": "Gemini Omni &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOODFjQ09uNVVPQnp1ZFBfVkt2Uks2T1IyS1pkM2Fqb2R4NmNZYTV3b0g0ZWo0UnBNQ0o4aGFhYW55dlh4elA4dXJmWUExVkZpVHI3am1R?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-20T17:49:55+00:00",
+      "company": "Google DeepMind",
+      "title": "Veo 3.1 - deepmind.google",
+      "summary": "Veo 3.1 &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1BOWpsb25lakNNeko5aHFvbklQclJ5MlpobzUxb25HeDNKS09wcmsycXhYRDR0ZVlWc1JSZnVma2JiV2hPajFqMHA3Yw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-11-03T17:37:44+00:00",
+      "company": "Google DeepMind",
+      "title": "SynthID - deepmind.google",
+      "summary": "SynthID &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKdG5EaDBoNVh0NVRCRFJMUTc2aHZGclJjcktuNWplMm1WakFFVFB6U3J5NmZSSjZVT05XbEpDWE9reVFDUVFpVXY2eC1vcTVu?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-07-20T19:34:12+00:00",
+      "company": "Google DeepMind",
+      "title": "News - deepmind.google",
+      "summary": "News &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNTk03Wmt5MmFZYjYyVTRuTTBldzVoM2J5dnRnWTRESW91N0xQekJuTE1EbWRqZDZGcE5FanF5d2YzUzg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-12T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "Putting sign language AI into users’ hands - deepmind.google",
+      "summary": "Putting sign language AI into users’ hands &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KVXNiQ3JHU1hzMG1la1dyWTRUenFiaF9NelVKYUgxd2RteUhHQWlUSC1FdUtIeFVpTkl1TnAyclE0cUFQclFQVG45M0MtYnkyOXZaMDhaSjNhekV0ZGhWTE84ckdXM3NHcWJHX1MyWGVNTjJ0UktFRXVBZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-22T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "Strengthening our Frontier Safety Framework - deepmind.google",
+      "summary": "Strengthening our Frontier Safety Framework &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IYzhjcHliU0hJX1hWV0pVRG55M2YyNmtqWGNqYjZnNmdjaHhORHJydDZ4VVFaVFp2alRRb2lYNDZNcDc2NFhsVHdNQ0VvdEJxbHptX2JLcEYzR2dLeGgxOWViMHJHSlNLejhUNHdBSDJQVUN2U2QzQmhleUdnUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-12T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "Shaping the future of AI interaction by reimagining the mouse pointer - deepmind.google",
+      "summary": "Shaping the future of AI interaction by reimagining the mouse pointer &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRGNqaEY2Z1g3Z3lBaDBPT05Ra2V0aEVfQ0QtSVFLNjl4Qno4UWNfOWdRMjVKeFFPbUVncDdHamNuM0dhZTc5N2FpZTRJQUZ3NlE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-05-02T17:36:03+00:00",
+      "company": "Google DeepMind",
+      "title": "Careers at Google DeepMind - deepmind.google",
+      "summary": "Careers at Google DeepMind &nbsp;&nbsp; deepmind.google",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40RzFRTzAzbGREeXl4eUFBQ2x6UC1kQTgtZ2pzakQ0WmdpbXNUVGhBQVpfaWxnZnozTDFIQVMxQlFWSjYyWlc4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-29T07:00:00+00:00",
+      "company": "Meta",
+      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery - AI at Meta",
+      "summary": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T07:00:00+00:00",
+      "company": "xAI",
+      "title": "Introducing Grok Bot - xAI",
+      "summary": "Introducing Grok Bot &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T16:04:20+00:00",
+      "company": "Mistral AI",
+      "title": "OCR Processor | Mistral Docs - Mistral AI Documentation",
+      "summary": "OCR Processor | Mistral Docs &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZk5ZZ3NvUmdtaEV6VFlwNXpndlNZNG9KMWw4R0lRbEVBcE1GWXpHQ0xpWXd0Vk83TFh5Y080OG5JaFZPaDFkQWJ5ZEhtdEZPTVQ5RGVkcjZlcDNnR1h5OE4xb0pXcEFnUzYtdA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-12T06:51:27+00:00",
+      "company": "Mistral AI",
+      "title": "Resources - Mistral AI Documentation",
+      "summary": "Resources &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CeVloa1N3QVpkQXQxUXhnTkJReHhUTVljVUxwQVA2dnc4TWMtMEhxRUVqM09rdGVaRVNxbzFkRkZWbHFhZHFIWQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-01T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3.6-Plus: Towards Real World Agents - Qwen",
+      "summary": "Qwen3.6-Plus: Towards Real World Agents &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GVGpkSHR5enhrODdNTHdLOEk5VXF5WG0tQkRJOVF4bURYbGI3T1Z4azV1WnhEREItaV9Jem9MWDVXR2JCNVE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2014-04-16T20:51:41+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft Store - Download apps, games & more for your Windows PC - Microsoft Store",
+      "summary": "Microsoft Store - Download apps, games & more for your Windows PC &nbsp;&nbsp; Microsoft Store",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1LVHFFZ1lJR1VvRUhIRmdNQ0tIVFZZczEtX1U3a1pUbjI5Z0puRnJkeXoteGtfYVg3OHhxVmlKMU0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-04T14:41:01+00:00",
+      "company": "NVIDIA",
+      "title": "What are AI Agents? - NVIDIA",
+      "summary": "What are AI Agents? &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE10d3VmNlhYQnNockpiTVl0SlF0aFY0eG1tRnI5cU5jdDU2dEo0ekRKUUI1OU1BeDhiaDdaX3lTTVlUX1doa2tNX01ZNjV2TXI1U1pmVTNKLXA0d0ND?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-27T08:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon Nova understanding models available in Europe and Asia Pacific - Amazon Web Services (AWS)",
+      "summary": "Amazon Nova understanding models available in Europe and Asia Pacific &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFpJQVZhLW8yLXlVQjQ5NFhBZXJFUHlGT19KRUpLcXFNbjJQZU1mR3lfWGxqRzF1bVJUSUhHVHZTbFRYWlNSdVBXbFdIRDk3QjF2MmdweDhpWnY4T0hhU202SV9fQUxvcTNZLWJ1SVI3WFhwU2lOcy1sZGw1SjlHWkwyaDlibDlSMlBzaW53Wng0U3hLNk5IeXd2cFpsQ2VrOVk3RGZSUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-30T08:22:30+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Coding Agents | Coding agent for long-running work - Sarvam AI",
+      "summary": "Coding Agents | Coding agent for long-running work &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLcWYzSlZ6LXVSOGdhLVVxYTBXWnYwS21wb05DVFAteXZlRUd4SnZPTTc1V25FQmdIeGtWZ0swOGRlT2hfdUhRdjRvYjZ4WkhnaHEycXdRYw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-04T07:40:13+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Introduction - docs.sarvam.ai",
+      "summary": "Introduction &nbsp;&nbsp; docs.sarvam.ai",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04bWtsQ1dCU2xIUFlZNjk4aktaN2pLaVI2TG5oMjZoMHFjMXBmeGk1bUpzU3pVZXVFLUxWbWVDMFk5YXZaUDVyank0ejc3RkptZWN4NVJPMmlqTTA2RVE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-30T03:57:15+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Overview - docs.sarvam.ai",
+      "summary": "Overview &nbsp;&nbsp; docs.sarvam.ai",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDUzhpbWVzdzVhZXliSWdwRVRST0NlZkNIOXNIczJLR0UtUnhxc0RKSk80bVFYc2pvLXBoUnRwOWVEVkdQWndoUkVDSzFXRmtzd0dZMWdTTGo?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-15T08:11:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Welcome to Doc Agents - docs.sarvam.ai",
+      "summary": "Welcome to Doc Agents &nbsp;&nbsp; docs.sarvam.ai",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EMjBzd0h0UmlwMmhCZ3owcjdiODBPbGNORm5WLWNwQWxzblB3NkZKZjZab1l5UjlHQTJiOHpsR0pqbTF1d20zT1Y3SzdoOGNsMVRBUVhqLXlaRzZodmJna1VLYw?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2024-05-08T19:23:08+00:00",
       "company": "OpenAI",
