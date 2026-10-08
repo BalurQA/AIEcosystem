@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T18:56:02.645293+00:00",
+  "generated_at": "2026-10-08T18:49:53.689708+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,102 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-06-11T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing Claude Corps - Anthropic",
+      "summary": "Introducing Claude Corps &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-08T13:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Building on our commitment to American scientific discovery - Anthropic",
+      "summary": "Building on our commitment to American scientific discovery &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-04-05T07:00:00+00:00",
+      "company": "Meta",
+      "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
+      "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-03-10T17:54:54+00:00",
+      "company": "xAI",
+      "title": "News: Research, Product & Company Updates - xAI",
+      "summary": "News: Research, Product & Company Updates &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-06T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Z.ai GLM 5.2 - Mistral AI Documentation",
+      "summary": "Z.ai GLM 5.2 &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YTDBRUm8yeElwaEdHRGFXZkpOYTQ3ME9naXNPWkF4RDAtaDR5QVBjUk1neDlnak10alFyZUU2SGlJaUhBMUk5V1pYamY1WHNzTWdCeA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-10-20T19:44:54+00:00",
+      "company": "Mistral AI",
+      "title": "Chat - Mistral AI Documentation",
+      "summary": "Chat &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54SUpsQjJoZG1sSy0zdERiNGY4ZENPZzNCc295MmcwLXdMbms5UTF1dC02V3gwUjdpSklnRkg5SjJLa09NNlNxbGd0VFJoYnhtLUd3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-16T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral x Mozilla: Private, Multilingual AI Browsing - Mistral AI",
+      "summary": "Mistral x Mozilla: Private, Multilingual AI Browsing &nbsp;&nbsp; Mistral AI",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-02-04T08:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Voxtral Mini Transcribe Realtime - Mistral AI Documentation",
+      "summary": "Voxtral Mini Transcribe Realtime &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpTEtVVzJQNFVhUGwzOHAteDZMakxXSWlZVzN3MDAzTURmSmJXcEVTM2M4SU5nN3RqN1VyN3BEUWxwZnpUcU1uVWRSbXB6a3hQSW5ySG5tdEh3c3Y5MjB1M2JKeXo2QkVYckJhbkZsR29wYlVaWkRFYQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-07-30T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Codestral - Mistral AI Documentation",
+      "summary": "Codestral &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40bURQc1gwS01aWnJqdzhCRVVqQm1ic3RSb1l6NnJNeVBERUQ5YVhBbEN0VTYwUVdmeEFlVHZsU2lVWmh1X2wtYXlRYUtEVHI3SXNkOGlsVHZDUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam AI Quickstart Guide - Get Started in 5 Minutes - Sarvam API Docs",
+      "summary": "Sarvam AI Quickstart Guide - Get Started in 5 Minutes &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oSkNESl9DSjQxa3hIb3lSSWVDWldOcWJSbzhrN3FVMUNCem03TUo3cHJiZFJvMk9DRkg3Nm4wUy1pSlJzZ1ZzRFNWd09OdktiR1JYc3ZqenBWaFVJTlVhblY0bw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-21T09:29:28+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "ML Engineer (Training Infra), Foundational Models - Sarvam AI",
+      "summary": "ML Engineer (Training Infra), Foundational Models &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYRTNCM28tYk1JbVRWeE1mZGRZbFJtVnBZbTZsN0I0dFpmdzFzbXdNbDl6RUE0OVFqa2ZrdlZ1RVlHQk5jMmRIMjlTZ2poajhrMG9IMi1TekdZdDVjU3VScUlXTk1kcmU1ekZUZHpMcUtlN2g0VW9ONzUyQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-30T03:57:15+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Overview - Sarvam AI",
+      "summary": "Overview &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDUzhpbWVzdzVhZXliSWdwRVRST0NlZkNIOXNIczJLR0UtUnhxc0RKSk80bVFYc2pvLXBoUnRwOWVEVkdQWndoUkVDSzFXRmtzd0dZMWdTTGo?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-10-06T19:00:00+00:00",
       "company": "Anthropic",
