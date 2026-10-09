@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T18:49:53.689708+00:00",
+  "generated_at": "2026-10-09T18:20:17.878304+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,110 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-08T17:00:00+00:00",
+      "company": "Anthropic",
+      "title": "2026 Usage Policy update - Anthropic",
+      "summary": "2026 Usage Policy update &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-11T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
+      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-01T21:40:24+00:00",
+      "company": "xAI",
+      "title": "grok-imagine-video-1.5-lite - docs.x.ai",
+      "summary": "grok-imagine-video-1.5-lite &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bc2RaSmJEVnNoakJDZWs1QXk2b0tGRDdNWFZSQndFcEcwU29CMExZMTZZZU9PcHVZb3BPdXhZMXdaa1JRMTQtR2ZLY0phc2pRMnIydzNZWEJoUHVLNEk1SGsyWGtkbXg5Y0dYdEFKckk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-11T07:00:00+00:00",
+      "company": "xAI",
+      "title": "Grok Bot 101 - xAI",
+      "summary": "Grok Bot 101 &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YcGY3eTI5b29XNmlYNFUzTTRlUlByZWNUVTVSc294eTJEU2tyRUhZYzVlOWx3TlhOLUJqNDhVcTRkX1Q2eDdycS1adWk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-02T08:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Ministral 3 8B - Mistral AI Documentation",
+      "summary": "Ministral 3 8B &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45ZVRmRWNnSm5EWktaSW1wZTJIaFQzb1I0bXRYXzBTNUdMV1pMTUF1Y1lZVXQ3anhJNTM1UnRZbDhFV3FyZ3Ewb2JXaHA2NW5aLThxOTN4WDlHeGhoU2tETw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T16:04:19+00:00",
+      "company": "Mistral AI",
+      "title": "Prompting - Mistral AI Documentation",
+      "summary": "Prompting &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdVBuNWJmc205cEdMdDV3cjg4SzRwZHpxeVpfV3E3RnpEcFBlTEQtblpUc3FaOUFONms4UElEWWZLYl9Bd3lzbUtEQndCakFEV0pCNXJ3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-29T13:46:01+00:00",
+      "company": "Mistral AI",
+      "title": "Usage and limits - Mistral AI Documentation",
+      "summary": "Usage and limits &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Kc281aDl6b05vbDYzNWtZNTRZeURWSDhsd3hPX1Vib3k0aGNTaG1XLWYtVlJLRDd2YkhDLU5MaGhvQmFxYzAtLWRUZFJycGJycV8tb3pqbWJ0b1YxcGh2OXhTWldGaXc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-21T08:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation! - Qwen",
+      "summary": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation! &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PenVrN0lrRC12VUNGQTN5bUZ6SVJoMjE2NXMtTG9EdG43bUY3QkYxS29YeU5zcmhFblJCN1R5SWJzc3pYclQyRTU3WXhuQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-15T08:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Nemotron 3 Family of Models - NVIDIA",
+      "summary": "NVIDIA Nemotron 3 Family of Models &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByVHMzUFRLemZXZGFKUkp2ZDIySDNMZ184bzdZamlGOWxwdHdKZnVwUGNnZEc0LVg3THVQbFpMRlJwUjYtcmhtQWM4aGJYUlVIVWF6eWpZQ3NXeU42SURYX0JBdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-04-30T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation - Amazon Web Services (AWS)",
+      "summary": "Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTFVjem9WbGFJVktmd3dDSDE2UHk0MzRxOE9IWWJXOG5uUUtSY1lBRTVwTE12SENENEppbGtmNTQwS3hrSnNJQjRfZDdFM2ViZU5UcU5yRFpHYnlQLVdCaXNDUWtCYmsxeG5ZY1RpWDhQb1czenp0XzRRT0xXNXIwdWJkc0QyZFNTdHkxZnZXcXV6THl5Q0ZoNGU3alFjY2xscHlDZlJEdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Build Your First Voice Agent using LiveKit - Sarvam API Docs",
+      "summary": "Build Your First Voice Agent using LiveKit &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81cmtfWGdOeGd2TkNTNjFPRWpmRXJKR0dxVzNWN2tSR2E1b1l0V0NsemMwRHl0N002czdtTHZfS2VKQk9vRVpPc25raDF5N21NVWh5OWp5b2dRcG1zRUVmS0VZQnkzQWJsYkpCQVkyUlpSYnJfa2RxTFF3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T10:43:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "REST | Sarvam API Docs - Sarvam API Docs",
+      "summary": "REST | Sarvam API Docs &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BUFVtNFUzRlF4ektpWHcxV0VrR0luSTEtOXpFbWxVSVpFbHFPYzAtYUJWVlVxY2pnbjNrNi1JaVBWenl0SnBJajZ5R1J6VTduY1Z5ZnliSWQwVUJWWk5XWUFIUnR0OGVjTVRIcGZUTQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:46:12+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Welcome to Content Studio - Sarvam API Docs",
+      "summary": "Welcome to Content Studio &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BUE1JNGt1TkdMVk5Fd0xvS3pjeGxVdzFXRVk0Q3NIYjF5T3lfaDF4NXJVWjhqYmx2QlNiaElGQnBOZ2ltVjlJQ0RBNU1lNWE0cUJVaEx5M3pUajQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-06-11T07:00:00+00:00",
       "company": "Anthropic",
