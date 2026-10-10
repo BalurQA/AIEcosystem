@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:20:17.878304+00:00",
+  "generated_at": "2026-10-10T17:19:52.240657+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,94 @@
     }
   ],
   "updates": [
+    {
+      "date": "2025-09-04T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Updating sales restrictions for unsupported regions - Anthropic",
+      "summary": "Updating sales restrictions for unsupported regions &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMlh5ZjB0TmpYeU1mZGZnMkd4a2MwdUVxaFNuT1lqTERhdU0xb2V5SkRKSW9rSlVac2tzRENLR1J0VlZPZUVEUHNoR2E5UjVzcGYxMGFwRi1YV2VVSkRxSFVUM3ZHZ2g2b0QxeVc3MWhTU0VDUjRHSW00NW81emhiSncxRHlqUHNreG9NeA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-08-15T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Usage Policy update - Anthropic",
+      "summary": "Usage Policy update &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzMHdoR1A0ZmxtMW1TRmVkUmNqY2VwdnJSLWd4MUZjdmg3SkxXMHNYMmxCbjR3Y0EwekZaZGdKcS1TeHUxZ2R6QUpxN2VTS0dkYllORFV4T3ZCWUwxdnA0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-08T09:04:16+00:00",
+      "company": "Anthropic",
+      "title": "Introducing the Anthropic Cyber Mission - Anthropic",
+      "summary": "Introducing the Anthropic Cyber Mission &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-22T08:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Claude's new constitution - Anthropic",
+      "summary": "Claude's new constitution &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2SEFxVlhIUGhqcGNaYkcxTDVEeGs3c2tVU2Y5QUR2MXY1dnpGWDJ0dVZDYjMyci1NYm9oZVRxNDVlM2syUVlIdE80U01ac2FaVmkxaGxnSHVJVnR4OGVnTFM3MFo?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T16:04:18+00:00",
+      "company": "Mistral AI",
+      "title": "Labs - Mistral AI Documentation",
+      "summary": "Labs &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zWEFHWkVTTFRUb0dQcllSSU5ObVJIYWo5cnFrdVgzYjNSNHRDNm1FMF83dWlWSjJYZGRCM0VIbi1McVlPSTQ3TzJYajd0X00?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-28T09:04:16+00:00",
+      "company": "Mistral AI",
+      "title": "Vibe Code - Mistral AI Documentation",
+      "summary": "Vibe Code &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11VWNRVXpYUkhSZWRiQmxlcE5WSzI3aWxGS1JXN0YybmkzRVhMM0xHdmhIR2UxRW9PeUgyMEU1ZV9XOU5uOTd5LUxHd3FOQndTSzdnaA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-12T16:37:51+00:00",
+      "company": "Microsoft",
+      "title": "View protected PDFs using Microsoft Edge on Windows or Mac - Microsoft Support",
+      "summary": "View protected PDFs using Microsoft Edge on Windows or Mac &nbsp;&nbsp; Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVlyRjMzcTViMkYxN3A1TlM4MkR5dnNtdnZOdGtXbFVfMGNCeUs3dFhJWEtmdlBETkFQaTVOT1B4bDlPZjRFaXJfcE5jZGdpWC1TWUd1bFVkY1BHN0FPSHlxdGxfMWI4N0FzM0wxVnAtUzdOeGllSkl1cUxtclNjWmo3d2g5NTRKMnRBc2JJLUo4T1p5MkptbEE4WXQwRXBt?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2015-08-27T22:53:50+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft Azure Blog - Microsoft Azure",
+      "summary": "Microsoft Azure Blog &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96VVZFcDE2TXI0ZVl1V0dkaHRjYWt3SFlBU044VzZwNHhseGl5TU1ZOS16aHhSSDJlWHhNeVg4OEdZd3dKaXBEa2FFN3MyeHpU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-05-09T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Exploring Microsoft's Phi-3 Family of Small Language Models (SLMs) with Azure AI - Microsoft Community Hub",
+      "summary": "Exploring Microsoft's Phi-3 Family of Small Language Models (SLMs) with Azure AI &nbsp;&nbsp; Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemhQbWZPVHBScFg5cHlhbk50Z3JOazdYcjh5VVd1ZFU3QUZ2cHY1cllHMWx5cHhfUVZneWhkQ3ZVUnp1bFV2MGxJci1NVkhpeC1mU1d0dnFJczZwellPT1paZTl1RnZPT29RMjlGTm9scUxCcnZ6MVpDb0ZOWktOTXNIS1NoTHBpbkFZemJkSWMyNjdGR0hHSWswSEF1NFNDZFpNZnVIYncyWGg2ZGpQMmRNNjUyeTV1NktHOGtLNi10YTVrbkpZVGFTdHZyaDF3QUVfSlhfZE9XNlFMb3ZsMVF3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-07-16T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Announcing on-demand deployment for custom Amazon Nova models in Amazon Bedrock - Amazon Web Services (AWS)",
+      "summary": "Announcing on-demand deployment for custom Amazon Nova models in Amazon Bedrock &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnY1elNNYW5Pb1hZVmVtMHlzSFRkY2w1elpBX0tTTy14N05wcHF1RlpSRENtN3RGOF9nZVlxaXJpRUxibkQwQ2tfQ3gydUFXRm5vRzk0TmU2X0lrbzE4bkRCaURXOE52eW9OVVRRYVd4VWpuU3ZBdUZ3eGVpR2ZreTktQzFZd0FNTmN2ajdsMnBjSnBzM2tYb1U0VHJQSm1M?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-28T07:00:00+00:00",
+      "company": "Databricks",
+      "title": "All - Databricks",
+      "summary": "All &nbsp;&nbsp; Databricks",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CUU5Ba3dhd0RWV2FvNGpKUWxuYkxKX1ExSExXUS0zd0kyQXUyd25tMjNLTGxLQ3JIdjhZeGtFLVlyZ28xbFhMNFpTNUZPQXlEbi1XX093RQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-10-08T17:00:00+00:00",
       "company": "Anthropic",
