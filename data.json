@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T17:19:52.240657+00:00",
+  "generated_at": "2026-10-11T17:40:41.107966+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,150 @@
     }
   ],
   "updates": [
+    {
+      "date": "2025-05-20T17:49:35+00:00",
+      "company": "Google DeepMind",
+      "title": "WeatherNext 3 - Google DeepMind",
+      "summary": "WeatherNext 3 &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiQVdHZDhmeWIxclMwM1VlLW1QZUxPdVF5bWkyMU9LTkdhYnA5QkZndG95amVDUmgtN09XMkdEUjlac3dvWktqQVJybE5Na0lSR3FZaHlpMA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-07-13T18:30:53+00:00",
+      "company": "Meta",
+      "title": "AI at Meta Blog - AI at Meta",
+      "summary": "AI at Meta Blog &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9udkRtUmZBbUM0WklTOGM1ZkRXampxRkRYTkVsX0lrMHJud1ZORWoxWEs4b18yQjlTOWZmZlI1NHlKXzdDTEFR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-21T07:00:00+00:00",
+      "company": "xAI",
+      "title": "Introducing Grok 4.7 | SpaceXSI - xAI",
+      "summary": "Introducing Grok 4.7 | SpaceXSI &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-01T21:40:24+00:00",
+      "company": "xAI",
+      "title": "Grok Imagine Video 1.5 Lite - docs.x.ai",
+      "summary": "Grok Imagine Video 1.5 Lite &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bc2RaSmJEVnNoakJDZWs1QXk2b0tGRDdNWFZSQndFcEcwU29CMExZMTZZZU9PcHVZb3BPdXhZMXdaa1JRMTQtR2ZLY0phc2pRMnIydzNZWEJoUHVLNEk1SGsyWGtkbXg5Y0dYdEFKckk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2014-06-04T23:30:35+00:00",
+      "company": "xAI",
+      "title": "SpaceXSI — Creators of Grok, the AI Chatbot - xAI",
+      "summary": "SpaceXSI — Creators of Grok, the AI Chatbot &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiLkFVX3lxTE0wb0lPU05aVml2aGk5UzJSNDJuQWhNejliaUdncHJycHFpY2VqdEE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-05-17T14:29:39+00:00",
+      "company": "xAI",
+      "title": "Grok — Useful AI Chatbot with Voice & Image Generation | SpaceXSI - xAI",
+      "summary": "Grok — Useful AI Chatbot with Voice & Image Generation | SpaceXSI &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFBodGt3WDU0aGZOajhINEljNmFFT21XWVNVT0xXNzZZZU4zNzFDd25WNlR2WQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2016-08-21T20:42:20+00:00",
+      "company": "xAI",
+      "title": "Pricing: Compare Grok Plans | SpaceXSI - xAI",
+      "summary": "Pricing: Compare Grok Plans | SpaceXSI &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9VSHpxdDZjR0V1RTRwNFZWenRmellGQ3ZyY0N2Z0FnckFta2l4aDAyOHgxT2o3Mm8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-02-05T00:46:52+00:00",
+      "company": "xAI",
+      "title": "Grok API Documentation | SpaceXSI Docs - docs.x.ai",
+      "summary": "Grok API Documentation | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5ISEtPSFFmY1dKRzBoTWhTbllpSmhXX0lWVXZ5cS1WSXI0NmRPR0twM2NqQVpTbjA1Q1hOVTMzNA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-11-04T12:10:12+00:00",
+      "company": "xAI",
+      "title": "SpaceXSI API: Grok Models, API Keys & Pricing - xAI",
+      "summary": "SpaceXSI API: Grok Models, API Keys & Pricing &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiMkFVX3lxTE4weXY0VTFSQVNhTnphMjlIV05wRGpWZjRPc1JFdC00bmE0UE5xWHJHUzVR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-14T18:34:39+00:00",
+      "company": "xAI",
+      "title": "Grok Build: SpaceXSI's Coding Agent | SpaceXSI Docs - docs.x.ai",
+      "summary": "Grok Build: SpaceXSI's Coding Agent | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxMFBVem0yRzBISWVLUXhHWEpFVjRQNGhvc3VESnExbU90MUZDbmJpLWpGOUFVMkVPSXFJR3c4cVlRdjY5R29F?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-03-10T17:54:54+00:00",
+      "company": "xAI",
+      "title": "News: Research, Product & Company Updates | SpaceXSI - xAI",
+      "summary": "News: Research, Product & Company Updates | SpaceXSI &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-17T13:06:01+00:00",
+      "company": "Mistral AI",
+      "title": "Send your first API request - Mistral AI Documentation",
+      "summary": "Send your first API request &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2R0THN2bFI4X2MyVTNLZzYtaTBZYnVQYS1STnM5NXdTeHV2WGFmUGVFMHFQQ0hpVG5OS194bUFuU3MxMG1fS0FjdFp6a2RUcWxZR2trbVFLMzdqX1lqVHlGc0dHNFduZU82dmY1RXpiYXY0YV96MmZpSUlvQjJXZk53Q0tzZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2006-03-15T19:51:55+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps - Microsoft",
+      "summary": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps &nbsp;&nbsp; Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB4b2lGQksyM3BQOGhuT0Fka1docUgzU3VHOFZBU01ldEkwWkRaclNFUmNYc3BWNHJKOS1qZ1BoYw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-15T01:21:06+00:00",
+      "company": "Microsoft",
+      "title": "Open encrypted and protected messages - Microsoft Support",
+      "summary": "Open encrypted and protected messages &nbsp;&nbsp; Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTDdUZnJFS3FzZ00ycTAwOXBQR2tWN1JpeG51d19ybzdEbEN0ZDBqb2J6d2d6UzVVbTNwSkdiQ004Z1YydndNMDVXMzRTY0l2T01qZHk2aExmLW0wZUdUWkM2eG9XbktaZjF0ZW1CbUpTRngybzB3UzBsZzFTRTJNbWFGNEM0MEstQWlpRE9BZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-16T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Copilot Cowork is now generally available - Microsoft",
+      "summary": "Copilot Cowork is now generally available &nbsp;&nbsp; Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkthNkFrbGZxSGVtMXJUb2FLck9kaWotLXNzU01VMDZ2R2c4NTVSM1FrYVhpMjJndWIzakJZaWVMV2FodXN3SlczTUFCWmRlRGtJdXpRQ3hIOWlQZU5HdGgwYVBaSEotZ2ZHQ2gwX2dJSTNWWThrOEcwZFRXc0kxZ1BhYXhBMzlvblVhZjE2eWk2aWFHaUY5MElDQnhhWWs?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2018-07-11T19:14:33+00:00",
+      "company": "NVIDIA",
+      "title": "Like No Place You’ve Ever Worked - NVIDIA",
+      "summary": "Like No Place You’ve Ever Worked &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVDl4Tmh0Yk8xcWlqTjdFVENodzltVjI1T2RKUGlUaHJkR3M3LVZLZWJNRjJnQnVkOUJ3MzhncUpVMmVYa21sNnRfaVNLWlFNVXZNRW1rVnIwc0VXMy00?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2019-08-07T18:18:15+00:00",
+      "company": "NVIDIA",
+      "title": "Access Customer Support - NVIDIA",
+      "summary": "Access Customer Support &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCR2VBcEhyZi03cFo1bXdLQUR5TElRUVdhZVFoZUlxdmdvMjVhUGx4U0s3eFFDS3RYRmlmcTNNWHRLcW5vMlp3VUFFcnh2dw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2019-04-26T15:57:48+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA University Recruiting and Early-Talent Programs - NVIDIA",
+      "summary": "NVIDIA University Recruiting and Early-Talent Programs &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WaWl3VTkwdnRaa2VqaExYc0pGeXFqeVJmN1RJcWZNQmtYeDdpVE5JYXpvUUZNU1dIemVHdTd4ZHVkaFd5ZldKUEl1dmFzRGtISkFsTC16eEkwR0MtWlZEU2hMNDBSWGRIVndqY3VzYmxBOTg4XzhrdkR1SzE?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2025-09-04T07:00:00+00:00",
       "company": "Anthropic",
