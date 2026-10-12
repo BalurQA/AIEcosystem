@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T17:40:41.107966+00:00",
+  "generated_at": "2026-10-12T21:15:16.653755+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,86 @@
     }
   ],
   "updates": [
+    {
+      "date": "2024-05-23T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Golden Gate Claude - Anthropic",
+      "summary": "Golden Gate Claude &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hOWFKdjVfSGpJMkdIT3d2Xy1FM3JUaG1vczF2cWFMVGhEcEhEZUVQUHpnb0hqVzdBN0JCcC1kZmNFUEdobG4wUHdPekVRMDJPeUNkakIxNFpGZ2YxZEE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-20T17:49:33+00:00",
+      "company": "Google DeepMind",
+      "title": "AlphaFold - Google DeepMind",
+      "summary": "AlphaFold &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLNlY5RF9yX2pfb0h5cUdGanU5ckVzWE9QQVBGNDM4WjVyRlBTcWt2bkxva1pnQVIyT3FTOG9JcTRVNHBwZ250aVBkbTBDdzlrSVZWZA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2014-06-04T23:30:35+00:00",
+      "company": "xAI",
+      "title": "SpaceXSI - xAI",
+      "summary": "SpaceXSI &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiLkFVX3lxTE0wb0lPU05aVml2aGk5UzJSNDJuQWhNejliaUdncHJycHFpY2VqdEE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-14T02:12:37+00:00",
+      "company": "Microsoft",
+      "title": "Azure OpenAI Service - Pricing - Microsoft Azure",
+      "summary": "Azure OpenAI Service - Pricing &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hVTg1cHp5VXAybUc4R1B1bEFIQjVTSDVKU2w5bzYtTkZvWkk4Nm5UNXZGWTNFSFUzaXJjM2hyWS00ZUJoeGNoN3NEUEJRSHNZaTJERUZpVFB5Q3lTQVJGcUdPMndkeXNkRGhhdE9yZk0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2017-02-12T11:27:46+00:00",
+      "company": "Microsoft",
+      "title": "Service Trust Portal Home Page - Microsoft Service Trust Portal",
+      "summary": "Service Trust Portal Home Page &nbsp;&nbsp; Microsoft Service Trust Portal",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VZXZEOXI0anJjU3hQOTU3ZHRhUmxjYmhBcGpNaEx6ZG1OVTYwMGlzM0hqQk1wWUFxYnQ0TmxlaGRRZ0ZwZVBOYkdNYw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-15T08:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice - NVIDIA ADLR - NVIDIA",
+      "summary": "NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice - NVIDIA ADLR &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ucmNtT0lCVXk2NUNjWm5laDUzOXM2OXhPRkRrenNPekJwR1FHWEJZRXFuNElQZ1FYZmRKRGRMVXlaZC0wSHg1eEVOclZlM3RzV19MeXR1bkNVSHRIRDlZ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-03-11T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon Nova Creative Models now available in Europe - Amazon Web Services",
+      "summary": "Amazon Nova Creative Models now available in Europe &nbsp;&nbsp; Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFlKMDFTSHdQWFpIRlRDcG5ESy1QYXBJWjFUeGprZGdYdFNKM0pIZnFDYjh0LVpFRkRIamNwWUxVTUE5SmprYkU2WVZpTFJuLWVZZ2lMdGN1Ymt5WHdKcnZ5dHBaVXlNQ1JEQzB0b1BvZ1JaNTYzMDYxY3hGVS03NVg2bGtEWEFmTWN0V2ZZdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-11-04T14:57:46+00:00",
+      "company": "IBM",
+      "title": "What's New - IBM",
+      "summary": "What's New &nbsp;&nbsp; IBM",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1XMmQ4a19nNVVwN01LSnQwLW85OGwwN2pmUkpaR00xcHNZaFEwWXROZ1pYMllyZ1h4Y1g0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-12T09:20:38+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam Voice Agents Overview: Languages, Channels, Use Cases - Sarvam AI",
+      "summary": "Sarvam Voice Agents Overview: Languages, Channels, Use Cases &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWQkJCaW9QUlQtczNuRHE4MXM3YWNlaU01aXRtYjd0aTYwTmczU3lra012T3JDZ1BlZHVDdzRoS1NUcjdKVGVpX1ZBY214OUphbXQ4WWtMcw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-12T07:28:01+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Voice Agents pricing: per-minute rates in INR | Sarvam - Sarvam AI",
+      "summary": "Voice Agents pricing: per-minute rates in INR | Sarvam &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcURabmNFS0FLN3I0UEl6VHNRMGJrZlhhTUh6OV9pZklibTNJQTBzeW0wd3pRWnZ6MzZTbzZHLWM0cU1fQmk0ZThZODVvRmRXY2xWM1RRVEJkNXZfaDdtdA?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2025-05-20T17:49:35+00:00",
       "company": "Google DeepMind",
