@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T21:15:16.653755+00:00",
+  "generated_at": "2026-10-13T19:14:10.071151+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,142 @@
     }
   ],
   "updates": [
+    {
+      "date": "2024-11-25T08:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing the Model Context Protocol - Anthropic",
+      "summary": "Introducing the Model Context Protocol &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zUFVpaHVJY2ozLU50SC1PNHFvX19JbXJ6bWV4VTUzTmZsTktVWjZPbV9VMGFGRml6Q1E4aXFLNW5RWEhsSzltUXRmRWd5Q2FBdm5sdXh6bUNnU0FnOE9OLTJZVQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-19T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Widening the conversation on frontier AI - Anthropic",
+      "summary": "Widening the conversation on frontier AI &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWZnZ4WlRmdGxkTGhKV2RscUp3NlZtbWZIaF9MdGQ0M0doV09TaVQ5VEhnMXE2WmpFSFlQMnBSdlJDak5EdjRhRDNja2s3WUxIcG03X29ORjl6Tmh4cFFHNjJoMzl0Zw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-12T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 - Anthropic",
+      "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zenRuR1poOHZpSXNMMjRsVXBlelkwNWlNdjM0TEx2b3hYS0F3UWtDUUVFN0NVZUFtWlRrT1NTZlNLVkpZVERwbVBVOWxKR1NLNEdGNUV0S3E4eWlBWXBB?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-13T17:09:10+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemini 4 Argon - Model Card - Google DeepMind",
+      "summary": "Gemini 4 Argon - Model Card &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZk80VnBBMFNLcnJrZDdYMVYwaVBEWi1QcmNjQm1RNUhUNHBycXAtdHJ0M1h0X3FJbTRLNTVTa3NmOFJQNjM4amtzRjZYb3JzTEU4VTdVcHhLc25IUDV5b2I4eVR4X1Fzc3c?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2016-08-21T20:42:20+00:00",
+      "company": "xAI",
+      "title": "Pricing: Compare Plans | SpaceXSI - xAI",
+      "summary": "Pricing: Compare Plans | SpaceXSI &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9VSHpxdDZjR0V1RTRwNFZWenRmellGQ3ZyY0N2Z0FnckFta2l4aDAyOHgxT2o3Mm8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-10-12T00:30:37+00:00",
+      "company": "xAI",
+      "title": "SpaceXSI Console — Grok API & Developer Tools - xAI",
+      "summary": "SpaceXSI Console — Grok API & Developer Tools &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFBlWGNBQk04UDZUZXJyM2g0UWJBNzZjWVJoYlRhU213NjBnYzYtQ1pYcExweFdVQ2pX?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-07T07:00:00+00:00",
+      "company": "xAI",
+      "title": "Grok Bot | SpaceXSI Docs - docs.x.ai",
+      "summary": "Grok Bot | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBQdEt5X1BNRWFaYzQxQkgyV1R4ZnRkckM4VFAwQ0E2dUUyR19jSGRJRWUzaXJRY2Q4aXdkVTNTb0FWUTRfUW5JOFVrYw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-23T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral OCR 4 : SOTA OCR for Document Intelligence - Mistral AI",
+      "summary": "Mistral OCR 4 : SOTA OCR for Document Intelligence &nbsp;&nbsp; Mistral AI",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB6SDNOOTVGUDBZRzhJZm9WRGk2N1pPd1c3TFRpb2IzMzRqc2d0RjdjTGc5c0F6YjRORE84VXdlX0docWFp?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2017-02-12T11:27:46+00:00",
+      "company": "Microsoft",
+      "title": "Service Trust Portal - Microsoft Service Trust Portal",
+      "summary": "Service Trust Portal &nbsp;&nbsp; Microsoft Service Trust Portal",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VZXZEOXI0anJjU3hQOTU3ZHRhUmxjYmhBcGpNaEx6ZG1OVTYwMGlzM0hqQk1wWUFxYnQ0TmxlaGRRZ0ZwZVBOYkdNYw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-13T12:08:30+00:00",
+      "company": "NVIDIA",
+      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark - NVIDIA Blog",
+      "summary": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YMXVMb1E3Vk9kaDQwSXlQdElpejdWTGpSS1I2aFJ2aFpiTXhGVEM1ZXZxSDhzR2c5ZV9tOGwyRnlERGNLNExWeTJPTXdTMDVzSy1wcWIyMmZaSEpvY05KZDM3SnRSRUdJN0luOU1NYmJGbThOSzlzVGNhM3dqY0E?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-11T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "nemotron-3-super-120b-a12b Model by NVIDIA - NVIDIA",
+      "summary": "nemotron-3-super-120b-a12b Model by NVIDIA &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vQ1lHdkk3Q0xTQzQ4eFBOd3ZLZWFfc21jZ2lXQ2h6Y2xLdTlQN0RCdnhnNVpOUkk0dWUxNnRiT244ZWFtcGwtbmpSMWJoTHhPb3lfVXRBeWM1REFOZF9oN1ZXZV9Ob1dTaEk3VVpLUUlUeWJTaVpyeVdzb2taVG8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-13T05:03:33+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Announces New Investments in France’s Startups - NVIDIA Blog",
+      "summary": "NVIDIA Announces New Investments in France’s Startups &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTRGZFbUlVZjJzY1M2ZGVVc3hubnlhYmNTTlJCWk5xdWJBeENiZzN2RGRfZ2U5d21tMjNVV0xKcFFSMm5BWDFydDhjT0o1NFBGQlc5aWlEcG5kMUlNY1pNS2J1UGhJaGlwbmhkaTFnYmtoNEE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-01T04:52:56+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA RTX Spark — Slim Laptops & Small Desktops - NVIDIA",
+      "summary": "NVIDIA RTX Spark — Slim Laptops & Small Desktops &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yaXJJcHZocV9WMWdZbGVkT3ZGZ1M3ZlZaaENMZ2llRUlDRncyaWhpZkJqT3VLNFotR3FMaXN5QnJlbmRlTm1sbFF2VkhDYjZxR0pXb0R2Yk1hS2o3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-21T05:29:26+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Indus by Sarvam - Indus by Sarvam AI",
+      "summary": "Indus by Sarvam &nbsp;&nbsp; Indus by Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9jZTJmQVVDRHNTVlJkZjRzQkdEQlZkUUowTzJWaTdkMGMwZjJxOEJHOVUwVk1ObE9EU3ZuUw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Voices - Sarvam API Docs",
+      "summary": "Voices &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lbjRBbGxoUHJoVVplaUNyWmh0UDlDNHNxQ1Btb3lTVkxhcmpnb3pJVmhHblV1dTZsNkVobnFzSXN2ZnJyd2JtdzZucHk5Yzd3cnJUWnBzaGhzSWt5a2xrWmZXSlBsT243a25RZEJ0RGVTVFBUeE5fYQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-18T15:26:28+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Open-Weight Models - Sarvam API Docs",
+      "summary": "Open-Weight Models &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tdjg3NTZEUUNQV3BqdVQ4aXM0UVZ6cFA2Ymh0LW5jUWJpc3JiaUZvc3BFTERsb0FkV0p5S0pFYzFab1Q3dlNUNlpqN213YkpGU29PRF9XMWs5ZEhmMHRGUmRibUdSNXExblBXQw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-13T09:04:29+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Software Engineer - Model API Platform - Sarvam AI",
+      "summary": "Software Engineer - Model API Platform &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00aVBMU1hRbzRUU2ZrUUdkSlNwWk9ucHcyTkllRUJNRmVSR3l6QlQwYUwyUVZGYmllNjJiVXdfSE5hb2hTNXFsS09Ra0QxcHQydFdRNU9ZR1R6ZDVBWEU3VlFVdGFqbmZobk9oNUhNLWVlakZsS042NWhSNA?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2024-05-23T07:00:00+00:00",
       "company": "Anthropic",
