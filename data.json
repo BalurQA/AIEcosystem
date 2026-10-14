@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T19:14:10.071151+00:00",
+  "generated_at": "2026-10-14T17:07:24.236388+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,70 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-07-21T16:34:30+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemini 4 Argon without cyber guardrails - Google DeepMind",
+      "summary": "Gemini 4 Argon without cyber guardrails &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GZW1aVlF1M2szMXQ5bi1lNlVlR2NZNnRoX01XSmtWdGNqa2pxSy1fdk5aeUtCbFdQT3AtNXJDS28wM2ltS3M5X29NanZEVTI4YWYyb3ZKdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-09T12:21:28+00:00",
+      "company": "Mistral AI",
+      "title": "BBox and Object Detection with Mistral - Mistral AI Documentation",
+      "summary": "BBox and Object Detection with Mistral &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2pYM3FIczItNURJR01FV1N2bC1MTzBvekdOeUhfZ0kxUzJjLWVqenlEUVZKeFNrTEQ2TkNEbEZnTDBiUGdVdXhkeXJCcmhFM3hfMVpld0s3OG1kOW9HYVNvQkd6aURDbElwTVU2Q2hJbnJFQ1VTcWQzMGRYaDQyX2RUVXE1a1h0WGF1YmJsQ24?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-03T19:50:35+00:00",
+      "company": "NVIDIA",
+      "title": "Nemotron AI Models - NVIDIA",
+      "summary": "Nemotron AI Models &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZl93Vk9LTGNFLVdHN1Itb0Fxb3Q3YjhSakx4SkF5VHZLTkxMQURkb0hsakhvam1ZNVNZYmVQRXB0VTREMmJ6WHlEdlVJNGVXMWlWblV4NkV1MHM?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2018-08-10T16:14:18+00:00",
+      "company": "NVIDIA",
+      "title": "World Leader in AI Computing - NVIDIA",
+      "summary": "World Leader in AI Computing &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5DdjBpUW5ZcWFhNnFjaG80TzZyM2M1THdWUWVkVzc4TjJRTnVORGhWZHJjQW9PMVgwV2xxTEJXRHpTN2s?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-14T06:08:30+00:00",
+      "company": "NVIDIA",
+      "title": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA - NVIDIA Blog",
+      "summary": "From Enterprise to Earthshot: UK’s Ecosystem Moves From Ambition to Application With NVIDIA &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xdXdCcE1NZkd1c0VFQ0RrbHRFcjQ3UVRDOG1NWkpFLUxVdUFwdFNNbHF4N2hjRUxmWS1XWDZ6dXNyLVYyblhqUkx1N3NUZzJsWmxoMEZ6RlhiTnBtVGMyV25VOVQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-13T20:06:10+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Introducing Bulbul V4 Flash text-to-speech for India - Sarvam AI",
+      "summary": "Introducing Bulbul V4 Flash text-to-speech for India &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaMWlnenc3Qm5vOVppYWxDV1AyVng4WWROSmZQSUYtX0VnTVpoYndNM2JPemZDZ2owWmdHU00zNUJ1d05UZkQ1WjBOZTZSYkhJR1duX21R?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-12T06:27:57+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Speakers & voice - Sarvam API Docs",
+      "summary": "Speakers & voice &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01NU1WX3lnZFVRTEFER2kwX0xkZkduS1RpazkzMWpXZ2ZmWUV3bFVhWE9XWFQyLXhCTFNqd3k1dE9TXzVMWTg5QUY1dWtTZENuUkFSTFZHTWVCYklQb0R6SkxMTkpDOGM?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-31T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Document Intelligence Overview - Sarvam API Docs",
+      "summary": "Document Intelligence Overview &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNGd4OW5aeGhBM2V3RFAwUGZqcGRfdlJjTjJsSndfdnIwWlNzSDNVeFVsSlVNM3N0NzQ1UGlMXzMxbG9BX2tENlBZOHlKRTdhTktNekw2cUZCeGwxTVcyeWVFbHdyejhELXlqZGlXYWhjeXRraXB5MTNVUEFEOHlrNWFlRE4?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2024-11-25T08:00:00+00:00",
       "company": "Anthropic",
