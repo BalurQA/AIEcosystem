@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:07:24.236388+00:00",
+  "generated_at": "2026-10-15T16:57:09.144328+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,86 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-14T18:33:00+00:00",
+      "company": "Anthropic",
+      "title": "Preparing for the 2026 US midterms - Anthropic",
+      "summary": "Preparing for the 2026 US midterms &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-14T16:41:49+00:00",
+      "company": "xAI",
+      "title": "Introducing Grok Voice 3.0 | SpaceXSI - xAI",
+      "summary": "Introducing Grok Voice 3.0 | SpaceXSI &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-12T22:41:48+00:00",
+      "company": "xAI",
+      "title": "Introducing The X Subscription | SpaceXSI - xAI",
+      "summary": "Introducing The X Subscription | SpaceXSI &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-10T07:00:00+00:00",
+      "company": "xAI",
+      "title": "API Pricing | SpaceXSI Docs - docs.x.ai",
+      "summary": "API Pricing | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qZExlbzhKdzREd1NuZVZnMzd6eFZmTUQzN1hSYWF6Z0REdHMtbXpQdjc1VnJjX2dNVzVDVjlzZWJDaDFDYkZKVDZoc20?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T15:08:22+00:00",
+      "company": "Mistral AI",
+      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
+      "summary": "Timestral: Mistral's time-series foundation models &nbsp;&nbsp; Mistral AI",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12LTNWNFd0cWpja2dzQk93QUdaWW9MWnRhUW5xRmh0bVV6MmNsOGJTbkI2VjhDRmpYLUtMLUlDQlRZUC1fNlNkaw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-18T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Enterprise data protection in Microsoft Copilot and Microsoft Copilot Chat - Microsoft Learn",
+      "summary": "Enterprise data protection in Microsoft Copilot and Microsoft Copilot Chat &nbsp;&nbsp; Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWc0MVNiRXllZ2lRUWxpMUFKdG5fTHdadzRoU0ZFVTBNNVpBVVNHanJlTnhjSnVjTWJsb3hFV0dGaDhzUC1mNW5RUk95RHl5c1h3NmZxQlV2d3pCNFh5ckFWeWtxTUZCcVJwLWhnVzFPS1hlZW4yODl4X3Z2U1ZjX3IyTzZ4NWlOVVE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T15:01:34+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSW82SDRIOTB3UElVN0NhamZVakJWcEF2ZHg4aWhfODdHYTVmRTFlQzdaR005SXV4U2d0d0FJUnAtenRibGNLUHMxUmM1N24tdS04a3phX1E2ZzEySVZsMFZKQmVoVU9yMk50b2t5bG0wN3BCeUoxaGg5ai1ndzZKNk9XUzY3SUlXNHo3bkprYUU2SmY5TGFJNUEyYUxJVmlwbExoRW5QSE9mQmx4c2FmbXRSbFFWQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T15:03:57+00:00",
+      "company": "NVIDIA",
+      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models - NVIDIA Blog",
+      "summary": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVVU0zYjltcWc5TzJiNlRiOC13eUlPV2NLb0lBYlRCTDVIZHZDeTBlWW1nTU1idlQ2aGNHX0xGWjBDSXJ6VTFrWGVaa1M1UHRNTXFHUUp1bWZNOXJsVDNCSkZn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-14T06:08:47+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem - NVIDIA Blog",
+      "summary": "NVIDIA Announces New Investments in the UK Startup Ecosystem &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xdXdCcE1NZkd1c0VFQ0RrbHRFcjQ3UVRDOG1NWkpFLUxVdUFwdFNNbHF4N2hjRUxmWS1XWDZ6dXNyLVYyblhqUkx1N3NUZzJsWmxoMEZ6RlhiTnBtVGMyV25VOVQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2010-02-21T01:28:23+00:00",
+      "company": "Baidu",
+      "title": "Investor Overview | Baidu Inc - 百度",
+      "summary": "Investor Overview | Baidu Inc &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5JRVBYNzF2dktSTXpYcm5tai1DZXdaeFFiTXdQeXA1dWlCOVVsd2hzVzdMSWdNa0Zr?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-07-21T16:34:30+00:00",
       "company": "Google DeepMind",
