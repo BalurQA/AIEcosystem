@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T16:57:09.144328+00:00",
+  "generated_at": "2026-10-16T16:35:26.040273+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,102 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-14T08:30:00+00:00",
+      "company": "Anthropic",
+      "title": "Singapore office and government MOU - Anthropic",
+      "summary": "Singapore office and government MOU &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-11-10T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Omnilingual ASR: Advancing Automatic Speech Recognition for 1,600+ Languages - AI at Meta",
+      "summary": "Omnilingual ASR: Advancing Automatic Speech Recognition for 1,600+ Languages &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnNUMTI3QVBsN29jbjVJd2VuMVFzYXJjVHdLRjB1dUsyNllKSzBYenNuTTJqV2MwRzBqWi16S3REM0lXT1BkdS1LOVFfNGdwSUdnVEFVZ1VGNjJ0bUxOMHQ3MlE2cGFnRmx0X2dudkJRRXJGeXZQdlNVeFF3OG1LYmswVUNvZkU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-09T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing Muse Spark 1.1 - AI at Meta",
+      "summary": "Introducing Muse Spark 1.1 &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T14:09:18+00:00",
+      "company": "Mistral AI",
+      "title": "Timestral 1.0 - Mistral AI Documentation",
+      "summary": "Timestral 1.0 &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzNzJaWk53eGhFWUJFeF9oaHJDckNEZFFxTHFWNHBDOEhucXdSVi1KOVhYNzE0aFVrZVBsY3lnLWhqdTFzdFdvdVVQRUxERUoyUEhWVU93MA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-19T02:17:53+00:00",
+      "company": "Mistral AI",
+      "title": "Concept Deep Dive: An Overview of Prompt Optimization - Mistral AI Documentation",
+      "summary": "Concept Deep Dive: An Overview of Prompt Optimization &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOekFVWWxvNG9YWkRiZi1xeDJlV01abGxSTFR3Q0ItY0JkYlhqc0dWaGN4OHlpcmpzZ3pUU05Mc1RvaGpVUFIwdkNESjM2ZnY1ZWs5OVBMUEJiWXF6S0ZfMEpXODlZd0tKWERlYlpZQ09tWXVaU0oxMWZWcDJqRlpCUXJWRkE1UVF4SV9VVVE1Q1BUV1VUcGhzX2pR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-08-29T09:18:36+00:00",
+      "company": "Microsoft",
+      "title": "Foundry Models - Microsoft Azure",
+      "summary": "Foundry Models &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqSWcyZG1STndodlYzT2E5Qmp1a0dDMkd1WnFkUXJZYmdOcmo4T0Q1eVpzNFhZY2Q1dGJMbWFYMWVEN3pLSlJ2Q1NLNHNoOG5kOFhQQ1o5VnBILU1LUXNjdE93V0RHa0dvTmZBag?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T14:13:52+00:00",
+      "company": "NVIDIA",
+      "title": "nemotron-3.5-super-vl-120b-a12b Model by NVIDIA - NVIDIA",
+      "summary": "nemotron-3.5-super-vl-120b-a12b Model by NVIDIA &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWW42aTRiWmlFQzFualhEZTJrT1VNSlNfeFJpTVBxeGh6dG41c2RBbVhIUUoxWGlrZXpqaDZ0dFNTY0s3SmpzSkdYNm9XZVJiX2I2X1pOOG81WVZZUFRJNkJZQ1dDeUtqWngyZGRjQW8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-16T20:19:35+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA NemoClaw: Deploy Safer AI Agents in a Single Command - NVIDIA",
+      "summary": "NVIDIA NemoClaw: Deploy Safer AI Agents in a Single Command &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zUFFlX2ZncWJEYlFxNHljM05IaDJncTJxY0xPaXV1RDkxVHVFWjZPcm9tMWJOQ2xtdXRibWRMbExWLXBMV1VkOF9lNkNtUGRqcXFN?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-14T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI - NVIDIA",
+      "summary": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUlETEtXdlNJYW1YbEYwejdHZFUxaVpYM3B3bzc0OFlBVjVjNWZScldDTm5kVWo1WTFzSjF6SmhoZTB2Q1N4NmhJZ1daMUhmUW9fNlozSWl4OUFHblhFZ0hFWHpEOVpNYXRWeHhidkRURDJ3ckhQa1RWaHVYNXFfV0JPb0czM20tdDctMndkc0ZxcEVxdWMtWlBwamk2RWF0MGZqUE16THR0TEJT?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB - NVIDIA",
+      "summary": "NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNOHRLNERkaDNNT3BZYmNOY09VY2t6VWxJb1NScjQzS0hYZnMwTzJ2Q003cFZqbE9rdVpWX0dsVE1rWHBxaDdmQTZWbGU3dDFlS3ZVNWNxWWtGNDJhbHdET21iLVFmM2ZLRS1BRHJPR1JoN2s?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-14T18:20:52+00:00",
+      "company": "IBM",
+      "title": "IBM named a Leader in the 2026 IDC MarketScape for Worldwide Agentic AI Platforms - IBM",
+      "summary": "IBM named a Leader in the 2026 IDC MarketScape for Worldwide Agentic AI Platforms &nbsp;&nbsp; IBM",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0pvdnQ1cVE0MkViS1FWc3dfUVk3aDJnRHVXWVlCd2U1dDJOblFqNWNHR0p0VDVkZEExT1k2M2QyY1h5SzVLQzdGb1JDS3FfZEZ2dVp6OEMyZ1k3UG5ycDhacnU4Y0ViOUMxX0ZrX05tWFFRX0hqLTcyMTJSNzVwaFVVc2NKOHRpcFdKdmYxQ0dmNDhtY3F3bWYwVS14Qy00NEZHalFuTFA0VTNVSE5QOE9tV3B5ZHFIREFJ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Text-to-Speech API Overview - Natural Voice Synthesis by Sarvam AI - Sarvam API Docs",
+      "summary": "Text-to-Speech API Overview - Natural Voice Synthesis by Sarvam AI &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CbWRkUDZQdzh0RTItZy1KdG9Uakk0dnhQM2doN2kzbC1rTmFrdmZmZVphOEVQN1VJelhhM2VLMk1ua0lTN21pUG1IX2dsYzkybVBXQUE0NTR1QXhJNGFfc1E0VmxZN3h1R0hZdXE0c1I0OGFoRHVxYXlfOA?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-10-14T18:33:00+00:00",
       "company": "Anthropic",
