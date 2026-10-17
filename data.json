@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:35:26.040273+00:00",
+  "generated_at": "2026-10-17T15:30:07.707480+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,54 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-15T17:20:00+00:00",
+      "company": "Anthropic",
+      "title": "An update on independent evaluators - Anthropic",
+      "summary": "An update on independent evaluators &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-13T07:00:00+00:00",
+      "company": "xAI",
+      "title": "Speech to Speech | SpaceXSI Docs - docs.x.ai",
+      "summary": "Speech to Speech | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02ZEdhb1NWeHRJM0E3RGVpYjdCeW0yTzdqRXFpZWZ4eTV3QkFEZldKSVV3Ul9ac0lLenpqd1Q2NmlWYnphWHh3b1IzcmlDUU5kT3BtaFlrMUFlQ1BUYy1VNTFzaTNuYVY4VW1SVUdzWXV6bm9wYU4wM2VR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-09-04T07:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "A New Open-Source Model Combining General and Coding Capabilities - DeepSeek",
+      "summary": "A New Open-Source Model Combining General and Coding Capabilities &nbsp;&nbsp; DeepSeek",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MVUgxVHBKR0FRN3h4SXFvTldFYkNsenhKd0YtUGdSckRlcVlnbXUxcjVnRHN4NGFxWHFPVUFONWU0bVZVMEhUU3BZc2ZXMHVhVlVlS1lhREJWOGs?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T15:21:31+00:00",
+      "company": "NVIDIA",
+      "title": "Nemotron 3.5 Bolt 74B-A9B 24GB: A Hybrid Vision-Language Model for Local AI - NVIDIA",
+      "summary": "Nemotron 3.5 Bolt 74B-A9B 24GB: A Hybrid Vision-Language Model for Local AI &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnlNb0dldUQzcTJsVUNWaTVwUGwwQlFrMmJGeFRjelBYa0RuWE5CUkF4cVBzWFVxSl95ZWswN0xpUUdWNUloVU50blFaVTl4dVkzTjhDV2QwRUY0UHVEQUs0UlBkUTMyVXdYdlVxU2ZoRE9qTXY0VzlJV3lvU0lpTlBnd3R1SUlnNGFFbFh4bDhTQ1FSNmNtazZDRkIzVU5PY3JUMnhLd1RqUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-23T08:00:00+00:00",
+      "company": "Baidu",
+      "title": "Best Text model from China in LMArena is now ERNIE-5.0-Preview-1203! - 百度",
+      "summary": "Best Text model from China in LMArena is now ERNIE-5.0-Preview-1203! &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTY1UzdTeDFvRFhfTW9rLW43TnBKVmdEcnVnZGpxSkdwNG1kUFhjS3YxSnlYdk5iVGM4eDNvS1RqV3FHLVBSSmRDbDkta3dmUTExa2tDUFgxYlNpbkY1alRKbEw5ZG5kM1FOcDV6OHVXdy1jaEJRMGhPS3JhaU9DdkNEcw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-02-04T13:21:45+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Careers - Sarvam AI",
+      "summary": "Careers &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1FYm9xdDg1a3dCbFppNTNDWEZHV3pfc2ZRQ1JGWnBDajFJR1gzeUF0dmlzQXR1LUdXMzVvXzMxdzRnYVU?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-10-14T08:30:00+00:00",
       "company": "Anthropic",
