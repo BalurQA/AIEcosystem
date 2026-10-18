@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:30:07.707480+00:00",
+  "generated_at": "2026-10-18T15:49:20.337795+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,38 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-15T15:08:22+00:00",
+      "company": "Mistral AI",
+      "title": "Introducing Timestral - Mistral AI",
+      "summary": "Introducing Timestral &nbsp;&nbsp; Mistral AI",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T14:09:17+00:00",
+      "company": "Mistral AI",
+      "title": "Timestral 1.0 5M - Mistral AI Documentation",
+      "summary": "Timestral 1.0 5M &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lRkkta1czbnhCZVZ1Q0dNWl9WTzg2V3ZQZUtCdHVTYWhBV2dBOVVhLWplb0VCdDZWeVl3ekZLbTlLdEhxX0VKd3FqaUEyZVhQajI4a0VOV0lTdnc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-11T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Snipping Tool - Free download and install on Windows - Microsoft Store",
+      "summary": "Snipping Tool - Free download and install on Windows &nbsp;&nbsp; Microsoft Store",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ha3NRTFh4NXRweUV0NG9ZNlpzY1ZoTlpPYnEtMmtoamVjbzNCbWJJYkxwbWREZE9RQWlEYlJ6bG5Db1EwTU1xc1ZVRXV6M0ZyNHl6T0tlYk1EdzJQMldRLXNoZm11a2JIckN0aVZn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-14T02:03:36+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Text to Speech - Sarvam API Docs",
+      "summary": "Text to Speech &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HdFhQNGFJd2xEYW9HWjl0eHhMMlVlTENWZHJuWE44c3E1S3VvbmpNdTlmaW84SW5aaWFfMXpzWkd5WW8tYml3eFVRNnk4WGRaVlhPQ0dlamZSdw?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-10-15T17:20:00+00:00",
       "company": "Anthropic",
