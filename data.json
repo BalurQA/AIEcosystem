@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:49:20.337795+00:00",
+  "generated_at": "2026-10-19T18:42:40.063131+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,102 @@
     }
   ],
   "updates": [
+    {
+      "date": "2023-06-13T07:00:00+00:00",
+      "company": "Meta",
+      "title": "I-JEPA: The first AI model based on Yann LeCun’s vision for more human-like AI - AI at Meta",
+      "summary": "I-JEPA: The first AI model based on Yann LeCun’s vision for more human-like AI &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vSzhmcGxsVWNOU3h0akJLdW0zNEVsZkNIN1JnSkVnc19mV1NVa2tKUEYwNmJzQnA3TGN1TmhWYzVpcDRKUVdXRndGZHA4Z3BMbkh2SDVoRENoXy03QzI1VE13?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-06-16T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance - AI at Meta",
+      "summary": "Introducing Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvcFFSeWR3OF9UcGJZWjJuamRxdHJkbnVST0JzU05UUW9GTXJ4cEZHMGY0Y1JXVXJ0OFhTTDlCNlRGMGZoN19UbTlucXlUNHJVV1lUQV96Ym5LT0RRQlI1eDRnaWtfclctQWt5UVhn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-07-12T18:19:29+00:00",
+      "company": "Meta",
+      "title": "200 languages within a single AI model: A breakthrough in high-quality machine translation - AI at Meta",
+      "summary": "200 languages within a single AI model: A breakthrough in high-quality machine translation &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBMbEdtWTBvNE5zWGFHY3MzM1RoTkFhUVhvSUN4YWhKaVhZWXpqcU04MEQ5cll6dlllM2JYSGlqNDNYdXpPd05Mc2luRTk1SXhyOUVLVGl4WC1namh4NEFiTFg0S1F2QndIRzBtY0gwYTRMVEdQc1E?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2020-10-19T07:00:00+00:00",
+      "company": "Meta",
+      "title": "The first AI model that translates 100 languages without relying on English data - AI at Meta",
+      "summary": "The first AI model that translates 100 languages without relying on English data &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMWZHSFdBbVRmOWsxeXZSQlNsTnNBZVBoMlNMdHpRanhfWXhNOGJjNnduM3hqLS1JNGthZTR3SEZDWmp6a0lhN1NLd1R6Y0NKY0Nqdi1NdEQtaWltT3dzcVNKRHJNN0NTZjhnQnRvNEVHZzJWN3ptVFlhTl9ueHBmd3JTdVN1aV9FUjY4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-07T07:00:00+00:00",
+      "company": "xAI",
+      "title": "Imagine Image 2.0 - xAI",
+      "summary": "Imagine Image 2.0 &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-16T16:59:06+00:00",
+      "company": "Mistral AI",
+      "title": "Timestral 1.0 209M - Mistral AI Documentation",
+      "summary": "Timestral 1.0 209M &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvdDdaY3NZUlBZR3dqRlhNTmFYaFVBRzNlbWRtbU1qYmI5dGlVeGVqUTIwR2FEdmRRdVN6NU0wTWd3U0F6cVVuY2JhUXA0dFRUZ2tPYjJlVWdZZDFEQ0E?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-28T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral Medium 3.5 - Mistral AI Documentation",
+      "summary": "Mistral Medium 3.5 &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fWDMySDJRMHVVTVlEYTIxcXdieE1wLWlsc3Y0ZzhEUHMyOXVCbGZIZ3ZWczMyUWh2SnFHdWtfajZGVnBJSDJCcmlobWVoNEtkV1dmNHVCY2E4S1pGeTQ4cVdHOV9QQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T16:04:20+00:00",
+      "company": "Mistral AI",
+      "title": "Text Embeddings - Mistral AI Documentation",
+      "summary": "Text Embeddings &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12Rm5kYk1mdmtkRDRnMEVHMDhOSFVNclpweTZBWHRBY2g5c1l1elIyQ3VPMlo0SFVROXFtNHAxU09tWDdhVllQLUlhNnBlWF9uN2J0RjFCdlFSNENTU2x2cFNNemVKWE1KM1JNRDN6blJVUEZtMU9lZUUyQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2016-09-17T16:11:36+00:00",
+      "company": "Microsoft",
+      "title": "Home | Microsoft Community Hub - Microsoft Community Hub",
+      "summary": "Home | Microsoft Community Hub &nbsp;&nbsp; Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmTU8tMWVYNXZObU5nSmpHdnJqbTUybGRSZXlQY1VoZXJ6TS0wZnpZVVZ6U1o1S0ZsYzV1TlBOam9Lel9qVGF5MXZNNmU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-05T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft Purview DLP for Microsoft 365 Copilot and Cowork - Microsoft Learn",
+      "summary": "Microsoft Purview DLP for Microsoft 365 Copilot and Cowork &nbsp;&nbsp; Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGFia0t4SUNNVjlvWmtjQ3lTbXc3VmVobS1IR3N1SU5kcnl1RlIwRzhCc1RZLThUdDVvVFJwajcxUTRzTVgwQi1CSHY5VDh6cFBtckR1ZnlhVE1xaEVpYUl0azJRRmtDQ1NWWXhsMHp0Z0FNSENpcHBrclVoT29CM0dtdjBBMG5aNmhybTJPY3M?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-09T16:52:10+00:00",
+      "company": "Microsoft",
+      "title": "Create a PivotTable to analyze worksheet data - Microsoft Support",
+      "summary": "Create a PivotTable to analyze worksheet data &nbsp;&nbsp; Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWJoRnpvNEpmUGFhRzVPSVdaWlAzQkpyZkxkeTZIWTZibTE4TDNxQWI5dXE1M05tb1ZRNTBENXI3d2dYUkxhNTROMWdUMXQ2VUk0dTBybUo3TmxsM29CWjMzbW96dllORjE3dkF6Ri1rR1FrU0ZZWUpQUVJIc1JXbTNrWlloN3EzUXhMMVJxbHZ0dUNqLXhGUlBNc0c5bmtu?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-23T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon CloudWatch Omni: AI-first observability for agents and applications - Amazon Web Services (AWS)",
+      "summary": "Amazon CloudWatch Omni: AI-first observability for agents and applications &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3M3bE1ITnhNZ2QzM3MtM1V2U0ZVM1g4cjR4Ym5lY2VzTE5PcURHS1JsQXBNV1VEOWU0S3M1bWl6cW8yWjFuM0NSUFhLSFd2bzVZVGRkazVDaG5COUpTRFVDZE9USW95TDhwLVZ2a25fNl92YTRqQlliX25QTDhfb0pITQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-10-15T15:08:22+00:00",
       "company": "Mistral AI",
@@ -4465,78 +4561,6 @@
       "title": "Introducing Claude Opus 5.5",
       "summary": "Anthropic announced Claude Opus 5.5.",
       "url": "https://www.anthropic.com/news",
-      "kind": "Model"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "OpenAI",
-      "title": "Introducing Agents API",
-      "summary": "OpenAI announced an Agents API for building agentic applications.",
-      "url": "https://openai.com/news/",
-      "kind": "Platform"
-    },
-    {
-      "date": "2026-09-10",
-      "company": "DeepSeek",
-      "title": "Introducing DeepSeek-V4.1-Flash",
-      "summary": "DeepSeek released V4.1-Flash with native multimodal visual understanding.",
-      "url": "https://api-docs.deepseek.com/updates/",
-      "kind": "Model"
-    },
-    {
-      "date": "2026-09-08",
-      "company": "Meta",
-      "title": "Introducing Muse: Your personal AI agent",
-      "summary": "Meta announced Muse as a personal AI agent product.",
-      "url": "https://ai.meta.com/muse/",
-      "kind": "Product"
-    },
-    {
-      "date": "2026-09-02",
-      "company": "Meta",
-      "title": "Introducing Muse Spark 1.3",
-      "summary": "Meta announced Muse Spark 1.3 for long-horizon coding and agentic work.",
-      "url": "https://ai.meta.com/events/",
-      "kind": "Model"
-    },
-    {
-      "date": "2026-07-09",
-      "company": "Meta",
-      "title": "Introducing Muse Spark 1.1",
-      "summary": "Multimodal reasoning model for agentic tasks, coding and computer use.",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
-      "kind": "Model"
-    },
-    {
-      "date": "2026-07-07",
-      "company": "Meta",
-      "title": "Introducing Muse Image and Muse Video",
-      "summary": "Meta introduced image and video generation models.",
-      "url": "https://ai.meta.com/blog/",
-      "kind": "Model"
-    },
-    {
-      "date": "2026-06-09",
-      "company": "Cohere",
-      "title": "Introducing North Mini Code",
-      "summary": "Cohere announced its first model for developers.",
-      "url": "https://cohere.com/newsroom",
-      "kind": "Model"
-    },
-    {
-      "date": "2026-05-20",
-      "company": "Cohere",
-      "title": "Command A+",
-      "summary": "Cohere announced Command A+ for enterprise AI.",
-      "url": "https://cohere.com/newsroom",
-      "kind": "Model"
-    },
-    {
-      "date": "2026-04-24",
-      "company": "DeepSeek",
-      "title": "DeepSeek-V4 Preview",
-      "summary": "DeepSeek announced V4 Preview and million-token context.",
-      "url": "https://www.deepseek.com/en/news/",
       "kind": "Model"
     }
   ]
