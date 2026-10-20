@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T18:42:40.063131+00:00",
+  "generated_at": "2026-10-20T16:59:52.434551+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,78 @@
     }
   ],
   "updates": [
+    {
+      "date": "2025-02-04T20:32:24+00:00",
+      "company": "OpenAI",
+      "title": "OpenAI Newsroom | Safety - OpenAI",
+      "summary": "OpenAI Newsroom | Safety &nbsp;&nbsp; OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42N1hpVW5hcHh4U3Q3YS1TczBJZGhKS1BFSW1RaDM2dUpRZzN5VS1HRmI4bzQ4NFByMVZUanhqNUZFLTFpVWZQY0Y1Y0V5NlB1WXZj?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-14T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms - Google DeepMind",
+      "summary": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXEwTndBUGVKNlRFbE9BNkV5VHRfNy1Cd3B4Ylota0s4NWNwNTFnX0RZWVM5RGxIV21uVUxUelBIUExTRkV2U3lKXzQ2Q2Vjc1dBbXJnalBuXzBvYWJvTTVIMVBveGxxeDNuek9PdmhuNTk0TUI4bkRIZ2dtV0NnbTdBelJNZTRUbVRwX1JJQ3QzVkd3a3dMWTRfaUR4Y2NjZkdLbEt1QmY?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-20T16:01:13+00:00",
+      "company": "Mistral AI",
+      "title": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages - mistral.ai",
+      "summary": "Voxtral 3: Voice Agent SDK & Speech Models in 50+ Languages &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-03-06T08:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral OCR - mistral.ai",
+      "summary": "Mistral OCR &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5JNU80aGZjVm00WTFwR3dhdVFIT2l0Q1VsZlduS3ZjTmpWSm5odE1uUE9rVjlKVkRlRDdzRGdHMHlvVW9MMWUtcEJWLWk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-20T16:12:44+00:00",
+      "company": "Mistral AI",
+      "title": "Latency - Mistral AI Documentation",
+      "summary": "Latency &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11UnB3RFN1VnUzS1Eza3FGenBxaGlfWUpCN0dsZFhYVUgyMS1iMGxieXBIS3NfVUN1Zmp2NEdvTmdsRlhQNDM3eWwtcllPQ255dnJDTUFsRV9BTDJEbmVZLVVXUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-18T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning. - Qwen",
+      "summary": "Qwen3.8-LiveTranslate: Names the speaker. Carries the meaning. &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91U2JuVzJOTWQ1dVhuVDJTV1V1MkRIcllDWTVNaTljd2lBSTk3M3hCMkFYWXd0MGpZNHdIbzNSX0RiWkFOTTZIV1N6SHhUNklyMmJFT3dfMW0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T17:30:48+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Nemotron-3.5-Bolt-74B-A9B-24GB and Nemotron-3.5-Super-VL-120B-A12B published - NVIDIAs new general purpose models especially for GB10 - NVIDIA Developer Forums",
+      "summary": "NVIDIA Nemotron-3.5-Bolt-74B-A9B-24GB and Nemotron-3.5-Super-VL-120B-A12B published - NVIDIAs new general purpose models especially for GB10 &nbsp;&nbsp; NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWFBRMzdmd3NUNkpMdTI3YmtvRDNqbUp0LWF5SXFqZFRwOWtzd2Vad0R4OXVBSTBMRE83bTBiT0hiRC1HcnYxc2YzVEllUkZNbUF1THhGTXh6S05MZlhlOG9odlpLSTl0QkJqSnZoWTBKbExYSFpvTlFLb0ZjSU1Eck94SEFsOVNxU0RybmZWNmw2QUw4ckhyTXpCQTVWV3RLNlo2eVhFTHBXMTBCazd3NG9rRkV3ZlRRQTB4OGowaERpLVduWVRMUUNKOFJmTUlLTWhMc1Z2emdBQnBKTGh0YThyVmFoNkpjU1ZjRzM1WnpyVnEtRjl2RldNdnlPVjRZUUxIbTZ0YzdrOWYwSExqaA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Speech-to-Text APIs Overview - Real-time & Batch Processing by Sarvam AI - Sarvam API Docs",
+      "summary": "Speech-to-Text APIs Overview - Real-time & Batch Processing by Sarvam AI &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pTkZWY0V4UXItWnNzR1dsaFEtSzM5RE1UVElla1N6VFNpNWlMcEdlQ21xaHBhenIyRTY4ZTB0RjVhZjVLMlk2dHN0SFhqVnZzTGlQMnNLNk5QdWJaTHA4cE5Gd2x4aTRJeFdvRjcybTRjcmlLRTR6cmhJVQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-02-10T08:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Introducing Sarvam Arya agent stack - Sarvam AI",
+      "summary": "Introducing Sarvam Arya agent stack &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fcEh5Z1dUaG9lV2JUQnBhaVJjTEg2RHhLMUpLMVB2NzFGZGJWZ2tyNnFzYm00c0Uxc1U3dmZXZXJDd2p3eGREWXVnX2ZscXBfb09aMDVCN3pDaWNBekpnaQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2023-06-13T07:00:00+00:00",
       "company": "Meta",
@@ -4490,78 +4562,6 @@
       "summary": "Speech-to-Text APIs Overview - Real-time & Batch Processing by Sarvam AI &nbsp;&nbsp; docs.sarvam.ai",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pTkZWY0V4UXItWnNzR1dsaFEtSzM5RE1UVElla1N6VFNpNWlMcEdlQ21xaHBhenIyRTY4ZTB0RjVhZjVLMlk2dHN0SFhqVnZzTGlQMnNLNk5QdWJaTHA4cE5Gd2x4aTRJeFdvRjcybTRjcmlLRTR6cmhJVQ?oc=5",
       "kind": "News"
-    },
-    {
-      "date": "2026-07-13T10:27:16+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Text Translation - docs.sarvam.ai",
-      "summary": "Text Translation &nbsp;&nbsp; docs.sarvam.ai",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45U0NFZFFGZ2p4UTI2Y1lSNFlNRzV1aW5NREd2RUV2UUd1eEJYbkpNUWotcTRxRFpua0VZWERvUVFBYWh2aWE2d1RxSjk4RFhFRXpveFItN3hvRzR4ZjNYcmRPYnF1UXc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-24T12:44:17+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Sarvam Vision 2.1: Pushing the Pareto frontier of document intelligence - Sarvam AI",
-      "summary": "Sarvam Vision 2.1: Pushing the Pareto frontier of document intelligence &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NM0M0Z2dOUEN6azVNU2JnZUFLZjFWVGdwVF9DeUx4UVlXNXBlRnNneC1FR3NKcmxuYXFfaTNTOG9QN3FKS2VTNnc3eXB6RGctVnR3U2JHeW8?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-24T07:00:00+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Introducing Saaras V4 - Sarvam AI",
-      "summary": "Introducing Saaras V4 &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EQzN1aVViZ2VFY0F2ZjBMa1lLUGNLUjBFYmM3dGdKeXpKa05uWktxYW13RldSNUhkV1ZOaVVSTmZKdVoxZjU0bWZ5SU0tUDNQODE2Mm9LX1BHVEdTVkE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-13T08:43:52+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Bulbul Text-to-Speech Model - Indian Language Voice Synthesis by Sarvam AI - docs.sarvam.ai",
-      "summary": "Bulbul Text-to-Speech Model - Indian Language Voice Synthesis by Sarvam AI &nbsp;&nbsp; docs.sarvam.ai",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3cmxHaVBmU0U2cHhQMTZvM2c4Q0NQTXZMamVBVmxRWjdTU2pNbkVwdDI5N1h0NHJOM2VzdW1lZDJvbENJZlgySEQ5bzliQzFKeTVwZXdab3B6dlpHc2R2anZqOTR3REk?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-15T08:00:00+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Introducing Sarvam Akshar - Sarvam AI",
-      "summary": "Introducing Sarvam Akshar &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5weGEtLXVramtoS084aWxxMGRhVVZQUEVJWjJLckFYOEdsNDhKcG0xVkg3UTBvN0U0M3puVXJuT1NPcTE5ZXhORnZ2MjkxTElBR2hj?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-04-26T07:00:00+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "The government of India selects Sarvam to build India's sovereign large language model - Sarvam AI",
-      "summary": "The government of India selects Sarvam to build India's sovereign large language model &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CQTJhNmdfRXFxcjg2MmhoNDlUT2FuOFNNLXFhemx2YnJvbEFRTjRGQWNyS241X2JzMGlFc2FwRXNaRkplMDNGN0Q4Y25WcEI1TDgybEhkYldJaTl0?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-10T08:00:00+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Introducing Sarvam Arya - Sarvam AI",
-      "summary": "Introducing Sarvam Arya &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fcEh5Z1dUaG9lV2JUQnBhaVJjTEg2RHhLMUpLMVB2NzFGZGJWZ2tyNnFzYm00c0Uxc1U3dmZXZXJDd2p3eGREWXVnX2ZscXBfb09aMDVCN3pDaWNBekpnaQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-28",
-      "company": "Anthropic",
-      "title": "Introducing Claude Sonnet 5.5",
-      "summary": "Anthropic announced Claude Sonnet 5.5.",
-      "url": "https://www.anthropic.com/news",
-      "kind": "Model"
-    },
-    {
-      "date": "2026-09-22",
-      "company": "Anthropic",
-      "title": "Introducing Claude Opus 5.5",
-      "summary": "Anthropic announced Claude Opus 5.5.",
-      "url": "https://www.anthropic.com/news",
-      "kind": "Model"
     }
   ]
 }
