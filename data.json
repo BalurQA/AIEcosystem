@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T16:59:52.434551+00:00",
+  "generated_at": "2026-10-21T17:08:15.596470+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,158 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-20T17:03:24+00:00",
+      "company": "Anthropic",
+      "title": "Announcements - Anthropic",
+      "summary": "Announcements &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Kck1SMnp3Z1lwZ1VjWk1hMm9lYW1GRnhuODNtTWJuVS1TNUtPdzU2YVdrRXRmbEdYVWlJM2Y1cVo0QzRpR1dBM2hpRnl3ZEs2WmlGSmUwcw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-10T07:00:00+00:00",
+      "company": "xAI",
+      "title": "API Pricing | SpaceXSI Docs - Grok API Documentation",
+      "summary": "API Pricing | SpaceXSI Docs &nbsp;&nbsp; Grok API Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qZExlbzhKdzREd1NuZVZnMzd6eFZmTUQzN1hSYWF6Z0REdHMtbXpQdjc1VnJjX2dNVzVDVjlzZWJDaDFDYkZKVDZoc20?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-14T18:34:39+00:00",
+      "company": "xAI",
+      "title": "Grok Build: SpaceXSI's Coding Agent | SpaceXSI Docs - Grok API Documentation",
+      "summary": "Grok Build: SpaceXSI's Coding Agent | SpaceXSI Docs &nbsp;&nbsp; Grok API Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxMFBVem0yRzBISWVLUXhHWEpFVjRQNGhvc3VESnExbU90MUZDbmJpLWpGOUFVMkVPSXFJR3c4cVlRdjY5R29F?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-20T16:13:53+00:00",
+      "company": "Mistral AI",
+      "title": "Voxtral Small Transcribe 3 - Mistral AI Documentation",
+      "summary": "Voxtral Small Transcribe 3 &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55Z19qYTN4RVA4T0puMm11Z2luemFzVllsNEZnTFNxdVZmUUdmUEw2SnJ6UmY5alhBQ00yeDlSZEJLX1hpNWtSaTl5aVcyb0pPSmN1TERqckFadnpiYS1NRnBkYXZQRzJteDg4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-21T12:11:38+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral Advances AI for Engineering with NVIDIA - mistral.ai",
+      "summary": "Mistral Advances AI for Engineering with NVIDIA &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EREM1NkpaWTg3MVNMOUstWDZOcjduUFFXVUlfczFVU3hSRGFRUGdwSUNLTVdJSnR0eWluOGJfeVJtbTM5TkgzdEZEdzhZZGxsbVdtSEVKSlAxNEFuTFNyZHRhbF81bEp2Z2h0WTQwNW5ncnJWMXhRag?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-17T08:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral Saba - mistral.ai",
+      "summary": "Mistral Saba &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE03UENyakNDMGZiUWtoQ1JORlF2YXhYYm9abW9VUTFib05oTy12M0l1ZWhjaVk0M3oxQlI5Y0EzTG51eWxRTkpoUS1MMjdqQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-09-27T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral 7B - mistral.ai",
+      "summary": "Mistral 7B &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QdVVIcFZ4V2hGeWI4SHVkdXA1bHloLTdrMVExb3NvekxlQTF1Uk9TSmJqNGhsY1p6d21ETmpBeFN4b0Q1dGFzYXp2SVd1My1DaTd5X0FzYi1qdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-21T10:08:59+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries - NVIDIA Blog",
+      "summary": "NVIDIA Open Models Advance Europe’s Sovereign Intelligence Across Industries &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xZklzeGxaemZwSzRIeFFEUG1UU2hybHh2V0FOWVZlajBOQm0xVzZBNEFWbXNxaV9YaGFFQ0dla3BrRkZRQmJPREhIYmtiZlc4ckFhY0ZWTFJZa29keXZqY2tvanNyOE54SUE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T14:13:52+00:00",
+      "company": "NVIDIA",
+      "title": "nemotron-3.5-super-vl-120b-a12b Model by NVIDIA - NVIDIA Build",
+      "summary": "nemotron-3.5-super-vl-120b-a12b Model by NVIDIA &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWW42aTRiWmlFQzFualhEZTJrT1VNSlNfeFJpTVBxeGh6dG41c2RBbVhIUUoxWGlrZXpqaDZ0dFNTY0s3SmpzSkdYNm9XZVJiX2I2X1pOOG81WVZZUFRJNkJZQ1dDeUtqWngyZGRjQW8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-16T17:08:35+00:00",
+      "company": "NVIDIA",
+      "title": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "Code, Test, and Deploy on One Machine with NVIDIA RTX Spark | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnpOOTdkUDRPcEk5Z1NYR3UzbHhnT1ByMHN5M2ZaNFlicC1XTks3VmY3eEo2cE5IaFZIMTU1SU5veWtmaTlxRUJqamxJNTlJaW1fdk9ET2c0UjJKZXh6UUxJTEtyalhtTDdldGJha0xQYUQycE9xY3Y0QnduSmhzdURjMkFDaVozd3dDTFFlYldNTlZxdkVR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2017-07-31T17:23:24+00:00",
+      "company": "NVIDIA",
+      "title": "Research at NVIDIA | Advancing the Latest Technology - NVIDIA",
+      "summary": "Research at NVIDIA | Advancing the Latest Technology &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5iWlR5QmZaZHFiLWEyOGFzRzZERDhldXdmZWVWcWVzS04xcV9ibGRtakFpVlF0dEstTTlhN2pSa1hUSTdNcU1rRjh2RHQ4VkU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-05T08:00:00+00:00",
+      "company": "Databricks",
+      "title": "Research posts - Databricks",
+      "summary": "Research posts &nbsp;&nbsp; Databricks",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02eTE0dDRoOG5UR21FYWdFdUFsZThLVFRGM3c3Q183QUJXQldKNlhBOExsZWJTLUE2QlNMTHJ2MHoxRnVfY0hYcjZnczNlc0UwMHZST1h1MzlxRllGUFE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-10-11T13:25:24+00:00",
+      "company": "Baidu",
+      "title": "PaddleOCR - 文档解析与智能文字识别| 支持API调用与MCP服务 - 飞桨星河社区 - 百度",
+      "summary": "PaddleOCR - 文档解析与智能文字识别| 支持API调用与MCP服务 - 飞桨星河社区 &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RcS1wMDZzbXRzT1QwZmNJcUVqN2U4bjRaZ2ZTbklkbktidXppS0lKaEpSc3NpcGN6THRvNFZuYTFIbHJqNm5tX1RvR2w?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-19T08:00:00+00:00",
+      "company": "Zhipu AI",
+      "title": "Inspiring AGI to Benefit Humanity - 智谱华章",
+      "summary": "Inspiring AGI to Benefit Humanity &nbsp;&nbsp; 智谱华章",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QZTlVLXZMdmptdENsSFVNMXUxX0dTbUw1NzhoblNvNUVYTVBzeTEwcXc2RVVXdFBEUmFFUUxJaXlITzJSNUlGZGxn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-24T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam Vision 2.1: Pushing the Pareto frontier of document intelligence - Sarvam AI",
+      "summary": "Sarvam Vision 2.1: Pushing the Pareto frontier of document intelligence &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NM0M0Z2dOUEN6azVNU2JnZUFLZjFWVGdwVF9DeUx4UVlXNXBlRnNneC1FR3NKcmxuYXFfaTNTOG9QN3FKS2VTNnc3eXB6RGctVnR3U2JHeW8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-06T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Text to Speech & AI Voice Generator for Indian Languages - Sarvam AI",
+      "summary": "Text to Speech & AI Voice Generator for Indian Languages &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2bkNTcUZTaExTSXRxOGlVV2hqNGptU29GMlBKY0taVXFMMi02U2RMbnZaclRnRDZRTU40Q1ZuZXJZTnZkTm9Vb1pSaUY?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-02-15T08:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Introducing Sarvam Akshar - Sarvam AI",
+      "summary": "Introducing Sarvam Akshar &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5weGEtLXVramtoS084aWxxMGRhVVZQUEVJWjJLckFYOEdsNDhKcG0xVkg3UTBvN0U0M3puVXJuT1NPcTE5ZXhORnZ2MjkxTElBR2hj?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-04-26T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "The government of India selects Sarvam to build India's sovereign large language model - Sarvam AI",
+      "summary": "The government of India selects Sarvam to build India's sovereign large language model &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CQTJhNmdfRXFxcjg2MmhoNDlUT2FuOFNNLXFhemx2YnJvbEFRTjRGQWNyS241X2JzMGlFc2FwRXNaRkplMDNGN0Q4Y25WcEI1TDgybEhkYldJaTl0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-06T08:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Open-sourcing Sarvam 30B & 105B models - Sarvam AI",
+      "summary": "Open-sourcing Sarvam 30B & 105B models &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA2UlItdkdVWlhMSTdPM1VEOHpPRV9yUmJENnVncUNoVDZSWGFMNEM1QVpOOElBczRmYTBORTNrZUpIc1BNZjJqR2NCSHBsbWRJd2RXazJB?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2025-02-04T20:32:24+00:00",
       "company": "OpenAI",
@@ -4409,158 +4561,6 @@
       "title": "ERNIE Large Model - 百度百科",
       "summary": "ERNIE Large Model &nbsp;&nbsp; 百度百科",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90U3RjVkhGenJSY3ZGSS1oWG9aYklJdG1DWDVFSkR5N253ZUJfcFJXbUh2OW5nQnh6bmtXZzduT3Vsbl9ZTzBtTGxkNmlHWnhsVW5raEFsVFF1cjRMTzRRTFlLLWNtZkpuSGVhTw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-14T19:48:53+00:00",
-      "company": "Baidu",
-      "title": "Introducing ERNIE-Image - 百度",
-      "summary": "Introducing ERNIE-Image &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMFVxSGY3ei16M3lMWmZHMmRMSTFvWnVoNTNJcjdZSnVaM21lcjFyQVNCWFdONXAycjNmYVQxbC03Y2FGeGVpdG04b1RfdnVOR2NlaFNOWTY2M3c?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-13T13:20:27+00:00",
-      "company": "Baidu",
-      "title": "AI Studio-帮助文档 - 百度AI开放平台",
-      "summary": "AI Studio-帮助文档 &nbsp;&nbsp; 百度AI开放平台",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fMFBnSkZZbkZDS3JSNlI5M1FNaTU3T3pYVXlhWnllYWhqdlo2OUhwcmZWQzlkRkU3eVZaUFY4eXRtN1c5cUJ3WnJveUYxcHlzb3Z2NjV0NGlqQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-18T19:00:44+00:00",
-      "company": "Baidu",
-      "title": "ERNIE Bot（Baidu's Knowledge Enhancement large language model）_Baiduwiki - 百度百科",
-      "summary": "ERNIE Bot（Baidu's Knowledge Enhancement large language model）_Baiduwiki &nbsp;&nbsp; 百度百科",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZlRyTS13Y2M5M2RvZi1qeDA0dnQ3VnE0eXlOU3RYU2FTQnlKZzg4RElOa2pIcno3d2gxNzN1Uzl5andzWl9BMDg1dVlHcDVKTWkycEJHMWxjRkVWdlE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-06-30T07:00:00+00:00",
-      "company": "Baidu",
-      "title": "Announcing the Open Source Release of the ERNIE 4.5 Model Family | ERNIE Blog - 百度",
-      "summary": "Announcing the Open Source Release of the ERNIE 4.5 Model Family | ERNIE Blog &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41V3h3cFMyS3dDUXVkNy1RbEdFa0dkcnd1d3NieVIxS3pIUDJxdVgzZXRZdHY3cGplMDFETm1KcmNRZHk3NkxhNEMzSnBXS2N1VUoxNVpOUQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-06-30T06:22:03+00:00",
-      "company": "Baidu",
-      "title": "About - 百度",
-      "summary": "About &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EaVY2djN1RHdXN2dSaGZWXy1ZaVZ1M0Z3NTNjNFZSZkk5N29ZaWZOS3hZSEs0TmcxY2xsa3dmcm4xMl9tLUwxdzRQSQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-06-29T07:00:00+00:00",
-      "company": "Baidu",
-      "title": "ERNIE 4.5 Technical Report - 百度",
-      "summary": "ERNIE 4.5 Technical Report &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcXFTQWhzelpIdnloU1ZJRlFUWTU3MWVLcklaQjhLVEFMWVhtV2RUdEU1ZjBMVzd2WS1lSWtwX2UtSjdLMWdqWW1sbVUzQ05GUGNic3BhUzFhYzNQNHkyY0FlVElqZUtLWjBUd0lEdUFmRjRwcGc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-05-09T07:00:00+00:00",
-      "company": "Baidu",
-      "title": "Posts - 百度",
-      "summary": "Posts &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90M2pYRnhsVDhYVnhkOE1mc1dnQk5PN2NJNmRqT2JPeERVQWtqTk4wVWJjT2VxcExzYkp5RnVTc3lzYTdXamNXRlF0WQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-06T08:00:00+00:00",
-      "company": "Baidu",
-      "title": "ERNIE 5.0: A 2.4 Trillion-Parameter Unified Multimodal Foundation Model | ERNIE Blog - 百度",
-      "summary": "ERNIE 5.0: A 2.4 Trillion-Parameter Unified Multimodal Foundation Model | ERNIE Blog &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51RlY0T1hnU2RVYlBEMTd2bXVSZm9hOXdEMWNhS1R4elI2MXNhN2N5RUI4Z3NyZGNZdVo1MzVsWHNObFQydG1EbDFoRXZkR3lsYnVBazF2MA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-01-08T08:00:00+00:00",
-      "company": "Baidu",
-      "title": "ERNIE-5.0-Preview-1220 Becomes the Sole Chinese Model in LMArena Vision Top 10! - 百度",
-      "summary": "ERNIE-5.0-Preview-1220 Becomes the Sole Chinese Model in LMArena Vision Top 10! &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc3k5NGt0V1B2MVJUbjdLZ3ZiRVQxdVNWVFRvUHh2OTVwVVd0T2QxOWRGOW0ydVNwbkJBREk0c2lRQjhnYUxQMGxEcmd3b01LSTMzWkp2Y01mSXA5eDNyQXZNN1A0YzdVbE5vcGZOaUFtbXlNTEdCTDlIX3lCQUpJejl4UQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-12T08:30:04+00:00",
-      "company": "Zhipu AI",
-      "title": "Inspiring AGI to Benefit Humanity - zhipuai.cn",
-      "summary": "Inspiring AGI to Benefit Humanity &nbsp;&nbsp; zhipuai.cn",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15QlRQMDk3YUtqNmNGbVctLUFOcW15Vlc3bkE0MlpOVnBVWG5ZeGZlNmc5TjZ5dy02UjNQSW43a0oyVjJHTlgydFdR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-05T04:35:25+00:00",
-      "company": "Zhipu AI",
-      "title": "Teach machines to think like humans - zhipuai.cn",
-      "summary": "Teach machines to think like humans &nbsp;&nbsp; zhipuai.cn",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE81d1VjWUh5RUJCa3FoTUdSaE9DM1liZG9EVEh3UFZNdURnMWV5QmNuQ2Njb0N5bFpsVGpReE5lYUJZa1BaVmc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-29T07:00:00+00:00",
-      "company": "Zhipu AI",
-      "title": "Z.ai (02513.HK) Announces 2025 Annual Results Conference Call Arrangement - zhipuai.cn",
-      "summary": "Z.ai (02513.HK) Announces 2025 Annual Results Conference Call Arrangement &nbsp;&nbsp; zhipuai.cn",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ob01Qekw5VDMwaDFOak40ZW5xRXlEUGd4Wkl3b3R0bG10Vkl2T0xPS2JsNlRhZ3dKV1FBcTMzZVc1aDVJWU9xYkJn?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-05-15T00:54:31+00:00",
-      "company": "Moonshot AI",
-      "title": "Moonshot AI Status - Moonshot AI Status",
-      "summary": "Moonshot AI Status &nbsp;&nbsp; Moonshot AI Status",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE85cnlPd2s5NEY1MGdUQmRyTnQwLXZfb2pUb2lfUl9TRUxIQkY4Z1RXUU9BWGNnT3dGNTBucWZzaVM?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-05-20T18:05:40+00:00",
-      "company": "Moonshot AI",
-      "title": "Uptime History - Moonshot AI Status",
-      "summary": "Uptime History &nbsp;&nbsp; Moonshot AI Status",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UeWFlS0V2czVtZURiVWZEVHRzd2xxX0dGNURXZ3o0aU40NFVfVFZJamtHNmZ3T1lzSVRQalpqbjhVb3NQVEFRRw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-08-28T19:02:58+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Sarvam | India's Full-Stack Sovereign AI Platform - Sarvam AI",
-      "summary": "Sarvam | India's Full-Stack Sovereign AI Platform &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiOkFVX3lxTE5XbjZ3YWdDeTIzbks4Z01pOXRaVHp1ajZOdkNXcmx5M194MWpObzUyU2FoNVdsR3IyUEE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-05-06T15:00:59+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "AI voice generator for Indian languages. Free. - Sarvam AI",
-      "summary": "AI voice generator for Indian languages. Free. &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5TZDN1bWtWVXV0N2tERFI0Mk1iejdYSmVhQWJhQ3VQZFo5aEgzTUZlMnVBT2pKVFhJQ2xqZVBXalRMWDFsWExFZWsxNWp1WTk3S3VuTXpVQlVYcHFfeEdlY0RMY21qdw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-01-21T05:29:26+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Indus by Sarvam - indus.sarvam.ai",
-      "summary": "Indus by Sarvam &nbsp;&nbsp; indus.sarvam.ai",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9jZTJmQVVDRHNTVlJkZjRzQkdEQlZkUUowTzJWaTdkMGMwZjJxOEJHOVUwVk1ObE9EU3ZuUw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-15T18:05:28+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Sarvam AI Pricing - Transparent Rates for Indian Language AI APIs - docs.sarvam.ai",
-      "summary": "Sarvam AI Pricing - Transparent Rates for Indian Language AI APIs &nbsp;&nbsp; docs.sarvam.ai",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyTkNUZXhaMks0bGEtN0UzYjZ1NVZZVGVvcGVRSlNCM3l0Y29Xak9uR2FqN2hlSlRoQ0QzUnNfbHVYS1hqMUhEdjE4aHh0X2xtLWltbUItZExpSWxjbUQ0?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-13T08:43:52+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Speech-to-Text APIs Overview - Real-time & Batch Processing by Sarvam AI - docs.sarvam.ai",
-      "summary": "Speech-to-Text APIs Overview - Real-time & Batch Processing by Sarvam AI &nbsp;&nbsp; docs.sarvam.ai",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pTkZWY0V4UXItWnNzR1dsaFEtSzM5RE1UVElla1N6VFNpNWlMcEdlQ21xaHBhenIyRTY4ZTB0RjVhZjVLMlk2dHN0SFhqVnZzTGlQMnNLNk5QdWJaTHA4cE5Gd2x4aTRJeFdvRjcybTRjcmlLRTR6cmhJVQ?oc=5",
       "kind": "News"
     }
   ]
