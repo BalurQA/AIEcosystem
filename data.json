@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T17:08:15.596470+00:00",
+  "generated_at": "2026-10-22T17:07:14.064383+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,222 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-12T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Strengthening our defenses against distillation attacks - Anthropic",
+      "summary": "Strengthening our defenses against distillation attacks &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhWjFvMDhlcHFwVkRUdVF0NVlFT3JVaHBxTmpLMUFlZUhtM3U1ZExneVRhVnlnNDQ2a0dndjM5UWF5R1FaOWxHbkVfUHo5QmRBZGRFQ2xlTkpKRDJQOGIzbjRR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T16:39:54+00:00",
+      "company": "Mistral AI",
+      "title": "Timestral: Mistral's time-series foundation models - mistral.ai",
+      "summary": "Timestral: Mistral's time-series foundation models &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-20T16:12:44+00:00",
+      "company": "Mistral AI",
+      "title": "Voxtral TTS 3 - Mistral AI Documentation",
+      "summary": "Voxtral TTS 3 &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTNkFhUWFoT29BUmNwQ0k0QWswT3ZOdFN0NXhTRHpoUnE4ekZPTkJtTmJUazJ4VEpWQ1FhWmNZeDJuWXVIOVhoUHIyNGVrSFJwUnJQcFI3X0Vod1hReTdIQw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-20T16:13:53+00:00",
+      "company": "Mistral AI",
+      "title": "Voxtral Mini Transcribe Realtime 3 - Mistral AI Documentation",
+      "summary": "Voxtral Mini Transcribe Realtime 3 &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tZHdUTGE5bUNmRGNKYzJnWlMzU0ZSS0o4TmxONVlpVm5kY1ZNaDZ3S0kteVRmQ2F4LXMtX0loUzhOMFdqWGx3dUxEYW9UMmVKQTR4VjdhVXRITE5OQW9VdXhZZHNIZDlncXNXUWtBbGlPV0g1Y1E?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-20T16:11:23+00:00",
+      "company": "Mistral AI",
+      "title": "Speech to Text - Mistral AI Documentation",
+      "summary": "Speech to Text &nbsp;&nbsp; Mistral AI Documentation",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4tTnczRlBxR2lLNFJEUWVKazhLc0d5ZVIzYTNRNzBkODdzSTJVX3FZd0RzQ2piNXpxVUpfU2xYN3QzYWptVkZja2czdXBVVlUxVmVqQkp0UnpCTnRpdUkzMUdwLVRVZWYwcVVaSw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2013-06-30T05:47:16+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft Learn Student Ambassadors - Microsoft",
+      "summary": "Microsoft Learn Student Ambassadors &nbsp;&nbsp; Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE92aEJYSHl0RVhvS3JtVDNYdHhWNF9hb3QzN2Z4dURhcmUxYXRudlA0VjB4WHh2b015LXY3X1NKQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-24T19:43:44+00:00",
+      "company": "Microsoft",
+      "title": "Model retirement schedule - Microsoft Foundry - Microsoft Learn",
+      "summary": "Model retirement schedule - Microsoft Foundry &nbsp;&nbsp; Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVTkySFJRYjRBRmFKQXVaSU1tek1lMnpsWXlyNFJYR3JCbkZDNlFoTFBma3ExcWpMeGVfQzg1WncxYjc4MDUyS0NsaERmeTFZd1RXZzJaZjJkZzZIc29RVnNKRl82YnFUWTBaTl8ta3pvTm1SS3Q4M0N4ZWpSMnc3RXZZdHZKT05KRDV1eTJCMTJrNlU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-21T00:12:24+00:00",
+      "company": "NVIDIA",
+      "title": "nemotron-3.5-embed-8b Model by NVIDIA - NVIDIA Build",
+      "summary": "nemotron-3.5-embed-8b Model by NVIDIA &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmNnA5UmJSbXJIM0NYUy1jYzIxTVQxNnVEamxoUVdmUFA1ekNJNzB0OU1Db09OcjZsTVhwRHEyY1ZSck9FbUZRMmtjaHZMNDVEYk03N0I1RnNHcGplS1VmR0g0WQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-21T00:12:25+00:00",
+      "company": "NVIDIA",
+      "title": "nemotron-3.5-rerank-8b Model by NVIDIA - NVIDIA Build",
+      "summary": "nemotron-3.5-rerank-8b Model by NVIDIA &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5nTW5EZUhpNFU3VGpSMmNQY04wZFRkU3BLRWJHeXlOcUdQS1hiUmIzTU5MV3E3R1haOFJKTXlHa1NZcWhKLUtCQkJjXzF3LVNMNGJDb3YtTmR2R28yN3ZIMXZmcDM?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-22T05:08:51+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Open Models Power a New Wave of European Public Sector Projects - NVIDIA Blog",
+      "summary": "NVIDIA Open Models Power a New Wave of European Public Sector Projects &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oalp0Y0VZY2RTRThBNXdGaXE2LWE4SkJGM3lra3lIM0dYTFcxdE1OTTlDbzBiaTVPTThqTWQ5VEZaN3NfcWdLbkNYdW9UWW52WHVhV3JFOEhYYkJoY2JtcXBzQU5yUkpVRUdCX05NUEhGdW8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-28T09:32:03+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA OpenShell | Open, Secure Runtime for AI Agents - NVIDIA",
+      "summary": "NVIDIA OpenShell | Open, Secure Runtime for AI Agents &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44MU1LWHl2Q3Y0bzhEV2VEWUthNnhQbTBnam5UUWV3cEppejY2LThhWUtSbEY2UjhlWDJhSnpLY0w3TG5OT1pPa245VUFJaFB5XzNWUg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-21T10:58:59+00:00",
+      "company": "NVIDIA",
+      "title": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents - NVIDIA Blog",
+      "summary": "Bringing the Spark to Europe: Local Intelligence Powers Next Wave of Agents &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1XMkp6X2x5bTBRenQzSVdkNFE2MVI4ZXVQdnc0Rl9mNGlrakI3QWN2UG1yRWlhMVduN2pzeFMya1ZIV3V2dGdiNTdqMjV0TkVQeEpXTFlWdDVFeFppVjZpaURFU096dGtLV200UnRlbWRBdy1hUnc2UjZR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-23T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon CloudWatch Omni: AI-first observability for agents and applications - Amazon Web Services",
+      "summary": "Amazon CloudWatch Omni: AI-first observability for agents and applications &nbsp;&nbsp; Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3M3bE1ITnhNZ2QzM3MtM1V2U0ZVM1g4cjR4Ym5lY2VzTE5PcURHS1JsQXBNV1VEOWU0S3M1bWl6cW8yWjFuM0NSUFhLSFd2bzVZVGRkazVDaG5COUpTRFVDZE9USW95TDhwLVZ2a25fNl92YTRqQlliX25QTDhfb0pITQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-14T19:48:53+00:00",
+      "company": "Baidu",
+      "title": "Introducing ERNIE-Image - 百度",
+      "summary": "Introducing ERNIE-Image &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNMFVxSGY3ei16M3lMWmZHMmRMSTFvWnVoNTNJcjdZSnVaM21lcjFyQVNCWFdONXAycjNmYVQxbC03Y2FGeGVpdG04b1RfdnVOR2NlaFNOWTY2M3c?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-11-13T13:20:27+00:00",
+      "company": "Baidu",
+      "title": "AI Studio-帮助文档 - 百度AI开放平台",
+      "summary": "AI Studio-帮助文档 &nbsp;&nbsp; 百度AI开放平台",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fMFBnSkZZbkZDS3JSNlI5M1FNaTU3T3pYVXlhWnllYWhqdlo2OUhwcmZWQzlkRkU3eVZaUFY4eXRtN1c5cUJ3WnJveUYxcHlzb3Z2NjV0NGlqQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-18T19:00:44+00:00",
+      "company": "Baidu",
+      "title": "ERNIE Bot（Baidu's Knowledge Enhancement large language model）_Baiduwiki - 百度百科",
+      "summary": "ERNIE Bot（Baidu's Knowledge Enhancement large language model）_Baiduwiki &nbsp;&nbsp; 百度百科",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZlRyTS13Y2M5M2RvZi1qeDA0dnQ3VnE0eXlOU3RYU2FTQnlKZzg4RElOa2pIcno3d2gxNzN1Uzl5andzWl9BMDg1dVlHcDVKTWkycEJHMWxjRkVWdlE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-06-30T07:00:00+00:00",
+      "company": "Baidu",
+      "title": "Announcing the Open Source Release of the ERNIE 4.5 Model Family | ERNIE Blog - 百度",
+      "summary": "Announcing the Open Source Release of the ERNIE 4.5 Model Family | ERNIE Blog &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41V3h3cFMyS3dDUXVkNy1RbEdFa0dkcnd1d3NieVIxS3pIUDJxdVgzZXRZdHY3cGplMDFETm1KcmNRZHk3NkxhNEMzSnBXS2N1VUoxNVpOUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-06-30T06:22:03+00:00",
+      "company": "Baidu",
+      "title": "About - 百度",
+      "summary": "About &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5EaVY2djN1RHdXN2dSaGZWXy1ZaVZ1M0Z3NTNjNFZSZkk5N29ZaWZOS3hZSEs0TmcxY2xsa3dmcm4xMl9tLUwxdzRQSQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-06-29T07:00:00+00:00",
+      "company": "Baidu",
+      "title": "ERNIE 4.5 Technical Report - 百度",
+      "summary": "ERNIE 4.5 Technical Report &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcXFTQWhzelpIdnloU1ZJRlFUWTU3MWVLcklaQjhLVEFMWVhtV2RUdEU1ZjBMVzd2WS1lSWtwX2UtSjdLMWdqWW1sbVUzQ05GUGNic3BhUzFhYzNQNHkyY0FlVElqZUtLWjBUd0lEdUFmRjRwcGc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-09T07:00:00+00:00",
+      "company": "Baidu",
+      "title": "Posts - 百度",
+      "summary": "Posts &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90M2pYRnhsVDhYVnhkOE1mc1dnQk5PN2NJNmRqT2JPeERVQWtqTk4wVWJjT2VxcExzYkp5RnVTc3lzYTdXamNXRlF0WQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-02-06T08:00:00+00:00",
+      "company": "Baidu",
+      "title": "ERNIE 5.0: A 2.4 Trillion-Parameter Unified Multimodal Foundation Model | ERNIE Blog - 百度",
+      "summary": "ERNIE 5.0: A 2.4 Trillion-Parameter Unified Multimodal Foundation Model | ERNIE Blog &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE51RlY0T1hnU2RVYlBEMTd2bXVSZm9hOXdEMWNhS1R4elI2MXNhN2N5RUI4Z3NyZGNZdVo1MzVsWHNObFQydG1EbDFoRXZkR3lsYnVBazF2MA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-07T09:34:14+00:00",
+      "company": "Zhipu AI",
+      "title": "Inspiring AGI to Benefit Humanity - zhipuai.cn",
+      "summary": "Inspiring AGI to Benefit Humanity &nbsp;&nbsp; zhipuai.cn",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HcG42YXJQeTZDT09vUmhPSy1YZ3hlV3pjalNEc3U4Y2d2TGlfNXVYMFhDTXJsdzR1QUUyQ1RlU0hXbU1wNnMyZg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-30T07:00:00+00:00",
+      "company": "Zhipu AI",
+      "title": "Z.ai (02513.HK) Announces 2025 Annual Results Conference Call Arrangement - zhipuai.cn",
+      "summary": "Z.ai (02513.HK) Announces 2025 Annual Results Conference Call Arrangement &nbsp;&nbsp; zhipuai.cn",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ob01Qekw5VDMwaDFOak40ZW5xRXlEUGd4Wkl3b3R0bG10Vkl2T0xPS2JsNlRhZ3dKV1FBcTMzZVc1aDVJWU9xYkJn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-15T00:54:31+00:00",
+      "company": "Moonshot AI",
+      "title": "Moonshot AI Status - Moonshot AI Status",
+      "summary": "Moonshot AI Status &nbsp;&nbsp; Moonshot AI Status",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE85cnlPd2s5NEY1MGdUQmRyTnQwLXZfb2pUb2lfUl9TRUxIQkY4Z1RXUU9BWGNnT3dGNTBucWZzaVM?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-20T18:05:40+00:00",
+      "company": "Moonshot AI",
+      "title": "Uptime History - Moonshot AI Status",
+      "summary": "Uptime History &nbsp;&nbsp; Moonshot AI Status",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1UeWFlS0V2czVtZURiVWZEVHRzd2xxX0dGNURXZ3o0aU40NFVfVFZJamtHNmZ3T1lzSVRQalpqbjhVb3NQVEFRRw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-12T04:55:56+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Voice AI Agents for Indian Languages: Introduction | Sarvam API Docs - Sarvam API Docs",
+      "summary": "Voice AI Agents for Indian Languages: Introduction | Sarvam API Docs &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ybVZmdXNaNVNSdFRHaloxYlZ0azNkTEdlT0xiNF8yd1FDUWJGeUpxMUhaempUdHVXY0w4SmFFczlkOWlGWU5XWWkyd0xzSzNDX05CX3B5WkFiZG82?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-20T08:34:36+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "GTM & Strategy, Model API - Sarvam AI",
+      "summary": "GTM & Strategy, Model API &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TcWFlaGh1T3Q4MWtobmlZT2VpWHQyeGJJR21XcjVOZjQxdlpHQ05iLThIUmVNTGcwWFVGMzcyeGEzZDB5aHBvM1ZLMm9pSTJBR2t4aGFRUHhhME95YVRQTlk0QmN2VVVTb3RXSEpjSHJ6NDEwbG83Y3pIUQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-10-20T17:03:24+00:00",
       "company": "Anthropic",
@@ -4345,222 +4561,6 @@
       "title": "Newsroom - Cohere",
       "summary": "Newsroom &nbsp;&nbsp; Cohere",
       "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFAzb1RfbGU5WWJYcGxzUVc3MlNYSkE1S0N3Z3Bjb2I5T0NPTkFsT1RrVnk5UXFCeXg1dkxBSk4tQmg?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-06-12T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Build and Deploy Production-quality AI Agent Systems - Databricks",
-      "summary": "Build and Deploy Production-quality AI Agent Systems &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODRwcUM5bkJJWXhPMjRqSlBuazV5aThVTkVNNVhkRGxDeENaalBSRUpzZXpTV00tN0NTS3FUTVB5NDVOVmh3U0FFOWd5V2xNbFNJVFVTU01TM3hfeEhFVTFwS1NFR21oZUpOWmpUUmFWbE9uTG1fWFl4dUNDSnY0aE9rWkJhTnBrREZ4RTJoQks5TU9jTHgtS2JXdE16Zw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-09-09T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Announcing Advanced Security and Governance in Agent Bricks AI Gateway - Databricks",
-      "summary": "Announcing Advanced Security and Governance in Agent Bricks AI Gateway &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPODNEWnREcmdma2RDMzVJYnkzdnVtdVEtaW1URDZPMFZHWV9sc18wdzJEa3lPeFJTVS1yTEt1ZkJRaWsyVXpkano2dFZRVDR6MWpEQkJSbzJ4akd6SGZqY1g5bEZIZjd4MEdDTmw2TnludHh3QWRCeHdYWlY1WHE5QWFoZE1XUjVyaWtQNHF6dkVCaWNWbEJ1cktXMGdEb1g0RGRsdm14SQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-04-16T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Accelerated DBRX Inference on Databricks Model Serving - Databricks",
-      "summary": "Accelerated DBRX Inference on Databricks Model Serving &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMEV6bmUxUEd4Q2VUZXpPbFlISzN3enM0ZnkxZVlHNmVoSnYwbDdSdjhZLXhjeGFWNm5XVGtMWHU1VmdNUTB0eGdHd3M4bzBnZy1NSDg5SlU1SkNpNElTeVNkb3M0NHB2NHJ5V3J5TkZiMnB4ZzlOd3RyeEl5MWtTWTNNakVzZ0dNWWc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-10-22T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Introducing Simple, Fast, and Scalable Batch LLM Inference on Databricks Model Serving - Databricks",
-      "summary": "Introducing Simple, Fast, and Scalable Batch LLM Inference on Databricks Model Serving &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSDJLVmdUQ1djREtka3BfUDkxSVJXYXpTcmNydHhId3lCZUUxWDkybEVwZG12b3JkM0Y2RG1xWW9SdGp6VnBnTTlxY0RVdVQtcmkwRFR5ZE9rb0NnZG5BOU11UGhJSF8xTnpuNmNyZ1hFYkZWdHNwQTR3dHhtMGQ0ajRlQnJGTG5xeFBIRERTY1VMYWw3X2NWMXNSU1NGV0VJRmtzMzl1ZWZYY0dkSlZTcW1R?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-07-22T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Introducing Databricks Model Training for Fine-Tuning GenAI Models - Databricks",
-      "summary": "Introducing Databricks Model Training for Fine-Tuning GenAI Models &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSWJCQ1hLQ3NsU2hlMmFCVnpEc3k0c2dGVjBwRlNpc282R1hxQ1JmMXZBNEh2ZExOUE9NZjJHZ2RhVTFRQ2dKT3l3T0FRZ0xsZG1iX3cxQ0NhTHc3QUItWHgyWGRINTVaZWZodXVTQU15TEpGLW4tcUE0TkY3MHBTcjMxYzN5TzlpMUo5YTQ3Ni1zR2U5cmcxcA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-12-10T08:00:00+00:00",
-      "company": "Databricks",
-      "title": "Batch inference on fine-tuned Llama models with Databricks Model Serving - Databricks",
-      "summary": "Batch inference on fine-tuned Llama models with Databricks Model Serving &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTk9FSGVGTmltRUVvXy0yeG5xYTVSbDJWZHhqV1pwalp5ZmVXUTRSM0xwLWFlanlSM0tSeDFhc0dCeGNfeURubzItd0xJb1RfVE0yTVBXajJKaFVGNUFZVUt2OExLM1FTWnE3Ym00eF9MWU1scVFxUGZWeW85LUt3TUdtcl9FRWRKeDczMmJZRlpENnlaMlczOUFBdw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-10-01T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Build Compound AI Systems Faster with Databricks - Databricks",
-      "summary": "Build Compound AI Systems Faster with Databricks &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeTdHVlpFRGpkSUlNNzhjakcwRFE3dVVDbTg1cUxLNzVZSm9TdTlRVGlJOHBKT3dFazlUSVdaVzZEckJ4dEJLZnZxU0NXWEtuOGptdzBwdWdtcDB2Yy0zTm5MZ1lOS2s5YlAyaHhRc1RsX1UyR2FvR2RTeE83UWJ2dU04c04yQ2tHdlBxQlVR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-06-11T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Databricks Announcements at Data + AI Summit 2025 - Databricks",
-      "summary": "Databricks Announcements at Data + AI Summit 2025 &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX1lET05KT0ZCWVVjaXVMdndybnEwc21YX2Y2OWpGbXhlS2FHdGJjMm51Vkh2dElrLU8xUU0wbFZ0WXczZ0dLT0lvRkNJWTZYWWJZWDVqa0lmb2wzbnl5Z3llR0YwcFY5TU9mOFV6VVVWY2dORFpLSkNRMUtic3N4TQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-05-14T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Building DBRX-class Custom LLMs with Databricks Training - Databricks",
-      "summary": "Building DBRX-class Custom LLMs with Databricks Training &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YSWV5RWQ1cXJCa3d1dFNtV2IzcS1TZkVBeC1ZdUtuaVJqVDdqUElxMGNHRWtWWnhTTkxXUnhMQlRXbFZTMDh0S21zYkduMVlZYVhNMVA1ZXQ1LVNrUE9nTEE1LXBhem1oLVRsbmg3bzY?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-04-30T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Calibrating the Mosaic Evaluation Gauntlet - Databricks",
-      "summary": "Calibrating the Mosaic Evaluation Gauntlet &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WdmhSOWdsWEtUMlFudGF4WjJXQWgyTDlRM00tZDdZU3IwZjlaMmVwLWxxYXc4SFIxcGVzZnJfamV3d1hOWjNYX2VIamFGaUVvRmc1VXl2cXV1ekpBaHpnTjdMNUNNVFNsQW1oTlZ2N2ZTaWIxenk0dFVR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-07-19T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "Databricks + MosaicML - Databricks",
-      "summary": "Databricks + MosaicML &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fSjFRUG1BN1dvS1k1cV96N19Rd0dfT3VRQ1JVNjhIR2RjZndQLVBjUDBINzd5Nm55MUttQmZtZmNkYUVJY2xSY3ExcjFqRUZOMGVnU2hzOTFrNXFUcThVUg?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-11-26T08:00:00+00:00",
-      "company": "Databricks",
-      "title": "Build an Autonomous AI Assistant with Agent Bricks Custom Agents - Databricks",
-      "summary": "Build an Autonomous AI Assistant with Agent Bricks Custom Agents &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlpUMV9YemlRYUoyb2tyMkt3VkZiYUZwdm1GV3BINmRpOXh1YzJXWUEtWGJXbnZCMS1ZZFEtZ1BDNnJoUlUzRFpvTFVGVmdfNEhPV3c1eTh3d2Rydlp1QXhROUNYUXc4TWdVdnlKYmRPYTdSZkhaM0o0UnNOQ0k5NElkZEV1aFQtUkhxS0V1SjA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-01T07:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM Granite Time Series models bring real-time forecasting and anomaly detection to Confluent Cloud - IBM",
-      "summary": "IBM Granite Time Series models bring real-time forecasting and anomaly detection to Confluent Cloud &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnBPUmF4M0dwRGJmYk82cWhuX3MxSHUxXzVxNDBwckttQkZDeU81d1p5ZDk3aGhrY0tfbzQyZEFqRUt2VFVwVzR3TC1lWlU2TGc1WE1xTEo2NFZMOEJNREF6c2tSa2xFV3p0ZjRvSE1tUnJaOTZqRzFERmVLTUVUVWRKLTBMc3V5bFFfcDJ2dm1vTW1va2tYT3FPNDBNX3BuVjN2NWl4a3dXNWZKUUlqZHBtYllYcG5UQ1ZaUy1kRzJfV3lQQVFoa0VmTzhVQm9kUWdF?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-06-23T17:12:17+00:00",
-      "company": "IBM",
-      "title": "Access any model, anywhere on watsonx.ai - IBM",
-      "summary": "Access any model, anywhere on watsonx.ai &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRG5Ub1dVRFpJOEd2NlJjandKaTJaOTY2cmlMLUR5RjlnVm9sMWdCVnFTR1k1dnJVZjNaOGUzRThoc1JSd2hkQ0NpemVqVHMyZlFyS251ang0dDF6NDFFZE5MQlk2d2o4bmRNT2pvcmlyVXVZUVU1YjI5YUsxYVd2NDl1YWlMSzQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-10-01T20:00:02+00:00",
-      "company": "IBM",
-      "title": "IBM becomes first major open-source AI model developer to earn ISO 42001 certification - IBM",
-      "summary": "IBM becomes first major open-source AI model developer to earn ISO 42001 certification &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neTRERW5tWi04clJwNzFhd1ROSXM0eWs3VG0zSHBVak5obnQ0V2lLOHFpWVVJR2lSMXFzVzRNcm5BUGNwM3IzZ0xkblhBWEhxaDI0LTdOMk1QTmZEQWcxck1XM21zLTlKZVBv?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-12-18T16:21:36+00:00",
-      "company": "IBM",
-      "title": "IBM Granite 3.1: Powerful performance, longer context, new embedding models and more - IBM",
-      "summary": "IBM Granite 3.1: Powerful performance, longer context, new embedding models and more &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlo3eUhadDNlTmNZRDlIM3dCQVNsVEU3RXd5TGhPQXIwenJlcWMtb3lMcThObGRhbDZ2dHJPUjdvdVo4dVlRYW9YZmRSTk9PWVFwcFhKWnM2TE4wWG1BRnBJd0Zvcjh0R283TzFJZnQ2S0tFRUtuN2swVEFFejZFelJiNm4zY3FiZ2FPVGFUaVNSWHphT2Q0Z2RDdnU?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-12-11T08:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM recognized as the leader in AI transparency - IBM",
-      "summary": "IBM recognized as the leader in AI transparency &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmYtLVcxNEtydk0xMTFtWjBhWHhPYnU5WDhoSDNTTWRFNkFoR2VZbWNKN2xOZnJFVVZXbnhjb0lzQng1cW51QVZqQW95TEppMmFYR05WTDRGTzJHNXhDMnhtQ2ZlX19UYVdIYnRHbVRFaTJPOGJLT3B1VDI0TFFKTi1OSlV5dw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-06-29T11:28:46+00:00",
-      "company": "IBM",
-      "title": "Flexible AI tools and seamless integration: How IBM Granite on AWS empowers businesses - IBM",
-      "summary": "Flexible AI tools and seamless integration: How IBM Granite on AWS empowers businesses &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XZ0h1N0lUY2dwY2ZNMm9KTnA2amo2Sl9IVEswSFpZcnE4QmNWU2pzeHFrVlFLMW02M1VRaUcxcmRNeHVwa09xYVZuLU5weDRTTFBkX1hlbW1rWGxVaEYwM1NSRkdkZw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-09-24T07:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM Granite-Docling: End-to-end document understanding with one tiny model - IBM",
-      "summary": "IBM Granite-Docling: End-to-end document understanding with one tiny model &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHNORHNvVDBNYkhYVXJLSFZvTVVmNWducXlIVV81QjdoVThrQ3hpdDN4MDhGZ0FFOGlKQnQ5X201SkhXVnJZZExsOUptUS05NEU5RktOS2EyWTJaYm9KQWZOcXZQS3A1aEdXWGxRaVhYYW04N0pmdElCTHNfTjd2OEdJcENpVzBjZ19XVg?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-03-24T07:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM Granite 3.3: Speech recognition, refined reasoning, and RAG LoRAs - IBM",
-      "summary": "IBM Granite 3.3: Speech recognition, refined reasoning, and RAG LoRAs &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXQ0SzBoY0p3Rk1ORjJTWXFobm9BY3dob1lyZDQyeXVHbE04LW5FYlpHS0gzVnFQZEhQY2NaeVpXVWRfaXFpbGpCWk1rbFZ3WW94dzVydjNvNzBxbmlhTHR1MUFvT0VibG9EZnRndTY0aUxRYWpEd1ZBWmJIR2l0UXg0RTBKb2R1VldIdWMzQWVpaXNMWDVUSjVuX183OGFmV2c?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-07T21:19:21+00:00",
-      "company": "IBM",
-      "title": "Bringing reasoning to Granite - IBM",
-      "summary": "Bringing reasoning to Granite &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmYUhPR0RIRWw2cmYyT1RBd2NOQ3Zqd055Zi1GM1JWeE1ETHZYU0dGaDk3eUc2VFBhSkVsa1lQczNsUXN1bzRxeTlNNjJDY2FJQUJPb0FkVk5SMU1NbmhocUt1cGlXU25mTzJ6UzkzX3ZkbmdhbFE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-07-24T06:09:41+00:00",
-      "company": "IBM",
-      "title": "Generative AI that’s tailored for your business needs with watsonx.ai - IBM",
-      "summary": "Generative AI that’s tailored for your business needs with watsonx.ai &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRi1hU1BPc3Q0X0FhYVRPck1meHRzZ1MzeE8tRWlnTnBLSDdmeXJLMkV1Uk9TbEhWMWt4UWtxaWRMYnc0QmdGM0RDUFJNblVMRUhEYU9lS00wWlVKWmN5YkJjQUpnQ1dxRkJlMldPNjFYZE8xSnc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-23T21:33:03+00:00",
-      "company": "IBM",
-      "title": "IBM Granite 3.0: Open, state-of-the-art enterprise models - IBM",
-      "summary": "IBM Granite 3.0: Open, state-of-the-art enterprise models &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUZtWGxTVGRacGZWamZIWE1YYWttVHJKTnI1RGtDandxdVJScEpHd3JkdjVLcEZwMVRXeFZjOGJpMU8wcTg2d3lJTENpUWVNanpoMjhCenhiZ0VWSG9SSkRnbWZJcThBaDVjcTJraXhPS1Z4SWgtZmF4M3NIcWRnakhfUkxxcXhmMWcwcDNiazl5SVhTOVc2UA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-12-04T08:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM named an Emerging Leader in the 2025 Gartner Innovation Guide for Generative AI Model Providers - IBM",
-      "summary": "IBM named an Emerging Leader in the 2025 Gartner Innovation Guide for Generative AI Model Providers &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOW1DbUY4MDJUTjdTYldBTU90VXEyeGtZdFU5TDJqSkVCeTk0VUMzMmRZbnBoUHNlSm1mWHZ2dE82eEQ0UFFfMHBFbHlnQ0dsSUduQkdDU2R4emNpVkVwSkM4SWJQQzRMVEVkbnBDVFM2amVwYy1peHFnWll5LXVSQy1VQlVvaFBQckFyWkVISGQ2VDJJRGptWTdRWEEwY3FSOWhIQUp0c2JjYkZNMm5SU05Db1hncDJiVm92U0xKY19UNnAwMjVrUm00N2lkakt5MVJr?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-11T08:00:00+00:00",
-      "company": "Baidu",
-      "title": "ERNIE-4.5-VL-28B-A3B-Thinking: A Breakthrough in Multimodal AI - 百度",
-      "summary": "ERNIE-4.5-VL-28B-A3B-Thinking: A Breakthrough in Multimodal AI &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPaEVmWExxS3lTWGpESTEyeU9nOXoxdUxUUXg0NTVUWFctQlVPdEVxc2x1RUJDNm5JSU5GVTQxVHA4MHB0RFJYRmd1T3FhQm8yd3FlTHVHNXR6SHBrS1ZpV0k3emVBT3VCVEFCazl3ZHhlWHM?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-05-09T07:00:00+00:00",
-      "company": "Baidu",
-      "title": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards — A Model That Writes Better and Understands You More - 百度",
-      "summary": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards — A Model That Writes Better and Understands You More &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KQVI1emFRMjVPV1VjdXIyb05KYW9WWTRBNE1yQVZ0SkM0TW9PejJUUlJKS0pqcU9ISEFCOEN6aTZ2X3Vmb0lTX2gxcDlKbW5HUzlUak9JbEpiZXdkUDdHTDRrMUVBcXVpMXc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-11T10:15:57+00:00",
-      "company": "Baidu",
-      "title": "ERNIE Large Model - 百度百科",
-      "summary": "ERNIE Large Model &nbsp;&nbsp; 百度百科",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90U3RjVkhGenJSY3ZGSS1oWG9aYklJdG1DWDVFSkR5N253ZUJfcFJXbUh2OW5nQnh6bmtXZzduT3Vsbl9ZTzBtTGxkNmlHWnhsVW5raEFsVFF1cjRMTzRRTFlLLWNtZkpuSGVhTw?oc=5",
       "kind": "News"
     }
   ]
