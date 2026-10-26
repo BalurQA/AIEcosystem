@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T16:11:54.418015+00:00",
+  "generated_at": "2026-10-26T18:40:15.995908+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,102 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-07-30T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Investigating three incidents in our cybersecurity evaluations - Anthropic",
+      "summary": "Investigating three incidents in our cybersecurity evaluations &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-11-30T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing a suite of AI language translation models that preserve expression and improve streaming - AI at Meta",
+      "summary": "Introducing a suite of AI language translation models that preserve expression and improve streaming &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtWXYzSWY4aFloUXpubmhKTGFxM0h0LXJVMXpDS0ZGSUhsNmxoMUNlYk1xMXQ2YzRkbHN6bW5EcVZoVGVJVkZMQlZYdTBVOTJTV2p2Qk1meXpJdTNq?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-05-09T07:00:00+00:00",
+      "company": "Meta",
+      "title": "ImageBind: Holistic AI learning across six modalities - AI at Meta",
+      "summary": "ImageBind: Holistic AI learning across six modalities &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bU93UHNnRkxQY0RvZzRSWmlhZEZYWTBaeVRKNEFCb1Jtd1FNZTVkc0M3bHVGamctSlM2U2hJRkhhaE1BUVdtVEw1T2YzZEJhRFp4U0VkUzNfaG1LcExWV1o1WmEwZWhOOFJxYUV3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-08-07T07:00:00+00:00",
+      "company": "Meta",
+      "title": "How to fine-tune: Focus on effective datasets - AI at Meta",
+      "summary": "How to fine-tune: Focus on effective datasets &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RNHZlemtXVzBULUR3Q1RISHhZMVg5cHg3cDVjblRYSGdUQXpwaEdkNE9KSHY4Vjd2UXZUUm84bmxPNGVwNkpqOWVsZ2Q1Mm5uTkc5STZ1V3ROSjI1c2VtSEZQVWhSZG9NN3FGcWpyQl9uWkpVUkhYQw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-25T17:22:58+00:00",
+      "company": "xAI",
+      "title": "AI teammates that finish the work | Grok Bot - xAI",
+      "summary": "AI teammates that finish the work | Grok Bot &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiMkFVX3lxTE9KUlpuaWtVOGw0VTlVRGlxYVdJZUZRQ3BPakJPYVQ5UjNyaGQyVHk3RWdn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-26T17:23:06+00:00",
+      "company": "Mistral AI",
+      "title": "Voxtral 3: Speech-to-Text, TTS & Voice Agents - mistral.ai",
+      "summary": "Voxtral 3: Speech-to-Text, TTS & Voice Agents &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB3SGxRSDAwanVjTmVGa3hoMjBMZHY3YzVkWDNaQm5uQWxJb2NLNi12YU1RY28tT0FpLXdKRHV0X2ctS0tWNXNUNFpR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-02-26T08:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Le Chat - mistral.ai",
+      "summary": "Le Chat &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mdTA5QktTYnBYblQ4dTI2Y2I3TkNBbDJHSnRlT0tWYjFBVVpWeWJLY1A5WXBoZXNYZ2ozTGtuUTNXMm1SRVhTUE5QRlk4VG4zWWc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-01-19T08:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "DeepSeek-R1 Release - DeepSeek",
+      "summary": "DeepSeek-R1 Release &nbsp;&nbsp; DeepSeek",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5taVhfRFdHMWNfTk1uY293QmxELVFNYUsxQzNnZTNVY0VXZDlfXzdaejZYRjBWb051WkFNNkNPNnBFNW92X2ZfQ3loZjV4cnhYdDJVb0ZCcEc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-18T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Data, Privacy, and Security for Microsoft Copilot - Microsoft Learn",
+      "summary": "Data, Privacy, and Security for Microsoft Copilot &nbsp;&nbsp; Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTWxmb0RVUC16dXp0YXg5dzg5Rlh3aklfbjBzSjVVRFVUY3VIdzgtZUU3S3NfbUpYQXlJMEZDODB6VVhnMnNKY1JPc1NvNGsxTGxXSWh2eTJZbTZnTkxTTjd2azd5b0xkVHZhVEQwU2hCRF83ZmIyQktSZFhGbW9GQm04RnJsSHY4U0pmcEZ3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-22T06:41:21+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations - NVIDIA Blog",
+      "summary": "NVIDIA Transforms European Retail, From Digital Discovery to Physical Operations &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwVWNxV0VDa0VMQTBfYXBWWU9ZNVlJLTJCY3pNd2lwZnIyQnlGVmhaZ3E4LWliQlVrZktlZTlscmM1X2VhZnBCOTM1YmhadXhxamg2b3ltYzRhb0N0V3hnakY5dlRtUnVnTTQ3RTRrNnlMLTR3cEE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-26T13:10:05+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "How we built the knowledge fabric for enterprise agents - Sarvam AI",
+      "summary": "How we built the knowledge fabric for enterprise agents &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80QVNUTDF1OWR1Zk1XbGJOeTdvdzdwdnNseW9nQ3lqVHBkczhhdE5kcnJIWDZHQ29CMkI0cFV6bkFKaHJha2JRVUxFd1BBVHBHeFdXLWluN3E5aXVZeUw5ZEFWdDQyelNtd0QxRkRCZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-08T11:50:26+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Build Voice Agents in Minutes | Sarvam - Sarvam AI",
+      "summary": "Build Voice Agents in Minutes | Sarvam &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44SXNYRXgtNEhTU2lPMGRqVXJmakthRVEwbE9reTB0SERKY25MbjAxNm0xb1ZPa1hLeV9ZXzRLdU5XY3JiN3BFLWxWZUROWC1UckpxZDJ3?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2025-12-02T08:00:00+00:00",
       "company": "Anthropic",
@@ -4465,102 +4561,6 @@
       "title": "Gemini Omni - Google DeepMind",
       "summary": "Gemini Omni &nbsp;&nbsp; Google DeepMind",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBOODFjQ09uNVVPQnp1ZFBfVkt2Uks2T1IyS1pkM2Fqb2R4NmNZYTV3b0g0ZWo0UnBNQ0o4aGFhYW55dlh4elA4dXJmWUExVkZpVHI3am1R?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-20T15:00:46+00:00",
-      "company": "Google DeepMind",
-      "title": "Gemini Image – Nano Banana - Google DeepMind",
-      "summary": "Gemini Image – Nano Banana &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qOXlzTVZZVG5mTFprSXZ6bUJwOEV6R2FuTFk2NVFTOG1vRzdQMmlqNlNsRGpWXy1FVHZ1WnVzZWpIS1N6ME0zLXQzTV91SUpZS2VYeC1mNA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-26T07:00:00+00:00",
-      "company": "Google DeepMind",
-      "title": "Gemini 3.5 Audio (Live Translate) - Model Card - Google DeepMind",
-      "summary": "Gemini 3.5 Audio (Live Translate) - Model Card &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3Q1hmWjhFTmswTXRGOC1oN3lwbTV4bkV4MEpINlh1aG5nQjZIRnJGNjg1Vi1SelA1QnRSWVlyckNPYi1VLXNuNC1BOG5zQ19FX1JoZHM0TVdveUpFOWR1Z0J1TTBLSG1nY3JzYg?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-03T17:37:44+00:00",
-      "company": "Google DeepMind",
-      "title": "SynthID - Google DeepMind",
-      "summary": "SynthID &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKdG5EaDBoNVh0NVRCRFJMUTc2aHZGclJjcktuNWplMm1WakFFVFB6U3J5NmZSSjZVT05XbEpDWE9reVFDUVFpVXY2eC1vcTVu?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-07-20T19:34:12+00:00",
-      "company": "Google DeepMind",
-      "title": "News - Google DeepMind",
-      "summary": "News &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBNTk03Wmt5MmFZYjYyVTRuTTBldzVoM2J5dnRnWTRESW91N0xQekJuTE1EbWRqZDZGcE5FanF5d2YzUzg?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-08-29T07:00:00+00:00",
-      "company": "Google DeepMind",
-      "title": "Identifying AI-generated images with SynthID - Google DeepMind",
-      "summary": "Identifying AI-generated images with SynthID &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04TU9iZGVkZ1VPQmpDZ0xWbXc0eDVLM3F6UUVHdFNXdllrSExiZ0h3NVFkQ0M4dWRqS1RrS29ZdDVIV1J0VHdENi1wREx2OUNYOHpSOWpQTGNUUG80Wnh3Q3NUNDc3bUpIcDI4MktyZmU5UjVYVzdYNUhuRmNTRms?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-08T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - AI at Meta",
-      "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-07-23T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
-      "summary": "Introducing Llama 3.1: Our most capable models to date &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-09-25T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Connect 2024: The responsible approach we’re taking to generative AI - AI at Meta",
-      "summary": "Connect 2024: The responsible approach we’re taking to generative AI &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-27T07:00:00+00:00",
-      "company": "Meta",
-      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning - AI at Meta",
-      "summary": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mQWxBRkJZVUptTTA0eF9rcnVUbTltSkxKSE5LM0F6SlA1RF9iaXJFWUp3SGpCZnhrZlk0dHRHOGREQWRoSTlTRC1tREdJbDNXY3NDTXluOWxSNVBoT0lB?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-08-22T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Bringing the world closer together with a foundational multimodal model for speech translation - AI at Meta",
-      "summary": "Bringing the world closer together with a foundational multimodal model for speech translation &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNlJicUU0RTJWZ2VjNF96VlFNcnp0TTJnUk5KQWR3VFVxNWNkYjU0clozVG03eG1Ha0FwZkhzaTUwbE5TNUJieWx0OS1xVjQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-07-14T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing CM3leon, a more efficient, state-of-the-art generative model for text and images - AI at Meta",
-      "summary": "Introducing CM3leon, a more efficient, state-of-the-art generative model for text and images &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZGxuNGtxWjgwdFFCcGd4bjJ2d1dENHhQUG5YaEMwblFHWTVOaTVMbThuVDlEbXVzejhFcTNKLW9qbnRCeWxEeGJ1X2hKSGlnVHpBWGRlUHpJRXlPcGVCRlVtWWRCQ0JGR2s0?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-04-05T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing Segment Anything: Working toward the first foundation model for image segmentation - AI at Meta",
-      "summary": "Introducing Segment Anything: Working toward the first foundation model for image segmentation &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2FhdVBMY0tXNDRsXy1XNjIwN3phVTdZcmMzRHBkQ1o0QmZKWVpIbmFTQThZQ3pCZHdwdjYxZzhCRGc3Y253X2xrSGVSMmY0WlpHcDE5VWRSdHJHSTZZTzV2aklsWTZoNHZBTkszUFNWNW5Jdm4wNlZXTFhnWEpZOXFfX1Q?oc=5",
       "kind": "News"
     }
   ]
