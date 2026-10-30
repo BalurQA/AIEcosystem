@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T18:26:49.681691+00:00",
+  "generated_at": "2026-10-30T17:59:00.374388+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,190 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-06-30T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Claude Science, an AI workbench for scientists, is now available - Anthropic",
+      "summary": "Claude Science, an AI workbench for scientists, is now available &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81R0J0dXluYzJGcmxVb3dDY0Z2UjVYT2I5ZkYwSVRrWTBSUm5HZXpWRkFsQ2k5bm1jbVU5cENOY0xkX0tybV9FbnhRcFVac1dncWtqTF85OTZyd3o1dlRXenJkd1h3T1pTSGc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-27T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Previewing the Model Hardware Standard - Anthropic",
+      "summary": "Previewing the Model Hardware Standard &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mMzRTNjJiRFhsYnZYMlBtQlNxTWZrRE5VVzF4TnZoel9UdXJSalpXUkE4M1NXN3pNTXdIWW84U0dONmN3bUFKcGwzZGh4SEdCZTFQaEk0TDJZNjF2ZVRFTUhTYTB5MzV5dV9xX1lvWXNMejFUYUlMZGxISQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-07-23T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing Llama 3.1: Our most capable models to date - AI at Meta",
+      "summary": "Introducing Llama 3.1: Our most capable models to date &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-12-02T08:00:00+00:00",
+      "company": "Meta",
+      "title": "Extending healthcare access to underserved communities with AI - AI at Meta",
+      "summary": "Extending healthcare access to underserved communities with AI &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JWmJnMHJGNmxxanI3STJPWlprZWxHbm1iZklnU3RHRmcxTFBxU3B5VDVxMlBvaS1FTmFGODBMc0Jjb2dHMXNBLVhHUWhVOWNWdy1nX1I2aWh4LUxWWmM0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-27T12:28:54+00:00",
+      "company": "xAI",
+      "title": "Service Status - xAI",
+      "summary": "Service Status &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE10N0VUTEhKbXJQbDdEd0p4VUVscUhGa3ViMTdJV041M3NQNFdNWElZcS13dnR4Tkk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T16:04:25+00:00",
+      "company": "Mistral AI",
+      "title": "API pricing - Mistral AI Docs",
+      "summary": "API pricing &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zbEJ4TzB2N2g2eUlFSzBkT0w0WVpRTXZHbGYycXpDQWRtV19WRF9QQnlFSzBqRVdraDl5aUE2NXZhRXJ2WWRaUjBJNDBFaWxlaGhJ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-22T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Z.ai GLM 5.3 Flash - Mistral AI Docs",
+      "summary": "Z.ai GLM 5.3 Flash &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UWXJrY2w2Vm5nTjZPTEFHNjFzTVRZUWlFSzZES25LbENxcE8tS191VUNrN1RRMlNtejc3MGMtemZaQmR6ckljR29YalNhb2VEZTRTNDZlNk0welVU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-26T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency - Qwen",
+      "summary": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBGTldVY25ab1p3RHFITDllMkQtUXRqWnlpek50S2dlNHJDWU1GeVlxc0ctWkdEclM3QVJ1OVFYc3hXZlR2VmhlQ0NoU1BmZUJhRHFTMA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-07-13T07:50:07+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Try Qwen - Qwen",
+      "summary": "Try Qwen &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9Ub2U1Q1ROUDkwOTdqbUlQaG52STJjUXV5THNWbDM0YlRkakhLdkYtdVdNVk1QLVBFV2t2Q0tJNjc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2014-09-18T12:11:54+00:00",
+      "company": "Microsoft",
+      "title": "Cloud Computing Services | Microsoft Azure - Microsoft Azure",
+      "summary": "Cloud Computing Services | Microsoft Azure &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWaW5IS3VmUjFERVpwUnkwVHJfNGprVEtCVzRxVlhtWU8xaWhJZk9vaEdSdmNFeUNjdXJfamxOeE5kUU5ZUTlXZQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-27T18:46:08+00:00",
+      "company": "Microsoft",
+      "title": "Download Windows 10 - Microsoft",
+      "summary": "Download Windows 10 &nbsp;&nbsp; Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lTC1IbEtDdU1OaHMtNmNRNmMyYTQ3aWZVNW8zZ1pWTTlDQXFsRXdOa01oMlE1aHJPUkRoQURoOUtHWng4dHdvOE1OTWt5b0NwZlNLdTlneWdxY3ZqQk5UM3dYQkJMbFVwU2p1S0dMbUhfNXU1?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-25T04:51:25+00:00",
+      "company": "Microsoft",
+      "title": "VLOOKUP function - Microsoft Support",
+      "summary": "VLOOKUP function &nbsp;&nbsp; Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSZ2lHdDdEVEI2NmFrUE8tajhKMXRBOUVCR1poNUNzSXR5b1E5M2RvajB2MEM5LXlfc2ctTUhKMUtJeE9jbEdlcHJmZF9UdWdIOHdMMlRaaVgycW1zbDk2Y05MejZOSVNTMkg0UHQ2V2c3NUhLbVRR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2022-09-17T00:51:55+00:00",
+      "company": "Microsoft",
+      "title": "Process Explorer - Sysinternals - Microsoft Learn",
+      "summary": "Process Explorer - Sysinternals &nbsp;&nbsp; Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9UelFJUnBGMEMtb2lMVkxScHg3NW5Vbk1PRldhZkNOalZZdUxVTU9QLXI0RkdhTnFENEp2VjYxTGs5R0NneWxkYk5jZVhfYzRkTm8zM2dVSEVnSjRFeUJiQmwzUFNDdG9EdWZTVUpIdzJpWGpXUW12LTM3SVp1dw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-04-23T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Introducing Phi-3: Redefining what’s possible with SLMs - Microsoft Azure",
+      "summary": "Introducing Phi-3: Redefining what’s possible with SLMs &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMm5RY3RnSEhqcWpveDJRZlR0YnQ4TzNXTEN4RmoxN011LXJVWWwzNVQ0S0MxS1IwdXZ6eUpZeEJ5NnF4SmpLZnV0bFJjVHBXMllITEd2cjUzSTRiMlN3WXVabmtCZDZDR0xVQXVYd0xpYXVMTXh2RklhTERibUVscWV4cF9UYW9HbTN3SnpGME1nMlpVTDdPVA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-05-03T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Announcing Phi-3 Models - Microsoft Learn",
+      "summary": "Announcing Phi-3 Models &nbsp;&nbsp; Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yQi1PQ2hjQjNzcE9PNTRCZk9OVHI3VDVvbEhOR2YtckJ2WWgwRU53WlJtd3MwUDgtVmJBNk5kdlZOTVVNQ2FiNm5Cek1nODFsM3BDNjNKaVlMcGUtMkhBUXZVSGN6WWVZbHM0dFJEaEtqVVFmNHNvdkktUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-11-04T20:38:36+00:00",
+      "company": "NVIDIA",
+      "title": "Models | Try NVIDIA NIM APIs - NVIDIA Build",
+      "summary": "Models | Try NVIDIA NIM APIs &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBCRmZiT2Q5Z0tjc3pQSDBoMzh3Q2hyYUYzTkk0ajE3TTlmbDNoMDZKaUhISktEbnhjVnhVdExFZno4N1VObkE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-03-22T03:52:37+00:00",
+      "company": "NVIDIA",
+      "title": "Try NVIDIA NIM APIs - NVIDIA Build",
+      "summary": "Try NVIDIA NIM APIs &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFA0MmpmS25INk9ucm5JZDRRMkJFcEFMb213X210X2kxR2dsanVNT0dNVFZzMWxGQTdFdFFhczRR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-28T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Nemotron 3.5 Transcribe: Intelligent Transcription with a Speech LLM - NVIDIA",
+      "summary": "NVIDIA Nemotron 3.5 Transcribe: Intelligent Transcription with a Speech LLM &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PaWRIN3lHQVhvc3NjLUstWEJ3OW8zZm9uVTRwTTRiM1ZvMkxheVN1U2oxQkJRcjJneXpWdUV3a256SHlZV0pQbF9KdUp5M3pMNkE0N0xBdVRYN1luRjBqdWlWYThFS2xmdmZwMVBmcGd3Z1lmSWVsQUJaSml3Zw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-27T17:05:38+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "NVIDIA RTX Spark Powers Neural Rendering and AI Characters in Games | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQTZ2bElMVHZyT0prSlRxQjJRTWoyaGFJSV8zaWx6RFZKYzY5ZXBfMzNJemNpVUNPRHc1d3hWdndidDU1WFhKVGtrV3kyS0FLSEJodm5hY1pTS21YQ2VWdVAxTDRyOGZNTkdVb1l2NTd4ekY0a2xfMlpsbThNdzgyc04zMVBPcFpBd09ucW9kSDdsRjg2Zmo2Z19SWWRqUEJFNHROWQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2021-01-12T04:43:29+00:00",
+      "company": "NVIDIA",
+      "title": "Deep Learning Institute (DLI) Training and Certification - NVIDIA",
+      "summary": "Deep Learning Institute (DLI) Training and Certification &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pQ0xoR3VBTFVGSi1UdWNTTXlsdG9sbmYzVjRXOGpCSTQyZmpoc1B5NlVvaXRleWFsNkhLZWI0Y3NrWEJPMXo4TnplVmpHMlk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-15T07:23:29+00:00",
+      "company": "Moonshot AI",
+      "title": "Incident History - Moonshot AI Status",
+      "summary": "Incident History &nbsp;&nbsp; Moonshot AI Status",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XTnBKdGdyYzRhV3ZJS1dtT0g5Ylp6bFdTYWFPRGI5bXhDb3N2ZC1iT1BaUHpaajlNcm1zQzRxZ05weEhDSEhYOHpR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-15T18:05:28+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam AI Pricing - Transparent Rates for Indian Language AI APIs - Sarvam API Docs",
+      "summary": "Sarvam AI Pricing - Transparent Rates for Indian Language AI APIs &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyTkNUZXhaMks0bGEtN0UzYjZ1NVZZVGVvcGVRSlNCM3l0Y29Xak9uR2FqN2hlSlRoQ0QzUnNfbHVYS1hqMUhEdjE4aHh0X2xtLWltbUItZExpSWxjbUQ0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Bulbul Text-to-Speech Model - Indian Language Voice Synthesis by Sarvam AI - Sarvam API Docs",
+      "summary": "Bulbul Text-to-Speech Model - Indian Language Voice Synthesis by Sarvam AI &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3cmxHaVBmU0U2cHhQMTZvM2c4Q0NQTXZMamVBVmxRWjdTU2pNbkVwdDI5N1h0NHJOM2VzdW1lZDJvbENJZlgySEQ5bzliQzFKeTVwZXdab3B6dlpHc2R2anZqOTR3REk?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2024-05-08T19:23:08+00:00",
       "company": "OpenAI",
@@ -4377,190 +4561,6 @@
       "title": "mistral-nemotron Model by Mistral AI - build.nvidia.com",
       "summary": "mistral-nemotron Model by Mistral AI &nbsp;&nbsp; build.nvidia.com",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9neVowNkdxekRfdW5LWC1PYnR2M3dLV3pyeElfZ3lDQnlSQXlTTUlmaUFZM3JTbnZsM2QtS2RfcFdQVFh4TTMyNVNWcF9QNEcwWDZYakk1RnlhRXlVOUtESQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-08T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence - ai.meta.com",
-      "summary": "Introducing Muse Spark: Scaling Towards Personal Superintelligence &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsNC1udEdYdEhzd29jVTV6YWhvUjZrRVIzSzR5WktVZzRudE5OUENGbTFFbU55QmZveHhqV1JjakhhWkF2b1poOXFJZVZKVFRaNWJrdGtKWHB0a21obGtuempn?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-07-23T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing Llama 3.1: Our most capable models to date - ai.meta.com",
-      "summary": "Introducing Llama 3.1: Our most capable models to date &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54RFo0bDEzY2l2TjdZQnNYUWpGMEl6a04yd29FRkU3azRXeTBGLVZmaDhHT2ZLSXFhcTNFM3hGbFlBeEstYVVHZlNHZ0pTUVVOa0E?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-09-25T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Connect 2024: The responsible approach we’re taking to generative AI - ai.meta.com",
-      "summary": "Connect 2024: The responsible approach we’re taking to generative AI &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WMWJlaVlyR2NnalduX3pNLUZrMXRiWEdEV2dzZThPdmFyczRIUy1VbjBkUWlkd3FwenhWSjNRZl9Zc1dnODZ1S2o0dGVfU1d2R1RVaGhEX3VUM3pJMnBFVUNmRQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-01-11T08:00:00+00:00",
-      "company": "Meta",
-      "title": "Meta’s progress and learnings in AI fairness and transparency - ai.meta.com",
-      "summary": "Meta’s progress and learnings in AI fairness and transparency &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-02-24T08:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing LLaMA: A foundational, 65-billion-parameter large language model - ai.meta.com",
-      "summary": "Introducing LLaMA: A foundational, 65-billion-parameter large language model &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUUpfR2xEZ0VCdndnUGRPVnVNUE5WWXZvWG5qdlBqTGx5dEJsSzlvNkVTeUY3YUd0VS1pak5NVlJhRUIzVVNzaTdmREJtV1BKRkVHdW95NF9Xd0N5Q3ktcEZKMkRCRTRDeDI4Yw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-08-22T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Bringing the world closer together with a foundational multimodal model for speech translation - ai.meta.com",
-      "summary": "Bringing the world closer together with a foundational multimodal model for speech translation &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1JNlJicUU0RTJWZ2VjNF96VlFNcnp0TTJnUk5KQWR3VFVxNWNkYjU0clozVG03eG1Ha0FwZkhzaTUwbE5TNUJieWx0OS1xVjQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-07-14T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing CM3leon, a more efficient, state-of-the-art generative model for text and images - ai.meta.com",
-      "summary": "Introducing CM3leon, a more efficient, state-of-the-art generative model for text and images &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JZGxuNGtxWjgwdFFCcGd4bjJ2d1dENHhQUG5YaEMwblFHWTVOaTVMbThuVDlEbXVzejhFcTNKLW9qbnRCeWxEeGJ1X2hKSGlnVHpBWGRlUHpJRXlPcGVCRlVtWWRCQ0JGR2s0?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-04-05T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing Segment Anything: Working toward the first foundation model for image segmentation - ai.meta.com",
-      "summary": "Introducing Segment Anything: Working toward the first foundation model for image segmentation &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2FhdVBMY0tXNDRsXy1XNjIwN3phVTdZcmMzRHBkQ1o0QmZKWVpIbmFTQThZQ3pCZHdwdjYxZzhCRGc3Y253X2xrSGVSMmY0WlpHcDE5VWRSdHJHSTZZTzV2aklsWTZoNHZBTkszUFNWNW5Jdm4wNlZXTFhnWEpZOXFfX1Q?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-11-30T08:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing a suite of AI language translation models that preserve expression and improve streaming - ai.meta.com",
-      "summary": "Introducing a suite of AI language translation models that preserve expression and improve streaming &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtWXYzSWY4aFloUXpubmhKTGFxM0h0LXJVMXpDS0ZGSUhsNmxoMUNlYk1xMXQ2YzRkbHN6bW5EcVZoVGVJVkZMQlZYdTBVOTJTV2p2Qk1meXpJdTNq?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-05-09T07:00:00+00:00",
-      "company": "Meta",
-      "title": "ImageBind: Holistic AI learning across six modalities - ai.meta.com",
-      "summary": "ImageBind: Holistic AI learning across six modalities &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55bU93UHNnRkxQY0RvZzRSWmlhZEZYWTBaeVRKNEFCb1Jtd1FNZTVkc0M3bHVGamctSlM2U2hJRkhhaE1BUVdtVEw1T2YzZEJhRFp4U0VkUzNfaG1LcExWV1o1WmEwZWhOOFJxYUV3?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-11-20T08:00:00+00:00",
-      "company": "Meta",
-      "title": "Building a chatbot based on Llama to engage an intergovernmental organization’s stakeholders - ai.meta.com",
-      "summary": "Building a chatbot based on Llama to engage an intergovernmental organization’s stakeholders &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCdWJ3cmJwZ1BLR0tZcTYzMXNGZWRwamdyUFVhX2E4c1hOdU1EUExGRmNoVm5NbjRyQ2JPOC1zalBidUhYNHpRZldIdklHQ0pfMEExTkRsVmRBZFA2SVBHV1Jn?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-08-07T07:00:00+00:00",
-      "company": "Meta",
-      "title": "How to fine-tune: Focus on effective datasets - ai.meta.com",
-      "summary": "How to fine-tune: Focus on effective datasets &nbsp;&nbsp; ai.meta.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RNHZlemtXVzBULUR3Q1RISHhZMVg5cHg3cDVjblRYSGdUQXpwaEdkNE9KSHY4Vjd2UXZUUm84bmxPNGVwNkpqOWVsZ2Q1Mm5uTkc5STZ1V3ROSjI1c2VtSEZQVWhSZG9NN3FGcWpyQl9uWkpVUkhYQw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-30T07:00:00+00:00",
-      "company": "xAI",
-      "title": "Grok Build Changelog - xAI",
-      "summary": "Grok Build Changelog &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9TUTByWWFSbHJPbTBkVk1Ic2dKLXE4SXhqYTdWb1hKZDhDU0pXN3hQSlZfcE5DUUIyb3Jrem5IZ1J4UQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-12T20:20:59+00:00",
-      "company": "Microsoft",
-      "title": "Sign in to SharePoint - support.microsoft.com",
-      "summary": "Sign in to SharePoint &nbsp;&nbsp; support.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNblRlV2d3QzhGUGhPX2hGU1dtN2ZwWjJtYUNBNUFkVUpDdTVSSzRqYUxjdUN2WHdaU001Y1h1dHYxMGRfTmZCYndRZ1NMd1BaMHJSbFZfbUd4Mk9QWkloOUxfYm9ITHM1OTR2bGVPNmFpX19tSHB5V2d5QWJITlB2bS15TXZOUEtKWlNKR3c4YjA5RzdDd1RzNlRsMlQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-06-12T07:00:00+00:00",
-      "company": "NVIDIA",
-      "title": "mistral-nemotron Model by Mistral AI - NVIDIA Build",
-      "summary": "mistral-nemotron Model by Mistral AI &nbsp;&nbsp; NVIDIA Build",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9neVowNkdxekRfdW5LWC1PYnR2M3dLV3pyeElfZ3lDQnlSQXlTTUlmaUFZM3JTbnZsM2QtS2RfcFdQVFh4TTMyNVNWcF9QNEcwWDZYakk1RnlhRXlVOUtESQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-17T07:00:00+00:00",
-      "company": "Anthropic",
-      "title": "Introducing Claude Design by Anthropic Labs - Anthropic",
-      "summary": "Introducing Claude Design by Anthropic Labs &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JT2syNlBSbmRUM0xtZzl3bG02dTRicmR2N0J3UDRpQ29zY0tSeEhoUmp5dEJyWmhfY0I2MzVEbjY3NkV4UTJtYzhKbDB6Ri1PSGJDSnJhY3o3T1JfU3FMcEVFUjFjbkNVaGR3?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-05-20T17:49:27+00:00",
-      "company": "Google DeepMind",
-      "title": "Lyria 3.5 - Google DeepMind",
-      "summary": "Lyria 3.5 &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5mVUxrWGNRVDEzeFp3aXM2OS1qMGhRWGxmM29jbTAxNVBIVzNzUGQ5RTFTTDgxNEtJN2ZEUTJ3WG45b19qN0JUNGRJVHBHUQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-01-11T08:00:00+00:00",
-      "company": "Meta",
-      "title": "Meta’s progress and learnings in AI fairness and transparency - AI at Meta",
-      "summary": "Meta’s progress and learnings in AI fairness and transparency &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56SHJJX2ZJOWFDM3B6TVJLaVlWcFF4MkJEWlBBMGN3YXNNei10bFhlTDBfTmlPbjlSUkFxUUxKdWgzLXhJaVBZdDg1MlBJdkQ1dE44QlJXdm1VNmZnYmx0dmRGOWxlVHBuN3FR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-02-24T08:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing LLaMA: A foundational, 65-billion-parameter large language model - AI at Meta",
-      "summary": "Introducing LLaMA: A foundational, 65-billion-parameter large language model &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUUpfR2xEZ0VCdndnUGRPVnVNUE5WWXZvWG5qdlBqTGx5dEJsSzlvNkVTeUY3YUd0VS1pak5NVlJhRUIzVVNzaTdmREJtV1BKRkVHdW95NF9Xd0N5Q3ktcEZKMkRCRTRDeDI4Yw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-11T16:04:23+00:00",
-      "company": "Mistral AI",
-      "title": "Agents Introduction - Mistral AI Documentation",
-      "summary": "Agents Introduction &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBoVU9HcWkyT1A0WDZCREVadi02S0FGb0NwX2VpNXhoSk9DcHR4UnU0VnQzck5TUTU3VFhJOTJzWmktTC1GRWdyQXBGcjNKaFM5T293dXBrWXBFbko3OExF?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-17T13:05:30+00:00",
-      "company": "Mistral AI",
-      "title": "Test a model in the API playground - Mistral AI Documentation",
-      "summary": "Test a model in the API playground &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTkZPSnhCVFlqWjVwaXlIOGlmRGNWLVVKMnJHaUFnS0VFeFRkVkNJaHNDeU52UDhnX3pXN3ZCTDJOUWtFRFRLUi1fRmY3UmVBLWNRSmpJTUxLMGtIWWtROU5QeFJFbWRiMVZVM0tjUTlnelBZVW5KSzctOTFlLUhsWm1MUk11NE0?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-25T04:51:25+00:00",
-      "company": "Microsoft",
-      "title": "VLOOKUP function - support.microsoft.com",
-      "summary": "VLOOKUP function &nbsp;&nbsp; support.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSZ2lHdDdEVEI2NmFrUE8tajhKMXRBOUVCR1poNUNzSXR5b1E5M2RvajB2MEM5LXlfc2ctTUhKMUtJeE9jbEdlcHJmZF9UdWdIOHdMMlRaaVgycW1zbDk2Y05MejZOSVNTMkg0UHQ2V2c3NUhLbVRR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-25T04:58:20+00:00",
-      "company": "Microsoft",
-      "title": "IF function - support.microsoft.com",
-      "summary": "IF function &nbsp;&nbsp; support.microsoft.com",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwaFJMZ1pWVjRlaE1vMU1HTXBWXzVLLUhGOVMzQU5Cb0FFSmFvLURHWkpkRmQ3ZW03N1NJTHhnRHpNdXpPQTU3VXdianRnS3RqTmVmTld2ZlZCdlM0Zi0wUHNzS1h1M3FrbTlReDdhUlU?oc=5",
       "kind": "News"
     }
   ]
