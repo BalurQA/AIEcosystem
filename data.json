@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:14:20.753239+00:00",
+  "generated_at": "2026-11-01T17:55:13.226482+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,30 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-26T13:11:09+00:00",
+      "company": "Anthropic",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering - Anthropic",
+      "summary": "Anthropic files S-1 with the SEC for proposed initial public offering &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBnZUdLN3hwaXFFbndLU0FTMC1INVZzenp4cl92WXJqM3VDWTZUSXN2S1NTdzBjeTBDaUZmRHFud1M1azhBX3pmcFAxR3Nzdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-07-14T15:34:25+00:00",
+      "company": "Microsoft",
+      "title": "Responsible AI Principles and Approach - Microsoft",
+      "summary": "Responsible AI Principles and Approach &nbsp;&nbsp; Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNdmdWc0NLX08yakdYbGUxNDdoR3RkZjEzN0VxTmp1WUM2ckJZaVl6TFFWb29LVUJKRGRXRDNBNmRBd2laWldQaDd5RVhhQjVCMDNmX0lRRTB5S1ppck91RUtLYk4waVNfdkE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-26T06:58:53+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Infrastructure Engineer - Sarvam AI",
+      "summary": "Infrastructure Engineer &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSZnF2UGxOT2xlZXRfVldGamNZWjBiQ19tanZ3aXpBOEJmWVVvaFZDa1pTekFidDJWQXU1UksxQndYWnZnT1pOVy1oYWp6dEN5Q1kxVHdNa0pGSGVFd3AtV19waElZY2d2U2lRZ0VHN0l5Z09BcmVLVVlKVQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-05-19T17:49:46+00:00",
       "company": "Google DeepMind",
@@ -4537,30 +4561,6 @@
       "title": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient. - deepseek.com",
       "summary": "Introducing DeepSeek-V4.1-Flash: smarter, faster, more efficient. &nbsp;&nbsp; deepseek.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE14djVpMDdpbnhCWHIyQVd5NTktcU93TE9UU1FLZVNrdDF1N05nSWEwaFd6LUZYTzJkVEIwMTJ6U18wQkQ0Nk9Sbk56UDh6ZmxrSS1ucENKM0tsdXF0ZGw1bEVqcw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-30T08:00:00+00:00",
-      "company": "DeepSeek",
-      "title": "Pushing the Frontier of Open Large Language Models - deepseek.com",
-      "summary": "Pushing the Frontier of Open Large Language Models &nbsp;&nbsp; deepseek.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IU3F2UEpaNVBrbWZkbTE4ZDY5cUFGUUlLSlVrR2J4aG5JQUotTS1EcFJWQmk0UjdpOGFCTV9LS3pUdzM4NmJ4ZGYxaTNZTlBaWGV2b1Q2SVJwUWM?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-12-09T08:00:00+00:00",
-      "company": "DeepSeek",
-      "title": "The Grand Finale - deepseek.com",
-      "summary": "The Grand Finale &nbsp;&nbsp; deepseek.com",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LVENJdU1GSUwtczFSeUhZWHo0amI0dVF6aEQyZV85QkFfUi1uZktQVjFxYjNGWkhXYnV5anJnaU9xbFhXMHQzU3FlR2dJWnRIb3BNRTFnSQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-13T15:03:06+00:00",
-      "company": "DeepSeek",
-      "title": "Research & News - deepseek.com",
-      "summary": "Research & News &nbsp;&nbsp; deepseek.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5udThJSXludHZIcldaaVBud1hNVGlFS092QWxMVkZobVhMYXkwY0NtRUZJbmxxTENwb2Jvc0dIN0pPTl9mTGt5dA?oc=5",
       "kind": "News"
     }
   ]
