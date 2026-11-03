@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T21:41:25.568209+00:00",
+  "generated_at": "2026-11-03T19:28:24.643912+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,110 @@
     }
   ],
   "updates": [
+    {
+      "date": "2025-02-04T19:04:07+00:00",
+      "company": "OpenAI",
+      "title": "OpenAI Newsroom | Recent news - OpenAI",
+      "summary": "OpenAI Newsroom | Recent news &nbsp;&nbsp; OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MdEZSYjlTZHpQelBIdWZzMTRTVVlhRWZsNHpFYkFZT1p1WFRkS2hkVkJOLW5zRlRsQnBSdlBscGUzelJuYnFwUkRndldEMmpzajdRS09qRWFDdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-31T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Improving our alignment and security practices - Anthropic",
+      "summary": "Improving our alignment and security practices &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00LWY0NEplRlIyRFlGZENXb0VQc0ZNb3BuSjlZeTB3OWdqWEh5eEFxbzJMa0hFTkhrYy03NjZ5MGdsMnNKbHJsXzVpVENSb014eXdXaEkzOXFHWUVRa1U3TXhpVWZCb0FJaHFqWTJhLW9JbGtYWGc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-14T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing Claude for Teachers - Anthropic",
+      "summary": "Introducing Claude for Teachers &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qdmFxWUxkdG9wTlNsZXE4ZVhfWUU0QjMtMmRvenk1cTVCb1B6dmgzMnR3ZWJRNGcxUWRiRDRGbVdzTkdWUUNIUF91Ml9ZZzVmTjRtc3dzNHdIWklWREUw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-05-02T17:36:03+00:00",
+      "company": "Google DeepMind",
+      "title": "Careers at Google DeepMind - Google DeepMind",
+      "summary": "Careers at Google DeepMind &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40RzFRTzAzbGREeXl4eUFBQ2x6UC1kQTgtZ2pzakQ0WmdpbXNUVGhBQVpfaWxnZnozTDFIQVMxQlFWSjYyWlc4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-02T16:00:15+00:00",
+      "company": "Google DeepMind",
+      "title": "Fairwind Program - Google DeepMind",
+      "summary": "Fairwind Program &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XT1o1dzdFUTVJY3Z2dXY1eUd3R2ZKeUF0Nk9kQ1JmMG9xNnRhR0h4WVJZSy1mVjN6MndEM05UYVJVMGw1ZTY1X0YxbzBmLXRtNGgw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-29T17:45:16+00:00",
+      "company": "Google DeepMind",
+      "title": "How to create effective prompts with Genie 3 - Google DeepMind",
+      "summary": "How to create effective prompts with Genie 3 &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4WDZmYmhhNXJldFNlRG9zUHZnOGtIVnRUMGtrZ3pCci1RbXBuVDZJaGJuUGZwZV83ZWRqM2Q4MVh4RWdUTmZIV3dfV050WjU4MVJMaG5yQzZhNko0MGg4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-12T07:00:00+00:00",
+      "company": "xAI",
+      "title": "Introducing The X Subscription - xAI",
+      "summary": "Introducing The X Subscription &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-31T16:57:42+00:00",
+      "company": "xAI",
+      "title": "Output Watermarking | SpaceXSI Docs - docs.x.ai",
+      "summary": "Output Watermarking | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1NUXVhTmk3Y2JsTmZUZ2ctU1BnWnN4S2J5eXoxOVJXNFc0Um9wQVBaSnhHczZNWVlJXzh3VXBzeVJUdHpweDJKek85eXVnSk82cXdvT1hwT29SOWttcmRqbDBsZVJNZTZtZnJXaw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-16T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral Small 4 - Mistral AI Docs",
+      "summary": "Mistral Small 4 &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WYWZFSjh0MXBuNl8yUXd3MGItT3BEWmFhRFlpUmlGSlF1SDVPa2ZXTzBnWkh1d1AwVnNTYmp6Z0t1Y2JYZ2FpRlhvT2RHWFk4S2F5YndNWDVOZGgwQkJnWDItT08?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-18T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery. - Qwen",
+      "summary": "Qwen3.8-Omni-Flash: Omni Senses. Agentic Delivery. &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE04U3dzQkFxSGZYVDZSWFFPZklvaWVxTDB6Z1NjaVNJUGRYSU96S0pObmpXVEZKR09wckFCQm5IdUpBZVM5N19iUXRjNnFJVVR0WjFMRQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-28T15:59:27+00:00",
+      "company": "NVIDIA",
+      "title": "Nemotron 3.5 Transcribe Technical Report - NVIDIA",
+      "summary": "Nemotron 3.5 Transcribe Technical Report &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmhfalQ5bGZzWmlxV1hzWFh3NmhXVW5iY29EUDRKZUJmTnhQTjhlNWstWlJOR1hnM1Z3RFVTNzhxak0ySkJqc3Y4TkxpLXBjREQyYkY1SC10dkNXdk5jTDRvamd0WV9qbWhtbGQzWXlCclQ4Wm1TY0lPZHJwbEpZOGpDc0I3S1J4NEcxcDUzMnpWVEpNYmtaR2k3dklVTmNk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-03T07:01:50+00:00",
+      "company": "NVIDIA",
+      "title": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI - NVIDIA Blog",
+      "summary": "Cities Worldwide Build and Scale AI Services With NVIDIA Physical and Agentic AI &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DUUgwMjhPQndKakxnUGhsZlNIMmlsNEdjVlJkd0JUdXdnQjBuMzJWeGxRaWxuQ0t4aGo4eWtPUzN6TUlKaUpGQklGbWZsVG5jVnNNVjkwRmxlMWYtTjhzYlgwaHJfbnVEdTdfbEIwYmtZWmgwa21xZEZR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-03T12:53:10+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam Prism: a decision model built on Sarvam 105B - Sarvam AI",
+      "summary": "Sarvam Prism: a decision model built on Sarvam 105B &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wYThKSG1YMTh1Q3JsbVdfWExXS3ZwMTQxdUk1V3RWRld3dk9qU3liNFp6RXNxUjluYm1YZm9BZEllTkJyOXZ3SGlOLV9xMWlZWmc?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-01-11T08:00:00+00:00",
       "company": "Anthropic",
@@ -4457,110 +4561,6 @@
       "title": "Engineering - openai.com",
       "summary": "Engineering &nbsp;&nbsp; openai.com",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9yLWlsWUVka1duZXJTWFZ5czQ1T2M1QlVMSk1OVFlNZjhCMzZsUWhVTmk3SjUxX0tLZEJiSVdUZG82Vlh3ZlhXcm1aR2o?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-04T20:04:21+00:00",
-      "company": "OpenAI",
-      "title": "Product News and Updates - openai.com",
-      "summary": "Product News and Updates &nbsp;&nbsp; openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GV3M3MzRFLVJDTnhWWFRsczRDdTZXanNRenZ4TDNjWE5mWkgtZ1k2SWNUTzVWS0dILUViNnYwRm9QYjY5cE1ZRWtlLTZjNFRpb19R?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-04T20:32:24+00:00",
-      "company": "OpenAI",
-      "title": "Security - openai.com",
-      "summary": "Security &nbsp;&nbsp; openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5xODdwVTZzb3BoRmtuSWtwMjVseHRpRkk4QnpCdTdoZUprb2RYckU5dERlTkJQcEJEVFBhdlN2THAzb3Y1T1M5NQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-04T20:32:24+00:00",
-      "company": "OpenAI",
-      "title": "Safety - openai.com",
-      "summary": "Safety &nbsp;&nbsp; openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42N1hpVW5hcHh4U3Q3YS1TczBJZGhKS1BFSW1RaDM2dUpRZzN5VS1HRmI4bzQ4NFByMVZUanhqNUZFLTFpVWZQY0Y1Y0V5NlB1WXZj?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-05T21:55:09+00:00",
-      "company": "OpenAI",
-      "title": "AI Adoption - openai.com",
-      "summary": "AI Adoption &nbsp;&nbsp; openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zb1NUaE5DS1d1XzQ4UFV4VHBTdkpueXFOX2dvUnRwaFNzRnhRSmdDOXNXZlhpZmpXVnF3bFpEa2IxTzFNZkZSUUZ4M2k?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-04T19:04:07+00:00",
-      "company": "OpenAI",
-      "title": "Recent news - openai.com",
-      "summary": "Recent news &nbsp;&nbsp; openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MdEZSYjlTZHpQelBIdWZzMTRTVVlhRWZsNHpFYkFZT1p1WFRkS2hkVkJOLW5zRlRsQnBSdlBscGUzelJuYnFwUkRndldEMmpzajdRS09qRWFDdw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-10T22:36:34+00:00",
-      "company": "OpenAI",
-      "title": "Applied AI - openai.com",
-      "summary": "Applied AI &nbsp;&nbsp; openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YYnd5cXBpVmx5WmV3dGZsdmdjT0ZudnZlbGNseUdPbERfc0d4ek5UYTEzLVRBZEhNNENadzkzajVxT0lYM1lzSWJ0VQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-04T20:32:24+00:00",
-      "company": "OpenAI",
-      "title": "Global Affairs - openai.com",
-      "summary": "Global Affairs &nbsp;&nbsp; openai.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB6SG1MWVM5LVh2WnM1Vk1YVFdPUHdXVEczTldRLTJjQkxYRGFqZlJ4dGsxaXU0MkJadXhocGdqTjktb09JX0M1WTZHYXFNSXFr?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-02T23:01:00+00:00",
-      "company": "Anthropic",
-      "title": "Claude Frontier Academy: $100M to train 10,000 engineers - Anthropic",
-      "summary": "Claude Frontier Academy: $100M to train 10,000 engineers &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FNlFxVHBSRkl5bVF0c253UE5sUEFac3dDZmQ4bzFjc2lER0hNcjFmUUxPVFI5T0xQcldFTXhsd1diR2h4UUVoRnl4TWxEVnp5WXpCMFdkZHNKdlA1bFV4QTVqUDI?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-01T15:19:00+00:00",
-      "company": "Anthropic",
-      "title": "Barclays scales Claude to upgrade operations and improve client experience - Anthropic",
-      "summary": "Barclays scales Claude to upgrade operations and improve client experience &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iWlNWRnpuZHlvMWUyZ3ZXanVqU1NjQ3FaaTlpVHlMaDhzdzdub25CMERKYThTYjN5RFFaSzBlZGJEbHNNMkpLN0M1Wkhfa2ltdFJZX0dpY3BJNndZLXhuRHN1Zw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-05-12T07:00:00+00:00",
-      "company": "Google DeepMind",
-      "title": "Shaping the future of AI interaction by reimagining the mouse pointer - Google DeepMind",
-      "summary": "Shaping the future of AI interaction by reimagining the mouse pointer &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRGNqaEY2Z1g3Z3lBaDBPT05Ra2V0aEVfQ0QtSVFLNjl4Qno4UWNfOWdRMjVKeFFPbUVncDdHamNuM0dhZTc5N2FpZTRJQUZ3NlE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-17T13:05:56+00:00",
-      "company": "Mistral AI",
-      "title": "Activate Studio and generate an API key - Mistral AI Documentation",
-      "summary": "Activate Studio and generate an API key &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjVuSTJYTlJNRWRhRngwNHU4RjgzYksxTER5Q0I4TW9RYjhHTWJFaVVOTERYLUhsbWctQkRjZjhvNFI2U2p0ZlBKZnVKVmduakhVLTh4NHlrTjdaSzZoOHdmdHlodmJ4cWFwN2pZX0gwYjk4aFV3R0t3N2tiNnZoZ2RRT19MOVlPUDVSajY5Q0hLZw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-05-28T09:04:16+00:00",
-      "company": "Mistral AI",
-      "title": "Install the Vibe CLI and send your first prompt - Mistral AI Documentation",
-      "summary": "Install the Vibe CLI and send your first prompt &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CUHdKTXl0OXNVRndUd3lSdW1NSmFSeUNLaGxicnF3TG8xcGg5VzJxaTRXd3ozanpILThnSDZyZEZjSmQ2S1ZiV0hmcjc5SG5OZTdDTW1UUklrUEIzVnF5ckhUemlWWnpfRXF5VVFWRU5nZDJyYzZ1ejBBTjJMZw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-20T07:00:00+00:00",
-      "company": "Alibaba / Qwen",
-      "title": "Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation - qwen.ai",
-      "summary": "Qwen-Image-2.1: Compact, Efficient, and Unified Image Creation &nbsp;&nbsp; qwen.ai",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kOWZ2LWVwakZKT3V5VDFHMHh1OTJoRjFHUmxqLXNOUE56REhrNlFZVGZpVUphUDBoTmlKTXVRdmdib0RWOHF6a045YXJ0NjA?oc=5",
       "kind": "News"
     }
   ]
