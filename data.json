@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T19:42:39.582235+00:00",
+  "generated_at": "2026-11-05T19:53:54.655631+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,62 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-11-05T15:48:49+00:00",
+      "company": "Mistral AI",
+      "title": "Agents, workflows and apps for your business processes - mistral.ai",
+      "summary": "Agents, workflows and apps for your business processes &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vb2Y2YS15S1NVQ2pMNGpPNzdkaklaQ3hHRkU4WnoySVNJNWZ0R3ZBTGFEU1pyNTB1ZmtlUmozdTJGUkJkV2ljNVZGMFA0UFlEOEg4OQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-05T16:03:26+00:00",
+      "company": "NVIDIA",
+      "title": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models - NVIDIA Blog",
+      "summary": "The Wizard of Open Weights: Chris Alexiuk Makes AI Easy With Open Models &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TaG5XMnFrN1hEMHlqWWtHSmRaeTFwWW1hTVkyQ09pMXlvQkxkNUdoc3N0MlRwX3FsR19fU1ktdmlLdEVHbTZmazZEcV9XYk43XzJkRHlOLW9EUkJPcG0tcUFwNXRHbEU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-28T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "nemotron-3-nano-omni-30b-a3b-reasoning Model by NVIDIA - NVIDIA Build",
+      "summary": "nemotron-3-nano-omni-30b-a3b-reasoning Model by NVIDIA &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tbFZMQ09JMHQ3R0VZYzJ5VXRfZzRQUy1uUUtRWHctUFN0UHBqMDhtbmlQZjNZZGJIR2RKRlVQcEhVcGFYQVNLM056UllSTElOTDZtd19QVlZPVkQ2UVZOOVdWVVF6ZXJYeHBZYUk2ekVodmxIVFpNcVV3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-27T08:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon Nova understanding models available in Europe and Asia Pacific - Amazon Web Services (AWS)",
+      "summary": "Amazon Nova understanding models available in Europe and Asia Pacific &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFpJQVZhLW8yLXlVQjQ5NFhBZXJFUHlGT19KRUpLcXFNbjJQZU1mR3lfWGxqRzF1bVJUSUhHVHZTbFRYWlNSdVBXbFdIRDk3QjF2MmdweDhpWnY4T0hhU202SV9fQUxvcTNZLWJ1SVI3WFhwU2lOcy1sZGw1SjlHWkwyaDlibDlSMlBzaW53Wng0U3hLNk5IeXd2cFpsQ2VrOVk3RGZSUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-09T07:00:00+00:00",
+      "company": "Baidu",
+      "title": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards — A Model That Writes Better and Understands You More | ERNIE Blog - Baidu ERNIE",
+      "summary": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards — A Model That Writes Better and Understands You More | ERNIE Blog &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KQVI1emFRMjVPV1VjdXIyb05KYW9WWTRBNE1yQVZ0SkM0TW9PejJUUlJKS0pqcU9ISEFCOEN6aTZ2X3Vmb0lTX2gxcDlKbW5HUzlUak9JbEpiZXdkUDdHTDRrMUVBcXVpMXc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-09T07:00:00+00:00",
+      "company": "Baidu",
+      "title": "Posts - Baidu ERNIE",
+      "summary": "Posts &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90M2pYRnhsVDhYVnhkOE1mc1dnQk5PN2NJNmRqT2JPeERVQWtqTk4wVWJjT2VxcExzYkp5RnVTc3lzYTdXamNXRlF0WQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T13:05:34+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Welcome to Sarvam AI API Reference Documentation - Sarvam API Docs",
+      "summary": "Welcome to Sarvam AI API Reference Documentation &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5NR0JmODhySGRqMW9JNElmTmp6bWVWemZMRVoyajVfRDByVTFlMWdQTm5hWFUxNEE2cHBCdUxuOThzZzFmOXpTRHlmbE8wdXZfVEhHWndWVWFhWjNTcGc?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-06-09T07:00:00+00:00",
       "company": "Anthropic",
@@ -4505,62 +4561,6 @@
       "title": "Shaping the future of AI interaction by reimagining the mouse pointer - deepmind.google",
       "summary": "Shaping the future of AI interaction by reimagining the mouse pointer &nbsp;&nbsp; deepmind.google",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRGNqaEY2Z1g3Z3lBaDBPT05Ra2V0aEVfQ0QtSVFLNjl4Qno4UWNfOWdRMjVKeFFPbUVncDdHamNuM0dhZTc5N2FpZTRJQUZ3NlE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-05-02T17:36:03+00:00",
-      "company": "Google DeepMind",
-      "title": "Careers at Google DeepMind - deepmind.google",
-      "summary": "Careers at Google DeepMind &nbsp;&nbsp; deepmind.google",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE40RzFRTzAzbGREeXl4eUFBQ2x6UC1kQTgtZ2pzakQ0WmdpbXNUVGhBQVpfaWxnZnozTDFIQVMxQlFWSjYyWlc4?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-29T07:00:00+00:00",
-      "company": "Meta",
-      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery - AI at Meta",
-      "summary": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uT0UzTC1ocmFNckxuQzhhQWpMMGMyS3pfa0drbUxnNjB1RTZDbkxpWm5wRDB0SDc3WkZCNWU5My0xUFhrbFBzM0lyNEgzNUhaLUM5V0U2QjFpQUF3OXdPYmNTOWl3MjBUNVZRNHhra0FtY1h2N3c?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-11T07:00:00+00:00",
-      "company": "xAI",
-      "title": "Introducing Grok Bot - xAI",
-      "summary": "Introducing Grok Bot &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CZnlxMXRUUXNoeEMwOGZIcjVOLW9JODJFTTRSV21XV2FvU3Q5ZUJpS2FOcTNoay1ud056cG5tcEJGV05uVE5lWlFFeVpDUXc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-11T16:04:20+00:00",
-      "company": "Mistral AI",
-      "title": "OCR Processor | Mistral Docs - Mistral AI Documentation",
-      "summary": "OCR Processor | Mistral Docs &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1xZk5ZZ3NvUmdtaEV6VFlwNXpndlNZNG9KMWw4R0lRbEVBcE1GWXpHQ0xpWXd0Vk83TFh5Y080OG5JaFZPaDFkQWJ5ZEhtdEZPTVQ5RGVkcjZlcDNnR1h5OE4xb0pXcEFnUzYtdA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-12T06:51:27+00:00",
-      "company": "Mistral AI",
-      "title": "Resources - Mistral AI Documentation",
-      "summary": "Resources &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5CeVloa1N3QVpkQXQxUXhnTkJReHhUTVljVUxwQVA2dnc4TWMtMEhxRUVqM09rdGVaRVNxbzFkRkZWbHFhZHFIWQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-01T07:00:00+00:00",
-      "company": "Alibaba / Qwen",
-      "title": "Qwen3.6-Plus: Towards Real World Agents - Qwen",
-      "summary": "Qwen3.6-Plus: Towards Real World Agents &nbsp;&nbsp; Qwen",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GVGpkSHR5enhrODdNTHdLOEk5VXF5WG0tQkRJOVF4bURYbGI3T1Z4azV1WnhEREItaV9Jem9MWDVXR2JCNVE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2014-04-16T20:51:41+00:00",
-      "company": "Microsoft",
-      "title": "Microsoft Store - Download apps, games & more for your Windows PC - Microsoft Store",
-      "summary": "Microsoft Store - Download apps, games & more for your Windows PC &nbsp;&nbsp; Microsoft Store",
-      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1LVHFFZ1lJR1VvRUhIRmdNQ0tIVFZZczEtX1U3a1pUbjI5Z0puRnJkeXoteGtfYVg3OHhxVmlKMU0?oc=5",
       "kind": "News"
     }
   ]
