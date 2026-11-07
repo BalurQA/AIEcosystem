@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T19:20:41.079616+00:00",
+  "generated_at": "2026-11-07T17:43:46.875908+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,54 @@
     }
   ],
   "updates": [
+    {
+      "date": "2025-10-20T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Claude for Life Sciences - Anthropic",
+      "summary": "Claude for Life Sciences &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB6ZkJDUjcyZGJOY1E2QlJxZWRqZ0w3ZThjc3pyMk02V0tMQ29ZMVVxV3F3WFhQMU9EZG1NN0x5bG5udE5ScWJCbkdndDYzSXR6aGRzcXR1TC1vT0x0OWw3UFdleThrUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-05-21T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Getting Started - Generative AI with Phi-3-mini: Running Phi-3-mini in Intel AI PC - Microsoft Community Hub",
+      "summary": "Getting Started - Generative AI with Phi-3-mini: Running Phi-3-mini in Intel AI PC &nbsp;&nbsp; Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQ3JMSjdWZHFrQlFvZ1FLWVEzRzg5NkN4OVdDSWhNS284LTc4XzJNTExFZURCRjJkMktHbEx6NnVtZU80czhkOVlPaXhiQlloNU9UN2NQMjNRNWNrMVY1LTZTQ2pUZVAxTlg0dklxT0dsRWIzcm9Ja21rZzVaa3pMRjRuUUJ0QlJRRVYtcVRKcm9iN2lTMnM2aFA3bzFLdEV3Ukh6ZzJFZzctemhXX0dxcTFCUGdrM0hZVHh4bXRQNTBveEZwdVYzdFVfX2o0SWRpRE16d2dSNlE0NU1UdTE5VnI0VWxiZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2021-10-23T16:18:35+00:00",
+      "company": "NVIDIA",
+      "title": "Inception Program for Startups - NVIDIA",
+      "summary": "Inception Program for Startups &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ua3M0VU92VmwyUTFuSjVVSzBQSVYyQ3FEWWs3b2F6NTl1bkdTMjlyam9Xb28wd3dFUDFlNEYyRGRjNjlxLS1hcWNlT2JZUjg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-05T09:07:57+00:00",
+      "company": "Baidu",
+      "title": "Research - Baidu ERNIE",
+      "summary": "Research &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3aDd4a2hoTFBGenY2c0Nlc0hiVHFBbzcwTFNrN2gwcElzekFmaG5NSVAtZ3VWVzRJRTUwMS04Y1pmY0lXZ3ZiMg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-11-11T08:00:00+00:00",
+      "company": "Baidu",
+      "title": "ERNIE-4.5-VL-28B-A3B-Thinking: A Breakthrough in Multimodal AI - Baidu ERNIE",
+      "summary": "ERNIE-4.5-VL-28B-A3B-Thinking: A Breakthrough in Multimodal AI &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPaEVmWExxS3lTWGpESTEyeU9nOXoxdUxUUXg0NTVUWFctQlVPdEVxc2x1RUJDNm5JSU5GVTQxVHA4MHB0RFJYRmd1T3FhQm8yd3FlTHVHNXR6SHBrS1ZpV0k3emVBT3VCVEFCazl3ZHhlWHM?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-18T19:00:44+00:00",
+      "company": "Baidu",
+      "title": "ERNIE Bot（A knowledge-enhanced large language model released by Baidu）_Baiduwiki - 百度百科",
+      "summary": "ERNIE Bot（A knowledge-enhanced large language model released by Baidu）_Baiduwiki &nbsp;&nbsp; 百度百科",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10ZlRyTS13Y2M5M2RvZi1qeDA0dnQ3VnE0eXlOU3RYU2FTQnlKZzg4RElOa2pIcno3d2gxNzN1Uzl5andzWl9BMDg1dVlHcDVKTWkycEJHMWxjRkVWdlE?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-02-04T08:00:00+00:00",
       "company": "Anthropic",
@@ -4513,54 +4561,6 @@
       "title": "ERNIE-5.0-Preview-1022, ready for testing in LMArena! - 百度",
       "summary": "ERNIE-5.0-Preview-1022, ready for testing in LMArena! &nbsp;&nbsp; 百度",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTEVJTThEcHFIRjYtOXVfWnNuRzFqcTAwVDRQd1ZRejRxb3B6OXd2ZW13c2RNTEZwWkVMTmJjNGtURjk5b0VfYWNUeHhITk9QYk1JZGNkUEJyQUNkb3BMYmNOTlNYQm1nUEU1WVFpRXUzZ2RROUpoZ1phVHZlQjBKXzFoRQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-19T14:41:50+00:00",
-      "company": "Zhipu AI",
-      "title": "Inspiring AGI to Benefit Humanity - zhipu.ai",
-      "summary": "Inspiring AGI to Benefit Humanity &nbsp;&nbsp; zhipu.ai",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zR2RJd1RidnViNkp1bEUwVklwV3hralJYRUdNaG0waFhZRTBTd2ZYOEVReTd4YUJheWIwWTlSTHd2UEQwUmNN?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-04T07:40:13+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Introduction - Sarvam API Docs",
-      "summary": "Introduction &nbsp;&nbsp; Sarvam API Docs",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04bWtsQ1dCU2xIUFlZNjk4aktaN2pLaVI2TG5oMjZoMHFjMXBmeGk1bUpzU3pVZXVFLUxWbWVDMFk5YXZaUDVyank0ejc3RkptZWN4NVJPMmlqTTA2RVE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-23T18:03:33+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Growth Marketing Intern - Sarvam AI",
-      "summary": "Growth Marketing Intern &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xeGVCdGI2R1pPQm9td3VWSjFKRW1pWkxiNlAzd1BncUNETWxPXzdRc0pKdEpyY1htRVEtT3lIVDZxMnZzNko2aU5jdG8tSmZmcjQwMFNvSWxYYjVUSDBUSXo3MXBwTVZlejRFSUNMc2lhYkYtU203UlpzTQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-04T19:04:07+00:00",
-      "company": "OpenAI",
-      "title": "Recent news - OpenAI",
-      "summary": "Recent news &nbsp;&nbsp; OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MdEZSYjlTZHpQelBIdWZzMTRTVVlhRWZsNHpFYkFZT1p1WFRkS2hkVkJOLW5zRlRsQnBSdlBscGUzelJuYnFwUkRndldEMmpzajdRS09qRWFDdw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-13T08:00:00+00:00",
-      "company": "Anthropic",
-      "title": "Disrupting an AI-orchestrated cyber espionage campaign - Anthropic",
-      "summary": "Disrupting an AI-orchestrated cyber espionage campaign &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5dFRNdGRsMmVuU1RsMmI2dUlFUG9fUVEweEJsQ0hZUTFTNnk5NVk1a3QzWG5jUFVnVFY2bGEwSnlhQWk3bHd0c0NnOXAyS0hMelA3MW9ZTldsOXJ5VURESHJYNWg?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-03-14T07:00:00+00:00",
-      "company": "Anthropic",
-      "title": "Introducing Claude - Anthropic",
-      "summary": "Introducing Claude &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tYVlnN3MzNmp3ZXJDQzAwUUktTmFMNFY0V1JDZ3RKVlBjSnRFUHJuYmdJU1Q2NjlWd0I3YkVpbHdWR2g1VXhnWVdRRHZfT21zY29rYVR2dTdzbm1kVUE?oc=5",
       "kind": "News"
     }
   ]
