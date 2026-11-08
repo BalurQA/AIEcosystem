@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:43:46.875908+00:00",
+  "generated_at": "2026-11-08T17:55:09.884283+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,38 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-07-20T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge - Qwen",
+      "summary": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1MaUtqY3Y0dlhVQUszbGROdzlteDBSeEk5Tklya192U0FnWmRlanVzMk50aXdra0tUMy1Lem5GbzVaUEIzR1lHR3lKRFZ6SUk?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-02T07:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork - Qwen",
+      "summary": "Qwen3.8-Max: A New Bar for Coding and Cowork &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5DYWFTeU5TUEJPRnU5dTdLa20xN3NSOWI4elR1dXZVMWNwV0dJV2hGeFhzak5yUm1zOWNCUFZncWNVbk5xbkE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-03-11T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Building AI Agents on edge devices using Ollama + Phi-4-mini Function Calling - Microsoft Community Hub",
+      "summary": "Building AI Agents on edge devices using Ollama + Phi-4-mini Function Calling &nbsp;&nbsp; Microsoft Community Hub",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZmJuX01LZmtzUEFrenNOTXBDM2hSbzQxSEZUT0plZUhJUndEZ1N4bms3bko0eUdJeGN6VFVtb0Q3RndYOGJ1V1h2SHd4SXRLVV95T3hPaEZiRy14aWV1cWxaOFhvNTZtU01TenBPcjEzanJfNTBxRzZEb3RVXzJSclN5ZE0tZFE2M1FoaDlsNG1tcS0xLUQ3TmRKMXJ0bXk0N1Y0NmljWFRrUTI1OWlLUTZpam5LcFpXdHRwR2FXLXZwS1BzaUZ4THRLSFVzNUY3Xy1GTUNYMGtMUzkwSlRHOQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-04T22:01:46+00:00",
+      "company": "NVIDIA",
+      "title": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "How NVIDIA Uses AI Agents to Streamline AI Factory Operations | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUUh4bkR6cVlad3g1M25Ia3VmemRveHpxd0JJc2t3cnY1WUg5VEFJR2NNWW83ZUt6WTZTQ25MNWtpanVNc2d6STZiZjZLZ0t6dDUxZTN4b0x4TzVqekNKQXBYWnhtQzdseWdPTG1NQUcyX3hnS3poYk5XUTlWWDhiYVkzN2xCTlBUNFZMTDRqSDQ2a0lhOFhsS1hvcGo?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2025-10-20T07:00:00+00:00",
       "company": "Anthropic",
@@ -4529,38 +4561,6 @@
       "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay - NVIDIA Developer",
       "summary": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay &nbsp;&nbsp; NVIDIA Developer",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUN5QURQRHhJYmdNNjdxcWxJNUk2ejBIRjdFRFNFOW1DUlkwWXZEek55Q2V0azY4eWhzcHNFaE4wWWJKT1lxNEUxN1NldUNtUmVrQXBLdTJHZC1uOUdudUpYRVVNWnlEOVVUM0dIb2JONkVQcnRRTzVxQTE5aUljN3JCQks5Z19qTXhjTmFYOXd2UQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-16T07:00:00+00:00",
-      "company": "Amazon / AWS",
-      "title": "New AWS experience helps builders get started and ship faster - Amazon Web Services (AWS)",
-      "summary": "New AWS experience helps builders get started and ship faster &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQzU4X3AzX3hXM0pOaEJUSHdNUDlMTzFFcmF0LWNfSE5xYndZNW1OVEF3ZUR5cmxJRERKR1k0eFJfRjlNTWZicm1QazZSMFlTdmwza0ozbGR6RlJ1X0psczFKWUdPRXhhNkhXSm5GSU5xUklzcEtmajI5R0RTTERuZk5ad1g?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-06T02:24:40+00:00",
-      "company": "Amazon / AWS",
-      "title": "Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents - Amazon Web Services (AWS)",
-      "summary": "Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xUll3RlhGM0cyTzI5MDE3emNhVVRiajZSNnh1amU1OWI4cVk1elFsUWczSmNLSzRJVzNEbklsN3JGVHVRSC0tWFZCTEpaSmJjYXVGMDJoV0t3OHVEV091RjhGNHFLNEhfcEp3bGR5QldVc0doWFNFUkhFaWhuQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-05T08:00:00+00:00",
-      "company": "Databricks",
-      "title": "Research - Databricks",
-      "summary": "Research &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02eTE0dDRoOG5UR21FYWdFdUFsZThLVFRGM3c3Q183QUJXQldKNlhBOExsZWJTLUE2QlNMTHJ2MHoxRnVfY0hYcjZnczNlc0UwMHZST1h1MzlxRllGUFE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-07T08:00:00+00:00",
-      "company": "Baidu",
-      "title": "ERNIE-5.0-Preview-1022, ready for testing in LMArena! - 百度",
-      "summary": "ERNIE-5.0-Preview-1022, ready for testing in LMArena! &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNTEVJTThEcHFIRjYtOXVfWnNuRzFqcTAwVDRQd1ZRejRxb3B6OXd2ZW13c2RNTEZwWkVMTmJjNGtURjk5b0VfYWNUeHhITk9QYk1JZGNkUEJyQUNkb3BMYmNOTlNYQm1nUEU1WVFpRXUzZ2RROUpoZ1phVHZlQjBKXzFoRQ?oc=5",
       "kind": "News"
     }
   ]
