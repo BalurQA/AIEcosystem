@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T17:55:09.884283+00:00",
+  "generated_at": "2026-11-09T22:17:13.359229+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,134 @@
     }
   ],
   "updates": [
+    {
+      "date": "2023-07-11T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Claude 2 - Anthropic",
+      "summary": "Claude 2 &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KNGYyT2x5d3laOGhVVHlOSjNpUFMyY0M5R2FwUnlYaUtRYkR0TTVNQlVtaERPNkFKUVBFSDBHaHdQSFNpUzZ1ckkwajNMZkpz?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-24T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing Claude Opus 5 - Anthropic",
+      "summary": "Introducing Claude Opus 5 &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iczRhdUZaZWkyQ2RXakhsM1ViSF8wclZFX25KdEF6WU1UTEtMQXJhYnpiZnJRUWd2LXNoSkF0TnFQWEpBZzN2b0Z5TmhNZExyTVJUZDR3cw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-27T07:00:00+00:00",
+      "company": "xAI",
+      "title": "Terms of Service - Consumer - xAI",
+      "summary": "Terms of Service - Consumer &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1UME1yTlQwQWR1bFIyOURDeDZXb3dXQ242RzliR3lhZTBsYUNreFgxRnM3SllhVld3MTBRNkNFa0JYYmJLM2lSSkxjYw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-09-27T15:03:28+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral AI Documentation - Mistral AI Docs",
+      "summary": "Mistral AI Documentation &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE81YWoyRG11X0tyM0JzbXdQWUw2WDJWeENiQnZPMi1Zd2ttaFpFbGF5MXNjcmRmcTJjbzJBYg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-25T04:52:59+00:00",
+      "company": "Microsoft",
+      "title": "XLOOKUP function - Microsoft Support",
+      "summary": "XLOOKUP function &nbsp;&nbsp; Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Ia3VYLVh2UmRwWVRrejB4blBEWFFQX3ZabWh5a0tyZS1yUlh2OU1zMVRfZUR4T0ZzWDNXeGo0WlNoQXdjdno3dWNKTGdMbDdRMWdWbE01Y2xJTVN6QWM3bHRCMERGUWNPb29YSmdlOFFQVHdkNkRr?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-09T05:06:40+00:00",
+      "company": "NVIDIA",
+      "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA - NVIDIA Blog",
+      "summary": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mQmlyNGRIZ0I2VG5KTHhlZ0RIWnZ0MjA4Vzh6bkxWeHBaRFpNVjRxZnQ5LUJSakNkajRwQTExOEZIXzU4SHVzcE5vS0xpQjR6bGpOZktJcDVGV1llTEgzV1VvSHg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-04T19:37:01+00:00",
+      "company": "NVIDIA",
+      "title": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues - NVIDIA Developer",
+      "summary": "How NVIDIA Factory Operations Blueprint Coordinates AI Agents to Investigate Production Issues &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeEhlS2NXeXdYZG1wWW5SMy00ai04SmVLN0k5eFRaSGdFdGlFbEFpVkdnaGk4Y0V1dFJ1aGNtWW1qbUZOaWRhX1BHNUdiX3BtX0tFdGVpZVhtSVNkVjRka191VU5IWHNmTHZMS1N5c2ZiY3ZrcHQ3a2hMV2tiNHNuRXJETHdCMUJOaFlkMy1td01qb21sdjFWTlJvMnpIN3BsZEVja0RaMUxfbGY5Ui1uN0xnT3loYzJvRzA4c1ltRURyQ0k4NkZrQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2019-08-07T18:18:15+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Customer Support - NVIDIA",
+      "summary": "NVIDIA Customer Support &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBCR2VBcEhyZi03cFo1bXdLQUR5TElRUVdhZVFoZUlxdmdvMjVhUGx4U0s3eFFDS3RYRmlmcTNNWHRLcW5vMlp3VUFFcnh2dw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-15T22:59:03+00:00",
+      "company": "NVIDIA",
+      "title": "DGX Spark - NVIDIA Build",
+      "summary": "DGX Spark &nbsp;&nbsp; NVIDIA Build",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9sdi1Cc2I1SWh1TWlwb2t4SzdXOVR0aGlhbGNZa3R3a3ZuQnVyelo0MkJCOGhvVE0wQXBtQmlDZHJsM0l4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-07-22T18:47:05+00:00",
+      "company": "NVIDIA",
+      "title": "Accelerated Computing DGX Spark / GB10 User Forum - NVIDIA Developer Forums",
+      "summary": "Accelerated Computing DGX Spark / GB10 User Forum &nbsp;&nbsp; NVIDIA Developer Forums",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc3p6Ml94bFQtb1B6X1ZRNG1Ha3FHVWVQOUxOYXdaeGdGS1BDNk96Z3VkVmw3SjJYTXlzS1JZaGpRdGtvaURQdGdxdERzV2xXMXhhZllCSm93N2pkOC1KZGthUkM2N1I3VlBhVFZnamoyeTROeEFuRVd3TV9ZUVVpTllwTHc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-05T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents - Amazon Web Services (AWS)",
+      "summary": "Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xUll3RlhGM0cyTzI5MDE3emNhVVRiajZSNnh1amU1OWI4cVk1elFsUWczSmNLSzRJVzNEbklsN3JGVHVRSC0tWFZCTEpaSmJjYXVGMDJoV0t3OHVEV091RjhGNHFLNEhfcEp3bGR5QldVc0doWFNFUkhFaWhuQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-09T09:17:04+00:00",
+      "company": "Baidu",
+      "title": "ERNIE Evolve: Toward Automated Research for Real-World AI R&D · ERNIE - Baidu ERNIE",
+      "summary": "ERNIE Evolve: Toward Automated Research for Real-World AI R&D · ERNIE &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5uTTlYdFdOOFFhM0xycXlaREs5R19icTlibGFtQ1k2Si1ha056T1NvX0huZ2p4b2JLYlZMYllyV2tFTVNiTmtFb3AyWnFMcGJLaHJCQXNDMlhjcW11dHgwTGZwMllOdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-09T08:03:05+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sashikumar Sreedharan joins Sarvam as President and Chief Business Officer - Sarvam AI",
+      "summary": "Sashikumar Sreedharan joins Sarvam as President and Chief Business Officer &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TLW5iNWYxV0hWaTliVjIwRDFMSjAteEd1bjZSWm5LS0ZRNFdGN2dia1hKemdjMW4wd3AtWElDa2o5VzQ3eUFHd1RrN0k3dVVlX2tmdXJfZUdTM1FTQVR1RENIZEpGLXQ4YTRuRUtXNA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-30T08:22:30+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Coding Agents | Coding agent for long-running work - Sarvam AI",
+      "summary": "Coding Agents | Coding agent for long-running work &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBLcWYzSlZ6LXVSOGdhLVVxYTBXWnYwS21wb05DVFAteXZlRUd4SnZPTTc1V25FQmdIeGtWZ0swOGRlT2hfdUhRdjRvYjZ4WkhnaHEycXdRYw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-23T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Migrating from Fireworks AI: Overview - Sarvam API Docs",
+      "summary": "Migrating from Fireworks AI: Overview &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmRYNEhQUVI3UVBTVFZhbnN4RmR2ay1xV1hsQ2g1Q3ZmdEtscDZLQ1lhRDZJNUZuZHRWT2RHNzFuSFNoUEluMWZjb3lybFcwRWEzTU96LWx1RjlNLXo3STdWc0Z4SDFINFNBd1NxM1l5dEgzSURYX3VlaDVUbzYtZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-23T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Migrating from Together AI: Overview - Sarvam API Docs",
+      "summary": "Migrating from Together AI: Overview &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1abldza18zQ2dyQWtQdmJWdzZURlMzdU1hV05JYVl4dlljRDdZdHlOalUyNGFsME4yVzZOdjV3UDZoSlNQVWhqbkt1eEVYTVhqemZaYWF3M1BZd2R5SWU0Zl9fejdHa21ITzVmLWFXaDZ4SHc3bkZPQnZybTEyVXM?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-07-20T07:00:00+00:00",
       "company": "Alibaba / Qwen",
@@ -4433,134 +4561,6 @@
       "title": "Gemini Robotics 2 - Google DeepMind",
       "summary": "Gemini Robotics 2 &nbsp;&nbsp; Google DeepMind",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyZXVlM25PNzZSQzN0WXdoV0Y5aWJuT09mYXpWU3g0S3psVE5nYVFNZGgtcmxXV3RyTmNpMEVRb01sYnlvMHlXQ2QwM3lPTU1VeGxDbkVOam1RMUE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-07T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing Muse Image and Muse Video - AI at Meta",
-      "summary": "Introducing Muse Image and Muse Video &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-26T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli - AI at Meta",
-      "summary": "Introducing TRIBE v2: A Predictive Foundation Model Trained to Understand How the Human Brain Processes Complex Stimuli &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Rd2pOUU1CV2NoemxULUp1amQyRU02NkVBUmV1WnJfLVRHV0MyVFFPWl9fMTg3TUhhNFRibG4wbUU0Z2txeWc4MGRkYkdLLUJuMGVUWXh4ZnRJOERieDhNamhpVUxvZktJTENLdkFBVExVR2lmNV9z?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-06T01:16:49+00:00",
-      "company": "xAI",
-      "title": "Grok Build - xAI",
-      "summary": "Grok Build &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiNEFVX3lxTE5Nc0dJWUpTQWxfeWJfZXZDUGxBQm1HMUJoQWZ5RVlvbHdVQmxGWmU1ZmxjVzg?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-06T13:31:35+00:00",
-      "company": "Mistral AI",
-      "title": "Introducing Mistral Large 4 - mistral.ai",
-      "summary": "Introducing Mistral Large 4 &nbsp;&nbsp; mistral.ai",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55RWFreEtWVXNoUTdCcnVmaDllQmJsLXNJbTk4bVZNWnF2bmE4azU1d0lzTGx0WnhtelRzZWtMdllmM2dXM3h0RlVVeXBkRTJfNlE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-06T13:20:22+00:00",
-      "company": "Mistral AI",
-      "title": "Mistral Large 4 - Mistral AI Documentation",
-      "summary": "Mistral Large 4 &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wazd6emlfa3RDMmItd05ReTY2X3NlNkRmVGVtbDJMcTJPQ1dOYzdBTVE4aWtZTHZQMkxvYlZrNXp3eUxQY0JyVkNya3pyU3o3THJWQkJCYWVyZw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-04T07:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "Shieldstral 1.0 - Mistral AI Documentation",
-      "summary": "Shieldstral 1.0 &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kY0ozMENiS0g1dHNiOGhOTTJTd2ZkTFBQcU9kaVk5V2RCaDBVdHJ4dlFwSUZzSjVscWVTU2xTdG15Vk5rRFd6NUc5NkowTnJVTW1vTlhqNzc1Zw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-12-11T10:34:21+00:00",
-      "company": "Mistral AI",
-      "title": "Mistral Docs - Mistral AI Documentation",
-      "summary": "Mistral Docs &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB2WHdEUmowWnd5TWRfMnRqZE9zQmFqS2FuOWtMcEwwWGVuTzRXXzNGOVVKS21nZndVUUJkV2xlNFRXVS1X?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-16T07:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "Introducing Mistral Small 4 - Mistral AI",
-      "summary": "Introducing Mistral Small 4 &nbsp;&nbsp; Mistral AI",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aZEwyR3JHR0swOXdSWHFFa01DQ2oxRG02Xy12M3ZEQ0pnNFd3NGJRSVo0TzRiaGhBdGNVLUM2UHdQa3BhS0w2VmwxTHl3UmI5Tmc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-11T16:04:25+00:00",
-      "company": "Mistral AI",
-      "title": "Pricing - Mistral AI Documentation",
-      "summary": "Pricing &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zbEJ4TzB2N2g2eUlFSzBkT0w0WVpRTXZHbGYycXpDQWRtV19WRF9QQnlFSzBqRVdraDl5aUE2NXZhRXJ2WWRaUjBJNDBFaWxlaGhJ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-11T15:53:40+00:00",
-      "company": "Mistral AI",
-      "title": "Inference - Mistral AI Documentation",
-      "summary": "Inference &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnOHFPS0VIZjBna1lLTTRMR3NsbkM2RV9JMHdoTEFUM212QzM1dUV2X3MzNWJmQmJMczd6cU5GRFRzNlRKMTJ3TA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-09-27T15:21:42+00:00",
-      "company": "Mistral AI",
-      "title": "Latest news - mistral.ai",
-      "summary": "Latest news &nbsp;&nbsp; mistral.ai",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBUM3NrbTVBR1B3Y1BTbGplTjBfUnR0djFGZkJGMjlkOEI3ZDd1ajRwdExRWUl1V1lGZGZzWQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-05-28T09:04:16+00:00",
-      "company": "Mistral AI",
-      "title": "Vibe - Mistral AI Documentation",
-      "summary": "Vibe &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5jdFZJZHV4ZUU3MnVpTmhMMW1Yc1pzRWlOZ3ozb0NpSjEyYTNoRDlZcEtYYWR5Y1dablNxeXJzZmx5UQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-27T01:50:08+00:00",
-      "company": "Microsoft",
-      "title": "Manage drive space with Storage Sense - Microsoft Support",
-      "summary": "Manage drive space with Storage Sense &nbsp;&nbsp; Microsoft Support",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGVaNS1Cbnkzb1RqTlVRQmVwN3Q2YmNGemgyTkhqX3dUYzJtV2M1YzU0S21xUXB6UFBKdU9Wb2VOZF9nTFRrZVJ4a2lhTm5QcHdTSUxWbE1aSE42M2hHZEd4QzlzYTV5Mk1QVG9ZSGJBNFhXeDhSNGRwZGVmOVcyUFBqVnlCNk5TNlJZZWNaTUdVOGxHN0Z2clFfQ2hJVnl0Z3dCbzFiUEpSWDJhWlZKdmVMMWJnQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2012-10-25T07:12:55+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA Developer - NVIDIA Developer",
-      "summary": "NVIDIA Developer &nbsp;&nbsp; NVIDIA Developer",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBUMElPaTI3NkllcGQwekp0ZkhGczdqd2g4eEU2WENWdkFGVlJmbXFQTDlISnVnTFFGckg1YVhTakthb1E?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-02T13:04:34+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI - NVIDIA Blog",
-      "summary": "NVIDIA DGX Spark 64GB Gives Developers More Ways to Build and Scale Local AI &nbsp;&nbsp; NVIDIA Blog",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tQkRUazBSYXFrUFhDd3A1anlHUzdWQVg0dDJZRmVqSU44eU0wZm9BYURqRDNfQXg4N2JHa2xXZU5oRkEySDQyMDNzcGlSc3c5QnVHdzVfc29GUzN6ei0tMldwS0tqNEZHWXpv?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-30T16:21:18+00:00",
-      "company": "NVIDIA",
-      "title": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay - NVIDIA Developer",
-      "summary": "Tracing Agent Harness Behavior with NVIDIA NeMo Relay &nbsp;&nbsp; NVIDIA Developer",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVUN5QURQRHhJYmdNNjdxcWxJNUk2ejBIRjdFRFNFOW1DUlkwWXZEek55Q2V0azY4eWhzcHNFaE4wWWJKT1lxNEUxN1NldUNtUmVrQXBLdTJHZC1uOUdudUpYRVVNWnlEOVVUM0dIb2JONkVQcnRRTzVxQTE5aUljN3JCQks5Z19qTXhjTmFYOXd2UQ?oc=5",
       "kind": "News"
     }
   ]
