@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T19:40:50.340557+00:00",
+  "generated_at": "2026-11-11T19:33:35.326872+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,94 @@
     }
   ],
   "updates": [
+    {
+      "date": "2025-09-04T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Updating restrictions of sales to unsupported regions - Anthropic",
+      "summary": "Updating restrictions of sales to unsupported regions &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMlh5ZjB0TmpYeU1mZGZnMkd4a2MwdUVxaFNuT1lqTERhdU0xb2V5SkRKSW9rSlVac2tzRENLR1J0VlZPZUVEUHNoR2E5UjVzcGYxMGFwRi1YV2VVSkRxSFVUM3ZHZ2g2b0QxeVc3MWhTU0VDUjRHSW00NW81emhiSncxRHlqUHNreG9NeA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-27T13:23:54+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemini Robotics 2.5 - Google DeepMind",
+      "summary": "Gemini Robotics 2.5 &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95WldRRVdjZER1ajZMMm9fOXZ3Vm01dlRJVmdxVHFhWTQ1R1o4YWxIdmo4WnFKaHhtZlJiWkdFclo5NW1jZUtLUTBheHVGZGxsVXhyaWhEcUtLTENVSkw0Sw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-10T12:07:17+00:00",
+      "company": "Google DeepMind",
+      "title": "Formal Verification of Signal’s Protocol with Gemini - Google DeepMind",
+      "summary": "Formal Verification of Signal’s Protocol with Gemini &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-07T07:00:00+00:00",
+      "company": "Meta",
+      "title": "Introducing Muse Image and Muse Video - AI at Meta",
+      "summary": "Introducing Muse Image and Muse Video &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLOV9WdnUwRW1WTVZjVm9UaC1xeTV6eEFVV1hYOTRRMVZNV2lScWctc2NOR3B5ZWNEcmNaMmpNSkFTWHkwYlV1V1ZJejYyRFRqUjJmcW45VGItRXJ1bi1EVlc5R1Z3anFRNzBWM1ZzT2w?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-27T07:00:00+00:00",
+      "company": "Meta",
+      "title": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning - AI at Meta",
+      "summary": "SAM 3.1: Faster and More Accessible Real-Time Video Detection and Tracking With Multiplexing and Global Reasoning &nbsp;&nbsp; AI at Meta",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9mQWxBRkJZVUptTTA0eF9rcnVUbTltSkxKSE5LM0F6SlA1RF9iaXJFWUp3SGpCZnhrZlk0dHRHOGREQWRoSTlTRC1tREdJbDNXY3NDTXluOWxSNVBoT0lB?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-06T06:41:52+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen Code 1.0 - Qwen",
+      "summary": "Qwen Code 1.0 &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE56X20ycnVUdHFyMlQ5aUhUXzVsa3p0OXQ5dW9Tc1pHQWhsNzAtVEhxem5QTW1zQkdvSVZzdg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2013-04-13T07:25:15+00:00",
+      "company": "NVIDIA",
+      "title": "Technical Blog - NVIDIA",
+      "summary": "Technical Blog &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBiSFkxb1RyT0YzR0w4cVU3cjV4VFV4Ymc1M3RmM0QtVHVJVG0xeEVFR3lFZ1g0UWg5eVg3c1JKQWxyS1lzUWpyQTVB?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-10T16:04:30+00:00",
+      "company": "NVIDIA",
+      "title": "Running AV Reasoning Models Within Onboard Compute and Latency Limits | NVIDIA Technical Blog - NVIDIA Developer",
+      "summary": "Running AV Reasoning Models Within Onboard Compute and Latency Limits | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNenBjcEZMVlVoTTJBN3BaWHRtdzF3QjItZU96b1N3Q1NkbFhneFhzektYS1RxLXhPSnFkOHVHTGVjQ2lQX0tuYUtpWU1NRVB6bk1sbm0zaG14d3d4akE0eTRTSi1BejNEbExNNGNZQXJKQ3p0M0l1bDBUb0xBblV5RlM4R1BqLVVzV3NLa2Y4c3pYZFAyVnRXVGF1XzEtWEYybU5XeVhGbw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-09T09:49:22+00:00",
+      "company": "NVIDIA",
+      "title": "AI Infrastructure Training for Professionals - NVIDIA",
+      "summary": "AI Infrastructure Training for Professionals &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5JaHZqZFd4TnBvWHdMMFREN2dhWlFmT2VpUnliSEFvUEpCN1Nydm5HV0pKT0lWZ1RlcmNPYzZtamRkbG9oWUN2S2V6WHBKR2NlanVMUGJwZGEyZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-11T04:39:16+00:00",
+      "company": "Baidu",
+      "title": "Introducing ERNIE 5.5 Flash Preview · ERNIE - Baidu ERNIE",
+      "summary": "Introducing ERNIE 5.5 Flash Preview · ERNIE &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jWXdkRGhpYmpsaEgyN1FLd2lNd1dCTDZZa1BtTFZtNkZERy1mNDl5cnRwOVA3dy1Sa2JHTXZ1dXJhTkJDcnIyQjVmbVk1OEZodnZYUzR1WlhrSzFqNWttNTU2WndLQ28?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-09T21:32:08+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Kimi K3.1 Pro API | Sarvam Token Factory - Sarvam AI",
+      "summary": "Kimi K3.1 Pro API | Sarvam Token Factory &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PUG53SGhjeG5NRGhXV013cC16TzIyeWdtNjZZTURzbzRZa0tzMEEzbDRSWEVUNWU5RjZWcWgtbkIzTVJGR3ptWHJoajQxdlZvdlhwcGxrSV9GR2FMbnVwWjE3b2JnSlk?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-11-10T17:39:24+00:00",
       "company": "Google DeepMind",
@@ -4473,94 +4561,6 @@
       "title": "Expanding the Cyber Verification Program - Anthropic",
       "summary": "Expanding the Cyber Verification Program &nbsp;&nbsp; Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-06T16:36:41+00:00",
-      "company": "Google DeepMind",
-      "title": "Nano Banana 2.1 - Model Card - Google DeepMind",
-      "summary": "Nano Banana 2.1 - Model Card &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oeWFza0d3OFFscmhjcWV5Qm93amNMOXNxYmVUcnh2LXlHUzFWYzZ6VGtzN2V6S3NaSUZSLWg3d204NmRPYmd1MnIzVzI5UERoVkh6cFFtZUh2WnpNZDFnTWJ6VkFxaWhYU1M4?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-21T07:00:00+00:00",
-      "company": "Google DeepMind",
-      "title": "Gemini 3.6 Flash - Model Card - Google DeepMind",
-      "summary": "Gemini 3.6 Flash - Model Card &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE96cXZURC1ram1hRFFSLXhzbU1lbzI2Z2pkZ3BKbmxYRFVGM1NLSkIyTHh3bF9MaVQ5eWFrclhVXzBnRjZNUVZvT3NJUjRhazdoYURsZHJVcDR6ZmxtdXB1bmNBWTIyclpHNkktWQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-02T16:04:23+00:00",
-      "company": "Google DeepMind",
-      "title": "Gemma 4 - Google DeepMind",
-      "summary": "Gemma 4 &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvc21vQnUxRjZXOUJINmk0QUs3TXlNd2lGdDJDRE1ha3B0M3BnUlZkRnlMOWdxd25fUmh1SjBIaElWQzkyWjJaS3ZkS0IyOTJQTEVpSVdYMlc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-03T17:37:44+00:00",
-      "company": "Google DeepMind",
-      "title": "Google SynthID - Google DeepMind",
-      "summary": "Google SynthID &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKdG5EaDBoNVh0NVRCRFJMUTc2aHZGclJjcktuNWplMm1WakFFVFB6U3J5NmZSSjZVT05XbEpDWE9reVFDUVFpVXY2eC1vcTVu?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-05-20T18:20:16+00:00",
-      "company": "Google DeepMind",
-      "title": "MedGemma - Google DeepMind",
-      "summary": "MedGemma &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zT3hNUGZzX1M2THA3QnplaHQxZkg4UENPQ21tSmlteFVJaXUzWC13Z2JHMFhaNVNWRzZfSlVqUGwzSmcweHJUN3hVdkxzX1pNWlpGT09TcC10QQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2016-08-21T20:42:20+00:00",
-      "company": "xAI",
-      "title": "Pricing: Compare Grok Plans - xAI",
-      "summary": "Pricing: Compare Grok Plans &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9VSHpxdDZjR0V1RTRwNFZWenRmellGQ3ZyY0N2Z0FnckFta2l4aDAyOHgxT2o3Mm8?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-16T07:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "Mistral Small 4 - Mistral AI Documentation",
-      "summary": "Mistral Small 4 &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WYWZFSjh0MXBuNl8yUXd3MGItT3BEWmFhRFlpUmlGSlF1SDVPa2ZXTzBnWkh1d1AwVnNTYmp6Z0t1Y2JYZ2FpRlhvT2RHWFk4S2F5YndNWDVOZGgwQkJnWDItT08?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-16T07:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "OCR 4.1 - Mistral AI Documentation",
-      "summary": "OCR 4.1 &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56V21TUjV6Mm9aYm91d1cyT2RqbHVUY3JOcGNtRnpfYnFWcWdJcEJ6UGhmZnNBT3R6OXIxQVJlYURTdzFiXzhHZkJ3R2prcUE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-11T16:04:25+00:00",
-      "company": "Mistral AI",
-      "title": "API pricing - Mistral AI Documentation",
-      "summary": "API pricing &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zbEJ4TzB2N2g2eUlFSzBkT0w0WVpRTXZHbGYycXpDQWRtV19WRF9QQnlFSzBqRVdraDl5aUE2NXZhRXJ2WWRaUjBJNDBFaWxlaGhJ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-18T07:00:00+00:00",
-      "company": "Microsoft",
-      "title": "Copilot - Terms of Use - Microsoft",
-      "summary": "Copilot - Terms of Use &nbsp;&nbsp; Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkJVS3BFZ19nUVFGSjVuTkVVZTdycG9GaE1rSk5NS2xnLW1weHQxS0JnaWFuN2cxTUpiRmo5S3pkdm9NQy1QNGE1T3V3cEY2ZzF0U1MxX1dCUXNFVlJjT1JmempOelc5Sl8yRHBKRnFjWjRYbGdTQ2lYWnpXclhMXzBB?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-07-21T07:00:00+00:00",
-      "company": "NVIDIA",
-      "title": "Traditional RAG vs. Agentic RAG—Why AI Agents Need Dynamic Knowledge to Get Smarter - NVIDIA Developer",
-      "summary": "Traditional RAG vs. Agentic RAG—Why AI Agents Need Dynamic Knowledge to Get Smarter &nbsp;&nbsp; NVIDIA Developer",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjRSWTlLNWNTUHFEM3BMNEktdjRmcHZDQW9NdWtQbEl1Qm1ZbkpGS2ZTQ253QXFVTGROSndxVExYeGx6Uy05aVZMWXhDSEVjZ2h0Zm5WOHV3NWJsM0N0QmJYTWRuVUtKYWk2SzJSOWtWNkR0c2VDSi1kMkRRVzFHRFkwcVRDVERqT2I0cm1yYXdvbmoxUXZpclpmQ3l4VWNvZDZZWlV5cDRwajJNcXdtenB2RVVIc0F0?oc=5",
       "kind": "News"
     }
   ]
