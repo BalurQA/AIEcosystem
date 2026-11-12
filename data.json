@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T19:33:35.326872+00:00",
+  "generated_at": "2026-11-12T19:52:07.856094+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,62 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-06-03T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing the Services Track and Partner Hub of the Claude Partner Network - Anthropic",
+      "summary": "Introducing the Services Track and Partner Hub of the Claude Partner Network &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSHlhS1hiNk9fQmJqWTJpQVpvRHFqNFNnSmVQemlpX0xBZWkxS0tGNVFxelhxTG1jR0NZRG9aNERIN3liMXZNdV9jRkJqRUw4b0pIUDdPX0psSlRtbFhNV21LeVJ4MjRP?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-13T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing Claude for Small Business - Anthropic",
+      "summary": "Introducing Claude for Small Business &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaaGlNU1BTa0ZESnJCcWhQVnB6anhtUDJOU28wYVhGTEJNcnNUbWdIeFRyUGpzMkFhR0dMbmg5Y2lCa3JHcDBmQ1NGYnZRcjJhOWdMMHVHUHp1V2dmZmtRcU9qTVpCOXM?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-11-03T17:37:44+00:00",
+      "company": "Google DeepMind",
+      "title": "Google SynthID - Google DeepMind",
+      "summary": "Google SynthID &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKdG5EaDBoNVh0NVRCRFJMUTc2aHZGclJjcktuNWplMm1WakFFVFB6U3J5NmZSSjZVT05XbEpDWE9reVFDUVFpVXY2eC1vcTVu?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-10T12:08:45+00:00",
+      "company": "Google DeepMind",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth - Google DeepMind",
+      "summary": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBKUlo2UThlRWNiS3o3M2FURDhTVUwteDMxYjBrM1FjR19YUFF0SUJiejVDdVhMdnZNeHRGQXVPQU1Ibk43ekFfY2RFSUE2Zm1Fc3NsVlZTMDZ5ajRmdjZfNzVpcnJzVFdK?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-09T08:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Devstral 2 - Mistral AI Docs",
+      "summary": "Devstral 2 &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OajZ5cWJrOUYxUFdCXzctWHFYOFlnNmY4XzZyRGJWVW9DQjdtcHhVaGwwVFZ3T2ptRDFQcDdiMUJsUTI1akJBTG1jU2VGdGlnWWp1eU9ueGlNOU0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2019-08-29T10:26:06+00:00",
+      "company": "NVIDIA",
+      "title": "AI for Healthcare and Life Sciences - NVIDIA",
+      "summary": "AI for Healthcare and Life Sciences &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5pcERoZTFRZ2lZLXRPWS01VmhqQnZ4SjVPRkdXcVNxRGI2bTFZUlgwNzJHS29KeG9PSll6YzRuZmkydnhGUGlsaFpic0RYUF9naDh2S2xEdFJGOWpkUm1OaGhIdTdXTzBKamlLUmx0alZ5bVU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-01-13T08:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA and IQVIA Build Domain-Expert Agentic AI for Healthcare and Life Sciences - NVIDIA Blog",
+      "summary": "NVIDIA and IQVIA Build Domain-Expert Agentic AI for Healthcare and Life Sciences &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hOFNqeFRvdW5ySVMwaHJCQUYyQXJEVUZmRHJaektjTFE5QkdfcUNWc09fZEVMbVVHSXo5Q2theVhlVXlHcVR0cVNULW5wWEFCdjFRMVc4emwzdk9DYjE2LXcyNnRHZmZ2LWc?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2025-09-04T07:00:00+00:00",
       "company": "Anthropic",
@@ -4505,62 +4561,6 @@
       "title": "Chat - Mistral AI Documentation",
       "summary": "Chat &nbsp;&nbsp; Mistral AI Documentation",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54SUpsQjJoZG1sSy0zdERiNGY4ZENPZzNCc295MmcwLXdMbms5UTF1dC02V3gwUjdpSklnRkg5SjJLa09NNlNxbGd0VFJoYnhtLUd3?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-16T07:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "Mistral x Mozilla: Private, Multilingual AI Browsing - Mistral AI",
-      "summary": "Mistral x Mozilla: Private, Multilingual AI Browsing &nbsp;&nbsp; Mistral AI",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qUXZCU1U0dnN2R2h5TjJuejZqY1prMTdHaFJXM0xSbmp5VXk5MmhBanlmRG9NTEhKdEtjNUJfMnhTcC1ub2t4Sm04S3o3SjB2YlI2VA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-04T08:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "Voxtral Mini Transcribe Realtime - Mistral AI Documentation",
-      "summary": "Voxtral Mini Transcribe Realtime &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpTEtVVzJQNFVhUGwzOHAteDZMakxXSWlZVzN3MDAzTURmSmJXcEVTM2M4SU5nN3RqN1VyN3BEUWxwZnpUcU1uVWRSbXB6a3hQSW5ySG5tdEh3c3Y5MjB1M2JKeXo2QkVYckJhbkZsR29wYlVaWkRFYQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-07-30T07:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "Codestral - Mistral AI Documentation",
-      "summary": "Codestral &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40bURQc1gwS01aWnJqdzhCRVVqQm1ic3RSb1l6NnJNeVBERUQ5YVhBbEN0VTYwUVdmeEFlVHZsU2lVWmh1X2wtYXlRYUtEVHI3SXNkOGlsVHZDUQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-13T08:43:52+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Sarvam AI Quickstart Guide - Get Started in 5 Minutes - Sarvam API Docs",
-      "summary": "Sarvam AI Quickstart Guide - Get Started in 5 Minutes &nbsp;&nbsp; Sarvam API Docs",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oSkNESl9DSjQxa3hIb3lSSWVDWldOcWJSbzhrN3FVMUNCem03TUo3cHJiZFJvMk9DRkg3Nm4wUy1pSlJzZ1ZzRFNWd09OdktiR1JYc3ZqenBWaFVJTlVhblY0bw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-05-21T09:29:28+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "ML Engineer (Training Infra), Foundational Models - Sarvam AI",
-      "summary": "ML Engineer (Training Infra), Foundational Models &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYRTNCM28tYk1JbVRWeE1mZGRZbFJtVnBZbTZsN0I0dFpmdzFzbXdNbDl6RUE0OVFqa2ZrdlZ1RVlHQk5jMmRIMjlTZ2poajhrMG9IMi1TekdZdDVjU3VScUlXTk1kcmU1ekZUZHpMcUtlN2g0VW9ONzUyQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-30T03:57:15+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Overview - Sarvam AI",
-      "summary": "Overview &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDUzhpbWVzdzVhZXliSWdwRVRST0NlZkNIOXNIczJLR0UtUnhxc0RKSk80bVFYc2pvLXBoUnRwOWVEVkdQWndoUkVDSzFXRmtzd0dZMWdTTGo?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-06T19:00:00+00:00",
-      "company": "Anthropic",
-      "title": "Expanding the Cyber Verification Program - Anthropic",
-      "summary": "Expanding the Cyber Verification Program &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
       "kind": "News"
     }
   ]
