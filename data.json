@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T19:52:07.856094+00:00",
+  "generated_at": "2026-11-13T19:37:44.603385+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,38 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-06T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Expanding the Cyber Verification Program - Anthropic",
+      "summary": "Expanding the Cyber Verification Program &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HZElZMTI1d1F3R09RWTFKLU1xMXViLW9fRF92bDNFcjZxTzViUHprTmRCOVR5WGJHOWNEdS1IaEZsZjBPRU0ycFB6M1Rpd2h0ZkZwdk1wZWJUdzc5cFB3bG93RWRYQzFI?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-30T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations - Anthropic",
+      "summary": "Investigating three real-world incidents in our cybersecurity evaluations &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zdnpHN3VXRHJaYjZ1T01TOUZqaXJHa1VoZC1TTUZaRkk4dnhfdkhHT2xpTUpwVXZfYTFSZHE4Vk5icGh2RmF5aHhKcDlicWJ5Sy1SalVLOGhXVlhVcFJGbFBqSG4xSG5KaWh5dnlWQTQ1NUR4THQxM05nanBUVTg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-12T18:40:21+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemini 4 Hydrogen - Model Card - Google DeepMind",
+      "summary": "Gemini 4 Hydrogen - Model Card &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uSWIyVFNhRzBhY2kxdlVFTTgxeFBQZzJVWDBSSEJUSWwyWFRNZ3cyUU5rYWZ2bVVRSWs4cmZNN2NrVmxxRFZOOEpVYmV1dEV0NGM4SDN4QkRidWFYUkpLOG1lMF9EUktFbEIzaFVn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-11T09:20:40+00:00",
+      "company": "Baidu",
+      "title": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards — A Model That Writes Better and Understands You More · ERNIE - Baidu ERNIE",
+      "summary": "ERNIE 5.1 Officially Released! Topping Multiple Leaderboards — A Model That Writes Better and Understands You More · ERNIE &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwdmdTN0EyYklVai1lR0MtaE1zQmNmLWtST1oxWDhKZGxndlFoUXZwb0ROWkR6UUl1YWZLWG5MdktFOGV3cVhUNHN5UzNGc2x5Skh5Nk9qRGpWTnFob1dnZmdZdEYzcVpLSUk5ckRaRQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-06-03T07:00:00+00:00",
       "company": "Anthropic",
@@ -4529,38 +4561,6 @@
       "title": "Building on our commitment to American scientific discovery - Anthropic",
       "summary": "Building on our commitment to American scientific discovery &nbsp;&nbsp; Anthropic",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-04-05T07:00:00+00:00",
-      "company": "Meta",
-      "title": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation - AI at Meta",
-      "summary": "The Llama 4 herd: The beginning of a new era of natively multimodal AI innovation &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82U2FBNnUtYXBwdGY1N3V5UjBEUmM2SFZtM0Z0TU02LUxSU1BaZktfdWpJQUxMSGFIbnhyeV9nZWd2UW5oT0Fobk4xWkVwanh5NUxabzVfbUdjNllxaGJGc05kQjVEZVNi?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-03-10T17:54:54+00:00",
-      "company": "xAI",
-      "title": "News: Research, Product & Company Updates - xAI",
-      "summary": "News: Research, Product & Company Updates &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-06T07:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "Z.ai GLM 5.2 - Mistral AI Documentation",
-      "summary": "Z.ai GLM 5.2 &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YTDBRUm8yeElwaEdHRGFXZkpOYTQ3ME9naXNPWkF4RDAtaDR5QVBjUk1neDlnak10alFyZUU2SGlJaUhBMUk5V1pYamY1WHNzTWdCeA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-10-20T19:44:54+00:00",
-      "company": "Mistral AI",
-      "title": "Chat - Mistral AI Documentation",
-      "summary": "Chat &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54SUpsQjJoZG1sSy0zdERiNGY4ZENPZzNCc295MmcwLXdMbms5UTF1dC02V3gwUjdpSklnRkg5SjJLa09NNlNxbGd0VFJoYnhtLUd3?oc=5",
       "kind": "News"
     }
   ]
