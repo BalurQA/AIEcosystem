@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T19:37:44.603385+00:00",
+  "generated_at": "2026-11-14T17:58:03.574090+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,78 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-11-02T08:00:00+00:00",
+      "company": "xAI",
+      "title": "News: Research, Product & Company Updates - xAI",
+      "summary": "News: Research, Product & Company Updates &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-09-27T15:21:42+00:00",
+      "company": "Mistral AI",
+      "title": "Latest news - mistral.ai",
+      "summary": "Latest news &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBUM3NrbTVBR1B3Y1BTbGplTjBfUnR0djFGZkJGMjlkOEI3ZDd1ajRwdExRWUl1V1lGZGZzWQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-03-17T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mistral Small 3.1 - mistral.ai",
+      "summary": "Mistral Small 3.1 &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Bb2RXdFh5S0c5ZElneDhsSjZFbmt3bWdmSjZKeWVBdXdRZjNva0ZMdFRuTlB5OHJBRjVEWFh6MDA3UVo1ZzZVX0dYNzRYY0JCc3d4VQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-13T19:55:45+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft Aion Instruct: Advancing local AI on Windows and expanding to GPU - Microsoft Dev Blogs",
+      "summary": "Microsoft Aion Instruct: Advancing local AI on Windows and expanding to GPU &nbsp;&nbsp; Microsoft Dev Blogs",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeGhvMHlJNm0wbkZTLWE5bnFUYWViWnk3NUd5MUNYQzlDYWlJVFhTbFYwX0U4U2gtOXg4a3Z4ZHU4SFlWTjhWdkZwMmdBazVZVlJ6Qm8wSHo2Ty1XeWZIYWQ3MlNsazNXMUJCSWdqODY5UTZqTmtRNEFHVG1kcThTSmIwV2ZlcmpqZlhNQlJn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-10T08:00:00+00:00",
+      "company": "Microsoft",
+      "title": "What is Microsoft Copilot? - Microsoft Learn",
+      "summary": "What is Microsoft Copilot? &nbsp;&nbsp; Microsoft Learn",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nUkp0b2FzSVQwWTdqMS1wcmhOelp4Sm13S08xNXNZMW1YWXI4MW00d2VqNXphYkt5ZHhWdnJhTFdvV2RJOU9IYTFLQW1NUkNuYmVXNTZidllRSkdrSkg2bUsxamFNMHd0Ml80emN2VzU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-18T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Copilot - Terms of Use - Microsoft",
+      "summary": "Copilot - Terms of Use &nbsp;&nbsp; Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZkJVS3BFZ19nUVFGSjVuTkVVZTdycG9GaE1rSk5NS2xnLW1weHQxS0JnaWFuN2cxTUpiRmo5S3pkdm9NQy1QNGE1T3V3cEY2ZzF0U1MxX1dCUXNFVlJjT1JmempOelc5Sl8yRHBKRnFjWjRYbGdTQ2lYWnpXclhMXzBB?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-03T16:26:21+00:00",
+      "company": "Microsoft",
+      "title": "Claude - Tải xuống và Cài đặt miễn phí trên Windows - Microsoft Store",
+      "summary": "Claude - Tải xuống và Cài đặt miễn phí trên Windows &nbsp;&nbsp; Microsoft Store",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XdXlHazFVVWY5dTRUNVhhanhJZHpjVmdhS3FoVzlNSDlJa1JlN3ktM0FpMFgydkJiNkNlQ011aTJJR3Rhcm9BUkpHcDNBSDA3emUzTEpWbzRuUlVfdy1DRHd2dGU5TmpheXBnOTl3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-13T22:42:49+00:00",
+      "company": "NVIDIA",
+      "title": "NeMo Megatron Bridge - NVIDIA Docs",
+      "summary": "NeMo Megatron Bridge &nbsp;&nbsp; NVIDIA Docs",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ELVM4SU1vVzB4TE1IQ2R2WmIydWZJM0xYQWU4d2lac0JWR2M3LWV6ZU9TSnpnRlJhbGxIN19oX0NZdEdmbnZsZDBrTXpERlV3ck90Vlc5dmVMYzFEMUw1eUZn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-02-14T08:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Announcing Sarvam Edge - Sarvam AI",
+      "summary": "Announcing Sarvam Edge &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5sUGpMRzZ6Q3o2UzdRRWZQYzFneFg1aDVBZldlRDU5V29BYmdXZEJvZ3VIYjZOZTVmMEdTbWRORl9xV2hRMGRncmVRclZhU3I5?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-10-06T07:00:00+00:00",
       "company": "Anthropic",
@@ -4489,78 +4561,6 @@
       "title": "Prompting - Mistral AI Documentation",
       "summary": "Prompting &nbsp;&nbsp; Mistral AI Documentation",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdVBuNWJmc205cEdMdDV3cjg4SzRwZHpxeVpfV3E3RnpEcFBlTEQtblpUc3FaOUFONms4UElEWWZLYl9Bd3lzbUtEQndCakFEV0pCNXJ3?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-29T13:46:01+00:00",
-      "company": "Mistral AI",
-      "title": "Usage and limits - Mistral AI Documentation",
-      "summary": "Usage and limits &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Kc281aDl6b05vbDYzNWtZNTRZeURWSDhsd3hPX1Vib3k0aGNTaG1XLWYtVlJLRDd2YkhDLU5MaGhvQmFxYzAtLWRUZFJycGJycV8tb3pqbWJ0b1YxcGh2OXhTWldGaXc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-01-21T08:00:00+00:00",
-      "company": "Alibaba / Qwen",
-      "title": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation! - Qwen",
-      "summary": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation! &nbsp;&nbsp; Qwen",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PenVrN0lrRC12VUNGQTN5bUZ6SVJoMjE2NXMtTG9EdG43bUY3QkYxS29YeU5zcmhFblJCN1R5SWJzc3pYclQyRTU3WXhuQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-12-15T08:00:00+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA Nemotron 3 Family of Models - NVIDIA",
-      "summary": "NVIDIA Nemotron 3 Family of Models &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByVHMzUFRLemZXZGFKUkp2ZDIySDNMZ184bzdZamlGOWxwdHdKZnVwUGNnZEc0LVg3THVQbFpMRlJwUjYtcmhtQWM4aGJYUlVIVWF6eWpZQ3NXeU42SURYX0JBdw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-04-30T07:00:00+00:00",
-      "company": "Amazon / AWS",
-      "title": "Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation - Amazon Web Services (AWS)",
-      "summary": "Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTFVjem9WbGFJVktmd3dDSDE2UHk0MzRxOE9IWWJXOG5uUUtSY1lBRTVwTE12SENENEppbGtmNTQwS3hrSnNJQjRfZDdFM2ViZU5UcU5yRFpHYnlQLVdCaXNDUWtCYmsxeG5ZY1RpWDhQb1czenp0XzRRT0xXNXIwdWJkc0QyZFNTdHkxZnZXcXV6THl5Q0ZoNGU3alFjY2xscHlDZlJEdw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-13T08:43:52+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Build Your First Voice Agent using LiveKit - Sarvam API Docs",
-      "summary": "Build Your First Voice Agent using LiveKit &nbsp;&nbsp; Sarvam API Docs",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE81cmtfWGdOeGd2TkNTNjFPRWpmRXJKR0dxVzNWN2tSR2E1b1l0V0NsemMwRHl0N002czdtTHZfS2VKQk9vRVpPc25raDF5N21NVWh5OWp5b2dRcG1zRUVmS0VZQnkzQWJsYkpCQVkyUlpSYnJfa2RxTFF3?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-13T10:43:00+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "REST | Sarvam API Docs - Sarvam API Docs",
-      "summary": "REST | Sarvam API Docs &nbsp;&nbsp; Sarvam API Docs",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9BUFVtNFUzRlF4ektpWHcxV0VrR0luSTEtOXpFbWxVSVpFbHFPYzAtYUJWVlVxY2pnbjNrNi1JaVBWenl0SnBJajZ5R1J6VTduY1Z5ZnliSWQwVUJWWk5XWUFIUnR0OGVjTVRIcGZUTQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-13T08:46:12+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Welcome to Content Studio - Sarvam API Docs",
-      "summary": "Welcome to Content Studio &nbsp;&nbsp; Sarvam API Docs",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BUE1JNGt1TkdMVk5Fd0xvS3pjeGxVdzFXRVk0Q3NIYjF5T3lfaDF4NXJVWjhqYmx2QlNiaElGQnBOZ2ltVjlJQ0RBNU1lNWE0cUJVaEx5M3pUajQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-11T07:00:00+00:00",
-      "company": "Anthropic",
-      "title": "Introducing Claude Corps - Anthropic",
-      "summary": "Introducing Claude Corps &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40YzY4elpuaVY0ZWtDbmhNal8wc2pEWWJ1QW5MbHNOLXR3azdxNU0wLWhLOURycWd5NWNlVGZiZzR5aEd2amozaXlBQk9pQ3Y2TjZvWDJn?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-08T13:00:00+00:00",
-      "company": "Anthropic",
-      "title": "Building on our commitment to American scientific discovery - Anthropic",
-      "summary": "Building on our commitment to American scientific discovery &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VHU4UENXNWlFZ2RsUElpRkhvVGdzdTdydk9kT2ZlN3RCNXdLV2VtQ0ZQU01adTI5Mkw4Y3JrcGpIZ1ZxWUtDOUxqbG1JVXNTNWJvSU5NMF9KY2o5Tlp5QVJpNElQeFdv?oc=5",
       "kind": "News"
     }
   ]
