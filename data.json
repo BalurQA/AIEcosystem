@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:58:03.574090+00:00",
+  "generated_at": "2026-11-15T18:47:41.938465+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,70 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-02-23T08:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Detecting and preventing distillation attacks - Anthropic",
+      "summary": "Detecting and preventing distillation attacks &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUxlWTM0OXZ3cENhMEpobm5TWEM4cVRLOXRpRHlYSUZ3bThyNE1wcXhFY2ZCSkNHYUJEV1YtZ0VkSWxfVW9tc0lkVExFSFBhRUFPZENhNFNZQk5MNjJxQTdhT3dJYjl6ZUJseVplanY4R2NDcHdSU2RJWlV2MzlGYVhR?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-12-06T14:38:47+00:00",
+      "company": "Microsoft",
+      "title": "Tải xuống ứng dụng, trò chơi & nhiều hơn nữa cho PC chạy Windows của bạn - Microsoft Store",
+      "summary": "Tải xuống ứng dụng, trò chơi & nhiều hơn nữa cho PC chạy Windows của bạn &nbsp;&nbsp; Microsoft Store",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95bkFYUkEyMFpydFR6Yk1JNmlONmgtblBQQnBDdnRKNk5BalpTUXdSdHJ1WVRXZDhlSVZ6amEyS0Z2S1FSVFZOOV9ZeVhqeGczVUxkM1F3RnBuZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-25T04:58:20+00:00",
+      "company": "Microsoft",
+      "title": "IF function - Microsoft Support",
+      "summary": "IF function &nbsp;&nbsp; Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBwaFJMZ1pWVjRlaE1vMU1HTXBWXzVLLUhGOVMzQU5Cb0FFSmFvLURHWkpkRmQ3ZW03N1NJTHhnRHpNdXpPQTU3VXdianRnS3RqTmVmTld2ZlZCdlM0Zi0wUHNzS1h1M3FrbTlReDdhUlU?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-04-30T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation - Amazon Web Services (AWS)",
+      "summary": "Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTFVjem9WbGFJVktmd3dDSDE2UHk0MzRxOE9IWWJXOG5uUUtSY1lBRTVwTE12SENENEppbGtmNTQwS3hrSnNJQjRfZDdFM2ViZU5UcU5yRFpHYnlQLVdCaXNDUWtCYmsxeG5ZY1RpWDhQb1czenp0XzRRT0xXNXIwdWJkc0QyZFNTdHkxZnZXcXV6THl5Q0ZoNGU3alFjY2xscHlDZlJEdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-10-02T07:00:00+00:00",
+      "company": "IBM",
+      "title": "IBM Granite 4.0: Hyper-efficient, High Performance Hybrid Models for Enterprise - IBM",
+      "summary": "IBM Granite 4.0: Hyper-efficient, High Performance Hybrid Models for Enterprise &nbsp;&nbsp; IBM",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0haZE1fYzBBR29ad0hzQWUtX1U2a2JWTEFhV0V0SE84a1BGaEdPTGx1WUdBYmliYk4zWldzSFZQanNQeXpGVXVfQm9XLUtKOUw1eVJQTVBSMmV6bFVzLWJSLTQwYkdlWlE3c29SeHozdTFnUkRVLWpkamVHTDFBSGdBenBRNUlMYkkzaFhtZmxZOFlwdXRoUXhHMVdCbkliOFE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-02-26T15:33:57+00:00",
+      "company": "IBM",
+      "title": "IBM Granite 3.2: open source reasoning and vision - IBM",
+      "summary": "IBM Granite 3.2: open source reasoning and vision &nbsp;&nbsp; IBM",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQjJiem14c2ZBV1M0a3RJZElvT3JDRkdWQmh2YXhBUkJ0Q1E5SDJwMzJNWWNEaTFUbWFiYS0xeHE2MDhTaUF6cVNJUTU4MmJCUWpIQmZ2NVZTVTQtMXRmRmdfa21pVXVISGN0cG5BbmdqY2lyNmpsakU5R3MtZ0pqVHBuVm9yR01obXZSaTg5aw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-02T13:00:44+00:00",
+      "company": "IBM",
+      "title": "IBM Granite 4.0 Tiny Preview: A sneak peek at the next generation of Granite models - IBM",
+      "summary": "IBM Granite 4.0 Tiny Preview: A sneak peek at the next generation of Granite models &nbsp;&nbsp; IBM",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbHM5YkZXWUlPcE15RjlqNFpjdmhmS0JhRGJISXg2amFtZzQ5Ukt5ZEZDRDg1a0hHdEpnc1F5bWdvdURZSTl4RFVueDBiODNuV25XMi1kSDlIVDhuRHR0LUNfXzlKOVZEZEk1Wktqbkl4TFRsZVpoeTNjeEUwVFRxTmFhSQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-10-09T10:40:23+00:00",
+      "company": "IBM",
+      "title": "Scale enterprise gen AI for code generation with IBM Granite code models, available as NVIDIA NIM inference microservices - IBM",
+      "summary": "Scale enterprise gen AI for code generation with IBM Granite code models, available as NVIDIA NIM inference microservices &nbsp;&nbsp; IBM",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMUVuNjc0bGU1d0VibmFEcEc1MXRrLUN0SjRhbW9NTUlTdTlHV0l2Mm8zemZYSW5YWmFKZGVMZDRuRi1SZGRzQWFiQ2ZtMFVZMlpPUXVQVjFBVW0zSlJZZW5odmNndGV2VDNpMXZCakVEWUdCNE9Xa3IyX0k4ZEJOZkRHeHNtUGdQUVVvMUFvc3diczVYakFsQ1ljMXZNMHN1SkxGV1dvS2NCbEhiaVZV?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-11-02T08:00:00+00:00",
       "company": "xAI",
@@ -4497,70 +4561,6 @@
       "title": "Exploring Microsoft's Phi-3 Family of Small Language Models (SLMs) with Azure AI - Microsoft Community Hub",
       "summary": "Exploring Microsoft's Phi-3 Family of Small Language Models (SLMs) with Azure AI &nbsp;&nbsp; Microsoft Community Hub",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemhQbWZPVHBScFg5cHlhbk50Z3JOazdYcjh5VVd1ZFU3QUZ2cHY1cllHMWx5cHhfUVZneWhkQ3ZVUnp1bFV2MGxJci1NVkhpeC1mU1d0dnFJczZwellPT1paZTl1RnZPT29RMjlGTm9scUxCcnZ6MVpDb0ZOWktOTXNIS1NoTHBpbkFZemJkSWMyNjdGR0hHSWswSEF1NFNDZFpNZnVIYncyWGg2ZGpQMmRNNjUyeTV1NktHOGtLNi10YTVrbkpZVGFTdHZyaDF3QUVfSlhfZE9XNlFMb3ZsMVF3?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-07-16T07:00:00+00:00",
-      "company": "Amazon / AWS",
-      "title": "Announcing on-demand deployment for custom Amazon Nova models in Amazon Bedrock - Amazon Web Services (AWS)",
-      "summary": "Announcing on-demand deployment for custom Amazon Nova models in Amazon Bedrock &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSnY1elNNYW5Pb1hZVmVtMHlzSFRkY2w1elpBX0tTTy14N05wcHF1RlpSRENtN3RGOF9nZVlxaXJpRUxibkQwQ2tfQ3gydUFXRm5vRzk0TmU2X0lrbzE4bkRCaURXOE52eW9OVVRRYVd4VWpuU3ZBdUZ3eGVpR2ZreTktQzFZd0FNTmN2ajdsMnBjSnBzM2tYb1U0VHJQSm1M?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-28T07:00:00+00:00",
-      "company": "Databricks",
-      "title": "All - Databricks",
-      "summary": "All &nbsp;&nbsp; Databricks",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9CUU5Ba3dhd0RWV2FvNGpKUWxuYkxKX1ExSExXUS0zd0kyQXUyd25tMjNLTGxLQ3JIdjhZeGtFLVlyZ28xbFhMNFpTNUZPQXlEbi1XX093RQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-08T17:00:00+00:00",
-      "company": "Anthropic",
-      "title": "2026 Usage Policy update - Anthropic",
-      "summary": "2026 Usage Policy update &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Jb0FYSC1vRGpQd1BEeXA2TFdubUUwZnJlY19xQjI1X21oZ2xrYzFiZ2dfU283YXVGX2pxU05kUGZCV0lLUE5GZ2pjcnBQbFFGb2dHSDdtd1Zhd1NaZUJ6b1lIQXlGQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-11T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions - AI at Meta",
-      "summary": "Four MTIA Chips in Two Years: Scaling AI Experiences for Billions &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZmcxbXRiejZwZUo4V3RUSEQ5NjVJcnJjZ1ZXZWZzX2hYYmpWOVhMM1U4UEhlek9mTnJfLXlPS3o3ejZPSlAtNlY0Um9jbjdRbDNlU2dVa2Fyc25mNlRRZE1uZWZWTjQxWExFM2o4bVk?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-01T21:40:24+00:00",
-      "company": "xAI",
-      "title": "grok-imagine-video-1.5-lite - docs.x.ai",
-      "summary": "grok-imagine-video-1.5-lite &nbsp;&nbsp; docs.x.ai",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bc2RaSmJEVnNoakJDZWs1QXk2b0tGRDdNWFZSQndFcEcwU29CMExZMTZZZU9PcHVZb3BPdXhZMXdaa1JRMTQtR2ZLY0phc2pRMnIydzNZWEJoUHVLNEk1SGsyWGtkbXg5Y0dYdEFKckk?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-11T07:00:00+00:00",
-      "company": "xAI",
-      "title": "Grok Bot 101 - xAI",
-      "summary": "Grok Bot 101 &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1YcGY3eTI5b29XNmlYNFUzTTRlUlByZWNUVTVSc294eTJEU2tyRUhZYzVlOWx3TlhOLUJqNDhVcTRkX1Q2eDdycS1adWk?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-12-02T08:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "Ministral 3 8B - Mistral AI Documentation",
-      "summary": "Ministral 3 8B &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45ZVRmRWNnSm5EWktaSW1wZTJIaFQzb1I0bXRYXzBTNUdMV1pMTUF1Y1lZVXQ3anhJNTM1UnRZbDhFV3FyZ3Ewb2JXaHA2NW5aLThxOTN4WDlHeGhoU2tETw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-11T16:04:19+00:00",
-      "company": "Mistral AI",
-      "title": "Prompting - Mistral AI Documentation",
-      "summary": "Prompting &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XdVBuNWJmc205cEdMdDV3cjg4SzRwZHpxeVpfV3E3RnpEcFBlTEQtblpUc3FaOUFONms4UElEWWZLYl9Bd3lzbUtEQndCakFEV0pCNXJ3?oc=5",
       "kind": "News"
     }
   ]
