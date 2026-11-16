@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T18:47:41.938465+00:00",
+  "generated_at": "2026-11-16T21:57:47.546292+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,30 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-11-16T02:13:39+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen4-Max: Your New Teammate Has Arrived - Qwen",
+      "summary": "Qwen4-Max: Your New Teammate Has Arrived &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKVUtuODlrcjNUdVBTMEkwR3lwNWVpSDQ2UmY0SjNXUGZzQ3pQLXM5TFNER05UWlZHRnhkZWV1N1FZUzcxWm5vMg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-16T16:04:02+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents - NVIDIA Newsroom",
+      "summary": "NVIDIA Introduces Nemotron for Science to Accelerate Discoveries With Agents &nbsp;&nbsp; NVIDIA Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORzMyeWZXb2Q2WWk4cFhhNW5xbW1wN2piRFpkYVRUanNEZVlhdnQ1Y0pnVzJwMmxwWE9fOHFIeWM5OFFjMU44SEY5Z0N1akZCeDZpaHRSdWZzNHVlT210aUxkMkhNRWtnY0NMSGJwRm5SSVg3THF6V0pqM3dqUnJrSHFfMVViSThGNjltVEdHanpDQk1jZThINm1MUDJyLWtyQnJKUlREbkVyLUlWQVZCaQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-07-16T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Announcing on-demand deployment for custom Amazon Nova models in Amazon Bedrock - Amazon Web Services (AWS)",
+      "summary": "Announcing on-demand deployment for custom Amazon Nova models in Amazon Bedrock &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcHc1VWVaMGZPU19zMEc2TUFsZEM4em5JQkVuSWxwZlk2MkVkczJTX0tLSU5Vb1NUUnJMWHdCdlpFSWtaQzZfQUFTYlRWNFFmNTNiUWZWelIyV2dyNDRsZmZmdGlFbDhjaXo4Nl9LSjZ3Z3VKR1RhVm1FUEZCbFRaZ1BJNkZNRlRvZGNVdlBOaXJIS0FVdFctaVV1YUpyY0Q0ZEExZHNSaHNSdw?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-02-23T08:00:00+00:00",
       "company": "Anthropic",
@@ -4537,30 +4561,6 @@
       "title": "Vibe Code - Mistral AI Documentation",
       "summary": "Vibe Code &nbsp;&nbsp; Mistral AI Documentation",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11VWNRVXpYUkhSZWRiQmxlcE5WSzI3aWxGS1JXN0YybmkzRVhMM0xHdmhIR2UxRW9PeUgyMEU1ZV9XOU5uOTd5LUxHd3FOQndTSzdnaA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-05-12T16:37:51+00:00",
-      "company": "Microsoft",
-      "title": "View protected PDFs using Microsoft Edge on Windows or Mac - Microsoft Support",
-      "summary": "View protected PDFs using Microsoft Edge on Windows or Mac &nbsp;&nbsp; Microsoft Support",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVlyRjMzcTViMkYxN3A1TlM4MkR5dnNtdnZOdGtXbFVfMGNCeUs3dFhJWEtmdlBETkFQaTVOT1B4bDlPZjRFaXJfcE5jZGdpWC1TWUd1bFVkY1BHN0FPSHlxdGxfMWI4N0FzM0wxVnAtUzdOeGllSkl1cUxtclNjWmo3d2g5NTRKMnRBc2JJLUo4T1p5MkptbEE4WXQwRXBt?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2015-08-27T22:53:50+00:00",
-      "company": "Microsoft",
-      "title": "Microsoft Azure Blog - Microsoft Azure",
-      "summary": "Microsoft Azure Blog &nbsp;&nbsp; Microsoft Azure",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96VVZFcDE2TXI0ZVl1V0dkaHRjYWt3SFlBU044VzZwNHhseGl5TU1ZOS16aHhSSDJlWHhNeVg4OEdZd3dKaXBEa2FFN3MyeHpU?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-05-09T07:00:00+00:00",
-      "company": "Microsoft",
-      "title": "Exploring Microsoft's Phi-3 Family of Small Language Models (SLMs) with Azure AI - Microsoft Community Hub",
-      "summary": "Exploring Microsoft's Phi-3 Family of Small Language Models (SLMs) with Azure AI &nbsp;&nbsp; Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPemhQbWZPVHBScFg5cHlhbk50Z3JOazdYcjh5VVd1ZFU3QUZ2cHY1cllHMWx5cHhfUVZneWhkQ3ZVUnp1bFV2MGxJci1NVkhpeC1mU1d0dnFJczZwellPT1paZTl1RnZPT29RMjlGTm9scUxCcnZ6MVpDb0ZOWktOTXNIS1NoTHBpbkFZemJkSWMyNjdGR0hHSWswSEF1NFNDZFpNZnVIYncyWGg2ZGpQMmRNNjUyeTV1NktHOGtLNi10YTVrbkpZVGFTdHZyaDF3QUVfSlhfZE9XNlFMb3ZsMVF3?oc=5",
       "kind": "News"
     }
   ]
