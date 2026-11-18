@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:51:10.118485+00:00",
+  "generated_at": "2026-11-18T20:27:10.455435+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,78 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-01-22T08:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Claude's new constitution - Anthropic",
+      "summary": "Claude's new constitution &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2SEFxVlhIUGhqcGNaYkcxTDVEeGs3c2tVU2Y5QUR2MXY1dnpGWDJ0dVZDYjMyci1NYm9oZVRxNDVlM2syUVlIdE80U01ac2FaVmkxaGxnSHVJVnR4OGVnTFM3MFo?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-13T08:00:00+00:00",
+      "company": "xAI",
+      "title": "FAQ - Grok Website / Apps - docs.x.ai",
+      "summary": "FAQ - Grok Website / Apps &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5iVzNqQVFpdnoxWF9OeXctZW1IZ3V2Nlh2SUJBcXRGN2FmTFI3eWxZNndrWm1sREUtSkdyTTNHWQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-11-19T08:00:00+00:00",
+      "company": "DeepSeek",
+      "title": "DeepSeek-R1-Lite-Preview is Now Live: Unleashing Supercharged Reasoning Power! - DeepSeek",
+      "summary": "DeepSeek-R1-Lite-Preview is Now Live: Unleashing Supercharged Reasoning Power! &nbsp;&nbsp; DeepSeek",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14RzBVM253Zk90Y1diOGJpWUVnN19PSWZWdVN3U0tyQU43YkgwcDVwXzNlNUFBMzJsT0haZF91TmdMQVZubHBoY3NVWTdERU1jaHJ0QVQxNVl0QjcxSkE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-07-05T07:28:34+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft 365 Enterprise Nonprofit: Compare Plans & Pricing - Microsoft",
+      "summary": "Microsoft 365 Enterprise Nonprofit: Compare Plans & Pricing &nbsp;&nbsp; Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcmFfOUtaeG1mWENuNnM1VV9mYkVqaEJKNWVONXVzZWtLdzZWcXFzYldqaXFlcEVZOXBwZjlBTlc5cEp5OWZpNmZvQUw5NDdGRFh2SEV2Nkp0eXppTHpyWWNnUDdQWTQxd0M1Ym5pOV9jbFo0UnJXLW9hSUdtRVdLbVRoeno2NVB3bm5XdQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-07-15T19:17:28+00:00",
+      "company": "NVIDIA",
+      "title": "AI Solutions for Enterprises | NVIDIA - NVIDIA",
+      "summary": "AI Solutions for Enterprises | NVIDIA &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCRVhSUElVQWJ0ZkZHdW1wRzFkbVRFc3V6R1FPcHYxSGlZc1FsSWdqemlzc1FJa0dybE9OY1d2SmVVejRGYTI2aWNXeklHS09KVnZZSw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-09-23T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon Nova Act extension: Build and test AI agents within your IDE - Amazon Web Services (AWS)",
+      "summary": "Amazon Nova Act extension: Build and test AI agents within your IDE &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQW5IWHNPRFo5NmpqN3lITG1ZTlV0RUpkLXRNMEJRQzBZN01WZGRwcUk4Si1qWEV6a2NwdDRrRDhOTjhtV0tScy0xSUg3VmlJLWdNVThkeW40Y2JFRTBqWk1xWjJJb0gzTXFvZWZKOWVwYnZJVTd2ZjZ1TXl5U3Qwc05SZHdnQmNMMXlTbGpsT0RBS1h5SXVYR3c5cFFxSkpSNEZtWQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2020-02-27T00:24:39+00:00",
+      "company": "Baidu",
+      "title": "Baidu ERNIE - Baidu ERNIE",
+      "summary": "Baidu ERNIE &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE01RFpDMFE5NEtZeFJselFtdDg5WUVnMUhiV05kM2J5Z0k4MFl0WER0UnA0S21jODdUT2lfVw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-23T08:00:00+00:00",
+      "company": "Baidu",
+      "title": "Baidu AI Studio - 一站式AI开发实训平台 - 飞桨AI Studio",
+      "summary": "Baidu AI Studio - 一站式AI开发实训平台 &nbsp;&nbsp; 飞桨AI Studio",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBWQUNMSThnQWFCaG9vajh5dFZGMGZFbU0yUVg0MmtuaUhNMV85eERoMWUzRHlIUnRpMFRValJoclVBUUo1SEZpNHBfdFdFVTB5Z0VwWTVXbU0?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam AI Quickstart Guide - Get Started in 5 Minutes - Sarvam API Docs",
+      "summary": "Sarvam AI Quickstart Guide - Get Started in 5 Minutes &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oSkNESl9DSjQxa3hIb3lSSWVDWldOcWJSbzhrN3FVMUNCem03TUo3cHJiZFJvMk9DRkg3Nm4wUy1pSlJzZ1ZzRFNWd09OdktiR1JYc3ZqenBWaFVJTlVhblY0bw?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-11-13T12:04:28+00:00",
       "company": "Google DeepMind",
@@ -4489,78 +4561,6 @@
       "title": "Grok Imagine Video 1.5 Lite - docs.x.ai",
       "summary": "Grok Imagine Video 1.5 Lite &nbsp;&nbsp; docs.x.ai",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bc2RaSmJEVnNoakJDZWs1QXk2b0tGRDdNWFZSQndFcEcwU29CMExZMTZZZU9PcHVZb3BPdXhZMXdaa1JRMTQtR2ZLY0phc2pRMnIydzNZWEJoUHVLNEk1SGsyWGtkbXg5Y0dYdEFKckk?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2014-06-04T23:30:35+00:00",
-      "company": "xAI",
-      "title": "SpaceXSI — Creators of Grok, the AI Chatbot - xAI",
-      "summary": "SpaceXSI — Creators of Grok, the AI Chatbot &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiLkFVX3lxTE0wb0lPU05aVml2aGk5UzJSNDJuQWhNejliaUdncHJycHFpY2VqdEE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-05-17T14:29:39+00:00",
-      "company": "xAI",
-      "title": "Grok — Useful AI Chatbot with Voice & Image Generation | SpaceXSI - xAI",
-      "summary": "Grok — Useful AI Chatbot with Voice & Image Generation | SpaceXSI &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFBodGt3WDU0aGZOajhINEljNmFFT21XWVNVT0xXNzZZZU4zNzFDd25WNlR2WQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2016-08-21T20:42:20+00:00",
-      "company": "xAI",
-      "title": "Pricing: Compare Grok Plans | SpaceXSI - xAI",
-      "summary": "Pricing: Compare Grok Plans | SpaceXSI &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9VSHpxdDZjR0V1RTRwNFZWenRmellGQ3ZyY0N2Z0FnckFta2l4aDAyOHgxT2o3Mm8?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-05T00:46:52+00:00",
-      "company": "xAI",
-      "title": "Grok API Documentation | SpaceXSI Docs - docs.x.ai",
-      "summary": "Grok API Documentation | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5ISEtPSFFmY1dKRzBoTWhTbllpSmhXX0lWVXZ5cS1WSXI0NmRPR0twM2NqQVpTbjA1Q1hOVTMzNA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-11-04T12:10:12+00:00",
-      "company": "xAI",
-      "title": "SpaceXSI API: Grok Models, API Keys & Pricing - xAI",
-      "summary": "SpaceXSI API: Grok Models, API Keys & Pricing &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiMkFVX3lxTE4weXY0VTFSQVNhTnphMjlIV05wRGpWZjRPc1JFdC00bmE0UE5xWHJHUzVR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-05-14T18:34:39+00:00",
-      "company": "xAI",
-      "title": "Grok Build: SpaceXSI's Coding Agent | SpaceXSI Docs - docs.x.ai",
-      "summary": "Grok Build: SpaceXSI's Coding Agent | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxMFBVem0yRzBISWVLUXhHWEpFVjRQNGhvc3VESnExbU90MUZDbmJpLWpGOUFVMkVPSXFJR3c4cVlRdjY5R29F?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-03-10T17:54:54+00:00",
-      "company": "xAI",
-      "title": "News: Research, Product & Company Updates | SpaceXSI - xAI",
-      "summary": "News: Research, Product & Company Updates | SpaceXSI &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiM0FVX3lxTFA5M2w2Tm1Kd0l0LTNhWUk0RGFSRVE2V3p0a0o2dzlmRlducGlxTFhuSjlKWQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-17T13:06:01+00:00",
-      "company": "Mistral AI",
-      "title": "Send your first API request - Mistral AI Documentation",
-      "summary": "Send your first API request &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT2R0THN2bFI4X2MyVTNLZzYtaTBZYnVQYS1STnM5NXdTeHV2WGFmUGVFMHFQQ0hpVG5OS194bUFuU3MxMG1fS0FjdFp6a2RUcWxZR2trbVFLMzdqX1lqVHlGc0dHNFduZU82dmY1RXpiYXY0YV96MmZpSUlvQjJXZk53Q0tzZw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2006-03-15T19:51:55+00:00",
-      "company": "Microsoft",
-      "title": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps - Microsoft",
-      "summary": "Microsoft – AI, Cloud, Productivity, Computing, Gaming & Apps &nbsp;&nbsp; Microsoft",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFB4b2lGQksyM3BQOGhuT0Fka1docUgzU3VHOFZBU01ldEkwWkRaclNFUmNYc3BWNHJKOS1qZ1BoYw?oc=5",
       "kind": "News"
     }
   ]
