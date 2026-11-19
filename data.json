@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:27:10.455435+00:00",
+  "generated_at": "2026-11-19T20:30:14.034905+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,182 @@
     }
   ],
   "updates": [
+    {
+      "date": "2025-11-13T08:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Disrupting an AI-orchestrated cyber espionage campaign - Anthropic",
+      "summary": "Disrupting an AI-orchestrated cyber espionage campaign &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA5dFRNdGRsMmVuU1RsMmI2dUlFUG9fUVEweEJsQ0hZUTFTNnk5NVk1a3QzWG5jUFVnVFY2bGEwSnlhQWk3bHd0c0NnOXAyS0hMelA3MW9ZTldsOXJ5VURESHJYNWg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-10-22T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku - Anthropic",
+      "summary": "Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IdVhfWl9idzlHQVE1eTRYaFJZYWpDbF8wQUEzSjlwb0otSmxnWWNKTlJlMlZZeFE4aDRrMURQeXRCMzJ2Q0E2NEFOcEJrUldOcENhb2NOaDNETTdNbGNLZFZNbFFnTVVHOXc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-18T21:51:51+00:00",
+      "company": "Google DeepMind",
+      "title": "{Model name + Version} - Model Card - Google DeepMind",
+      "summary": "{Model name + Version} - Model Card &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uMDBhNnFaYU9QNDBlamg0MFItWXUtMDUtQkpGTWtnZTdpcW9UeUNqQ2J1dWZhWUNYNjlhbHZQRVFuaDRlLUozeWEyeUNJbDhHRFhWbTdHREV5YXNfaFNRMmFKdmlIaDl6?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-18T19:40:02+00:00",
+      "company": "Google DeepMind",
+      "title": "Genie 4 - Model Card - Google DeepMind",
+      "summary": "Genie 4 - Model Card &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GMVY2Z0lvNUwyOG1zV1k4czFKNTNBNGNIOVl1YlFnTm4yNVd4N0g3bmh1aEFzZnVHcXlmN0Mxd1pQRHZXOWF2NEM2X2ZSZlNyMVczenZfWmtxbmlKbkJiYQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-02-05T00:46:52+00:00",
+      "company": "xAI",
+      "title": "Grok API Documentation | SpaceXSI Docs - docs.x.ai",
+      "summary": "Grok API Documentation | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE5ISEtPSFFmY1dKRzBoTWhTbllpSmhXX0lWVXZ5cS1WSXI0NmRPR0twM2NqQVpTbjA1Q1hOVTMzNA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-17T15:33:36+00:00",
+      "company": "Mistral AI",
+      "title": "Code on Desktop - Mistral AI Docs",
+      "summary": "Code on Desktop &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hcTBzV1RNMU9TQXRmSGNvYWZUVmIxUlpuUFk0WVQ1V1lpazlwQkhSM3JNSVlONzY4Z0R4WE5XdUxpQnBPSXpJY1lldDdmal83VjFHMTUzNDZwbjA2TUxr?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-04T13:00:07+00:00",
+      "company": "Mistral AI",
+      "title": "Chat completions - Mistral AI Docs",
+      "summary": "Chat completions &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aaGRRRjI4N01wVWxrWUtTV2NYek1rUzVMdlZ5Q3M3a0Y4RW5ZNVlsdlJpLWgxRnIteXNUcVFLTV9YNi1pbXhVYW4zdVJMb3lVc2pRd3JSV2c3UWwzbUU4a0pEQU83RDlMd2FkR2s2RGs?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T16:04:23+00:00",
+      "company": "Mistral AI",
+      "title": "Model lifecycle policy - Mistral AI Docs",
+      "summary": "Model lifecycle policy &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CZUxXdlU4NnBEanJUYlJlREFFb1pZalhLdVRaLWpNNzBvZEtERHlxS3FtdDMxT1lSLWQzX1pWcGJ2c005cEYwLXFtSjF2TzNweEdoamt2QkFHbUt5TkE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-06-10T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Magistral - mistral.ai",
+      "summary": "Magistral &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBYZGFxUDR4blAtUjBhODdFRGlhWmxWMlVJTW9rcVRjdHIwWkZVMFkwajFLSTVVMTM4YWtJWS1fZk5DdTV6b3o1ZGNn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-12-11T08:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Mixtral of experts - mistral.ai",
+      "summary": "Mixtral of experts &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lWUdYc2NpQU1fSnZETENad3JiNWphT2R2cGFTMzhnSUM5dW9RSzhFZFVaaVVILXF0M1h1WjBxaFJFZjFpMDRMLV9TU0ZaUW5UdmVSRVBB?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-02T08:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Introducing Mistral 3 - Mistral AI",
+      "summary": "Introducing Mistral 3 &nbsp;&nbsp; Mistral AI",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE44VzJRSjFJc2dXT3FiMHJuenBhb0RidlhCU01WOHBZam5CbFFfMlBvMV9nM190dTJoQXp2S1QtVEpFLV9TM1JaMzZn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-21T08:00:00+00:00",
+      "company": "Alibaba / Qwen",
+      "title": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation! - Qwen",
+      "summary": "Qwen3-TTS Family is Now Open Sourced: Voice Design, Clone, and Generation! &nbsp;&nbsp; Qwen",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5PenVrN0lrRC12VUNGQTN5bUZ6SVJoMjE2NXMtTG9EdG43bUY3QkYxS29YeU5zcmhFblJCN1R5SWJzc3pYclQyRTU3WXhuQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2018-01-05T19:19:44+00:00",
+      "company": "Microsoft",
+      "title": "Cloud Products - Microsoft Azure",
+      "summary": "Cloud Products &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE91bDNPTGY5b041ejFKMTJoNjExcm9iUE4wNTR0bWlOT3o1eTYzS2E0SUJXX3lCcUVQM0hhX3VtQ0RMb0k3d0NGUXFTUmhBOVJUU2JOaA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-10T13:31:11+00:00",
+      "company": "Microsoft",
+      "title": "Open encrypted and protected messages - Microsoft Support",
+      "summary": "Open encrypted and protected messages &nbsp;&nbsp; Microsoft Support",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMGpIcjlHZmlvYWNMTUFraXV0NlRPR2RyNDJSOFczT20xdjRFTFh2Zk1qeGI3Z25EWVJvVnNPYTVKZl9RMVFHN3EwMjdFV0t1RzBDdGlfNnNCYnJRZ2NhZU14SElXS0dpY3dHMmcwNEJGdzhUOTBGRDkxQWkyUE13cUFzaWU2NXh2ekRJNjZSaw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-16T15:31:42+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Associate AI Model Development Certification - NVIDIA",
+      "summary": "NVIDIA Associate AI Model Development Certification &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOVIzQWVDZ2d3aWI3Qll4aW1yekp3Z0dacUxTUEsza1VBYlZPdnB2SG90dTFuUTZNVnB0YUVtcEZ2TTRxRWJrbDZZWGpPTVB2eGNPUUVWdW45QTBRRS04T2VjTjI2QVJHNXZVYnItYjNQQjNLWU5fdGZqUkR6SGI2dVZuTjgzci13SkFoQU5MYnRiR0FIcDc4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-02-23T16:51:47+00:00",
+      "company": "NVIDIA",
+      "title": "Certification Exams - NVIDIA",
+      "summary": "Certification Exams &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02THlPOVhJZnNPdURCOEc2VXdKSFp4TDBheVc1b3hOU0ZZNkJMdE9ndmJiUFUtV2kzeEc5VnhGUW11ay1DRXVBc0JxSnhfTUxHTEVhLUs0Tngxd0FkVEE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-17T16:33:11+00:00",
+      "company": "NVIDIA",
+      "title": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents - NVIDIA Blog",
+      "summary": "Ian Buck Kicks Off NVIDIA’s Week at SC26 as Science Enters the Age of Agents &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrRUdZeDVCSElqR0JXZnM5WG9yZGF3N19aTVgtYjNqZmxTNEd3TW5BbWFQVWE0RGdpbXlOSEZfRTlBcU8zY0Z0VjAwR1dWZXdLZ3pKVEpGUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-12T19:20:37+00:00",
+      "company": "Amazon / AWS",
+      "title": "The next generation AgentCore runtime is now the default - Amazon Web Services (AWS)",
+      "summary": "The next generation AgentCore runtime is now the default &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMjhINzVNYnVNVDMtSmhLX0lSOU9qbmpjNWVLdE1LVTVDWTRKbzZoTVZsVEtrMWxhcmZrNV9jSTV6OERQNktqczBMbHVVbEVoUUtiVTZ2allJOWVtS2NuZWx6UFRWYXIxN1FBQlZ6YWZ6M3cyUlpFRURBZkNtZ195MWY2UWFIczN6?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-05T08:00:00+00:00",
+      "company": "Baidu",
+      "title": "ERNIE 5.5 Flash Base · ERNIE - ERNIE (Baidu)",
+      "summary": "ERNIE 5.5 Flash Base · ERNIE &nbsp;&nbsp; ERNIE (Baidu)",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uTlY1NElWcHpPOFdqdWJUVlJoZEpRak9DTXZwU2pneW0tTUVtYVE5alhpcllTMGQ0VVp4ald6VzBtdW1wU1M2QjFnUVNfQmFzRlNlM29TNXhIa1JVUXZTSUs5Yw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-11T08:00:00+00:00",
+      "company": "Baidu",
+      "title": "Introducing ERNIE 5.5 Flash Preview · ERNIE - ERNIE (Baidu)",
+      "summary": "Introducing ERNIE 5.5 Flash Preview · ERNIE &nbsp;&nbsp; ERNIE (Baidu)",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jWXdkRGhpYmpsaEgyN1FLd2lNd1dCTDZZa1BtTFZtNkZERy1mNDl5cnRwOVA3dy1Sa2JHTXZ1dXJhTkJDcnIyQjVmbVk1OEZodnZYUzR1WlhrSzFqNWttNTU2WndLQ28?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-09T08:00:00+00:00",
+      "company": "Baidu",
+      "title": "ERNIE Evolve: Toward Automated Research for Real-World AI R&D · ERNIE - ERNIE (Baidu)",
+      "summary": "ERNIE Evolve: Toward Automated Research for Real-World AI R&D · ERNIE &nbsp;&nbsp; ERNIE (Baidu)",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tV2Z3MGJ0N2Y2Y1hYN0dnS21HakxjVjRodV8xVTc4MVdCSnpBdEhXWVBEcS1EWHowSVhZb3FvSEVFYnBxa2ZxbHNNVUVjQ3kzbVlmYWlGVnFSRzZqTUctU2Nn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-05T09:30:04+00:00",
+      "company": "Baidu",
+      "title": "Introducing ERNIE-Image - Baidu ERNIE",
+      "summary": "Introducing ERNIE-Image &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Da1VQLXlGWnV2ei1TaVlJanp3c21YaGlNNEJtRjl4bGdDbC0yeUV5a2ozck5VRmxwTFZwUTlqRnZZVFUyNExlMjBJNG1iWjhsbTgzWGtsSk1NbFZLWmRRQQ?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-01-22T08:00:00+00:00",
       "company": "Anthropic",
@@ -4385,182 +4561,6 @@
       "title": "Service Trust Portal - Microsoft Service Trust Portal",
       "summary": "Service Trust Portal &nbsp;&nbsp; Microsoft Service Trust Portal",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VZXZEOXI0anJjU3hQOTU3ZHRhUmxjYmhBcGpNaEx6ZG1OVTYwMGlzM0hqQk1wWUFxYnQ0TmxlaGRRZ0ZwZVBOYkdNYw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-13T12:08:30+00:00",
-      "company": "NVIDIA",
-      "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark - NVIDIA Blog",
-      "summary": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark &nbsp;&nbsp; NVIDIA Blog",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9YMXVMb1E3Vk9kaDQwSXlQdElpejdWTGpSS1I2aFJ2aFpiTXhGVEM1ZXZxSDhzR2c5ZV9tOGwyRnlERGNLNExWeTJPTXdTMDVzSy1wcWIyMmZaSEpvY05KZDM3SnRSRUdJN0luOU1NYmJGbThOSzlzVGNhM3dqY0E?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-11T07:00:00+00:00",
-      "company": "NVIDIA",
-      "title": "nemotron-3-super-120b-a12b Model by NVIDIA - NVIDIA",
-      "summary": "nemotron-3-super-120b-a12b Model by NVIDIA &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9vQ1lHdkk3Q0xTQzQ4eFBOd3ZLZWFfc21jZ2lXQ2h6Y2xLdTlQN0RCdnhnNVpOUkk0dWUxNnRiT244ZWFtcGwtbmpSMWJoTHhPb3lfVXRBeWM1REFOZF9oN1ZXZV9Ob1dTaEk3VVpLUUlUeWJTaVpyeVdzb2taVG8?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-13T05:03:33+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA Announces New Investments in France’s Startups - NVIDIA Blog",
-      "summary": "NVIDIA Announces New Investments in France’s Startups &nbsp;&nbsp; NVIDIA Blog",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTRGZFbUlVZjJzY1M2ZGVVc3hubnlhYmNTTlJCWk5xdWJBeENiZzN2RGRfZ2U5d21tMjNVV0xKcFFSMm5BWDFydDhjT0o1NFBGQlc5aWlEcG5kMUlNY1pNS2J1UGhJaGlwbmhkaTFnYmtoNEE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-01T04:52:56+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA RTX Spark — Slim Laptops & Small Desktops - NVIDIA",
-      "summary": "NVIDIA RTX Spark — Slim Laptops & Small Desktops &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yaXJJcHZocV9WMWdZbGVkT3ZGZ1M3ZlZaaENMZ2llRUlDRncyaWhpZkJqT3VLNFotR3FMaXN5QnJlbmRlTm1sbFF2VkhDYjZxR0pXb0R2Yk1hS2o3?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-01-21T05:29:26+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Indus by Sarvam - Indus by Sarvam AI",
-      "summary": "Indus by Sarvam &nbsp;&nbsp; Indus by Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9jZTJmQVVDRHNTVlJkZjRzQkdEQlZkUUowTzJWaTdkMGMwZjJxOEJHOVUwVk1ObE9EU3ZuUw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-13T08:43:52+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Voices - Sarvam API Docs",
-      "summary": "Voices &nbsp;&nbsp; Sarvam API Docs",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lbjRBbGxoUHJoVVplaUNyWmh0UDlDNHNxQ1Btb3lTVkxhcmpnb3pJVmhHblV1dTZsNkVobnFzSXN2ZnJyd2JtdzZucHk5Yzd3cnJUWnBzaGhzSWt5a2xrWmZXSlBsT243a25RZEJ0RGVTVFBUeE5fYQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-18T15:26:28+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Open-Weight Models - Sarvam API Docs",
-      "summary": "Open-Weight Models &nbsp;&nbsp; Sarvam API Docs",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tdjg3NTZEUUNQV3BqdVQ4aXM0UVZ6cFA2Ymh0LW5jUWJpc3JiaUZvc3BFTERsb0FkV0p5S0pFYzFab1Q3dlNUNlpqN213YkpGU29PRF9XMWs5ZEhmMHRGUmRibUdSNXExblBXQw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-13T09:04:29+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Software Engineer - Model API Platform - Sarvam AI",
-      "summary": "Software Engineer - Model API Platform &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE00aVBMU1hRbzRUU2ZrUUdkSlNwWk9ucHcyTkllRUJNRmVSR3l6QlQwYUwyUVZGYmllNjJiVXdfSE5hb2hTNXFsS09Ra0QxcHQydFdRNU9ZR1R6ZDVBWEU3VlFVdGFqbmZobk9oNUhNLWVlakZsS042NWhSNA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-05-23T07:00:00+00:00",
-      "company": "Anthropic",
-      "title": "Golden Gate Claude - Anthropic",
-      "summary": "Golden Gate Claude &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hOWFKdjVfSGpJMkdIT3d2Xy1FM3JUaG1vczF2cWFMVGhEcEhEZUVQUHpnb0hqVzdBN0JCcC1kZmNFUEdobG4wUHdPekVRMDJPeUNkakIxNFpGZ2YxZEE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-05-20T17:49:33+00:00",
-      "company": "Google DeepMind",
-      "title": "AlphaFold - Google DeepMind",
-      "summary": "AlphaFold &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLNlY5RF9yX2pfb0h5cUdGanU5ckVzWE9QQVBGNDM4WjVyRlBTcWt2bkxva1pnQVIyT3FTOG9JcTRVNHBwZ250aVBkbTBDdzlrSVZWZA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2014-06-04T23:30:35+00:00",
-      "company": "xAI",
-      "title": "SpaceXSI - xAI",
-      "summary": "SpaceXSI &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiLkFVX3lxTE0wb0lPU05aVml2aGk5UzJSNDJuQWhNejliaUdncHJycHFpY2VqdEE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-01-14T02:12:37+00:00",
-      "company": "Microsoft",
-      "title": "Azure OpenAI Service - Pricing - Microsoft Azure",
-      "summary": "Azure OpenAI Service - Pricing &nbsp;&nbsp; Microsoft Azure",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hVTg1cHp5VXAybUc4R1B1bEFIQjVTSDVKU2w5bzYtTkZvWkk4Nm5UNXZGWTNFSFUzaXJjM2hyWS00ZUJoeGNoN3NEUEJRSHNZaTJERUZpVFB5Q3lTQVJGcUdPMndkeXNkRGhhdE9yZk0?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2017-02-12T11:27:46+00:00",
-      "company": "Microsoft",
-      "title": "Service Trust Portal Home Page - Microsoft Service Trust Portal",
-      "summary": "Service Trust Portal Home Page &nbsp;&nbsp; Microsoft Service Trust Portal",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VZXZEOXI0anJjU3hQOTU3ZHRhUmxjYmhBcGpNaEx6ZG1OVTYwMGlzM0hqQk1wWUFxYnQ0TmxlaGRRZ0ZwZVBOYkdNYw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-01-15T08:00:00+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice - NVIDIA ADLR - NVIDIA",
-      "summary": "NVIDIA PersonaPlex: Natural Conversational AI With Any Role and Voice - NVIDIA ADLR &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ucmNtT0lCVXk2NUNjWm5laDUzOXM2OXhPRkRrenNPekJwR1FHWEJZRXFuNElQZ1FYZmRKRGRMVXlaZC0wSHg1eEVOclZlM3RzV19MeXR1bkNVSHRIRDlZ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-03-11T07:00:00+00:00",
-      "company": "Amazon / AWS",
-      "title": "Amazon Nova Creative Models now available in Europe - Amazon Web Services",
-      "summary": "Amazon Nova Creative Models now available in Europe &nbsp;&nbsp; Amazon Web Services",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOFlKMDFTSHdQWFpIRlRDcG5ESy1QYXBJWjFUeGprZGdYdFNKM0pIZnFDYjh0LVpFRkRIamNwWUxVTUE5SmprYkU2WVZpTFJuLWVZZ2lMdGN1Ymt5WHdKcnZ5dHBaVXlNQ1JEQzB0b1BvZ1JaNTYzMDYxY3hGVS03NVg2bGtEWEFmTWN0V2ZZdw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-11-04T14:57:46+00:00",
-      "company": "IBM",
-      "title": "What's New - IBM",
-      "summary": "What's New &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1XMmQ4a19nNVVwN01LSnQwLW85OGwwN2pmUkpaR00xcHNZaFEwWXROZ1pYMllyZ1h4Y1g0?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-12T09:20:38+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Sarvam Voice Agents Overview: Languages, Channels, Use Cases - Sarvam AI",
-      "summary": "Sarvam Voice Agents Overview: Languages, Channels, Use Cases &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWQkJCaW9QUlQtczNuRHE4MXM3YWNlaU01aXRtYjd0aTYwTmczU3lra012T3JDZ1BlZHVDdzRoS1NUcjdKVGVpX1ZBY214OUphbXQ4WWtMcw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-12T07:28:01+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Voice Agents pricing: per-minute rates in INR | Sarvam - Sarvam AI",
-      "summary": "Voice Agents pricing: per-minute rates in INR | Sarvam &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBBcURabmNFS0FLN3I0UEl6VHNRMGJrZlhhTUh6OV9pZklibTNJQTBzeW0wd3pRWnZ6MzZTbzZHLWM0cU1fQmk0ZThZODVvRmRXY2xWM1RRVEJkNXZfaDdtdA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-05-20T17:49:35+00:00",
-      "company": "Google DeepMind",
-      "title": "WeatherNext 3 - Google DeepMind",
-      "summary": "WeatherNext 3 &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBiQVdHZDhmeWIxclMwM1VlLW1QZUxPdVF5bWkyMU9LTkdhYnA5QkZndG95amVDUmgtN09XMkdEUjlac3dvWktqQVJybE5Na0lSR3FZaHlpMA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2023-07-13T18:30:53+00:00",
-      "company": "Meta",
-      "title": "AI at Meta Blog - AI at Meta",
-      "summary": "AI at Meta Blog &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9udkRtUmZBbUM0WklTOGM1ZkRXampxRkRYTkVsX0lrMHJud1ZORWoxWEs4b18yQjlTOWZmZlI1NHlKXzdDTEFR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-21T07:00:00+00:00",
-      "company": "xAI",
-      "title": "Introducing Grok 4.7 | SpaceXSI - xAI",
-      "summary": "Introducing Grok 4.7 | SpaceXSI &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBqb2x1bzQ3UkxTVDFCUVRjODMzbDJ5YTg3Nmh5Q2luZGdUTmctZmo1Ukp4c3RVdUhfSGZFc1p5SQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-01T21:40:24+00:00",
-      "company": "xAI",
-      "title": "Grok Imagine Video 1.5 Lite - docs.x.ai",
-      "summary": "Grok Imagine Video 1.5 Lite &nbsp;&nbsp; docs.x.ai",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bc2RaSmJEVnNoakJDZWs1QXk2b0tGRDdNWFZSQndFcEcwU29CMExZMTZZZU9PcHVZb3BPdXhZMXdaa1JRMTQtR2ZLY0phc2pRMnIydzNZWEJoUHVLNEk1SGsyWGtkbXg5Y0dYdEFKckk?oc=5",
       "kind": "News"
     }
   ]
