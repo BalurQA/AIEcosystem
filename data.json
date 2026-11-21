@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T20:08:47.540503+00:00",
+  "generated_at": "2026-11-21T19:10:09.239758+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,86 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-06-12T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 - Anthropic",
+      "summary": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5 &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zenRuR1poOHZpSXNMMjRsVXBlelkwNWlNdjM0TEx2b3hYS0F3UWtDUUVFN0NVZUFtWlRrT1NTZlNLVkpZVERwbVBVOWxKR1NLNEdGNUV0S3E4eWlBWXBB?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2024-10-12T00:30:37+00:00",
+      "company": "xAI",
+      "title": "SpaceXSI Console — Grok API & Developer Tools - xAI",
+      "summary": "SpaceXSI Console — Grok API & Developer Tools &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFBlWGNBQk04UDZUZXJyM2g0UWJBNzZjWVJoYlRhU213NjBnYzYtQ1pYcExweFdVQ2pX?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-16T07:00:00+00:00",
+      "company": "Microsoft",
+      "title": "Copilot Cowork is now generally available - Microsoft",
+      "summary": "Copilot Cowork is now generally available &nbsp;&nbsp; Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkthNkFrbGZxSGVtMXJUb2FLck9kaWotLXNzU01VMDZ2R2c4NTVSM1FrYVhpMjJndWIzakJZaWVMV2FodXN3SlczTUFCWmRlRGtJdXpRQ3hIOWlQZU5HdGgwYVBaSEotZ2ZHQ2gwX2dJSTNWWThrOEcwZFRXc0kxZ1BhYXhBMzlvblVhZjE2eWk2aWFHaUY5MElDQnhhWWs?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2021-01-12T04:50:44+00:00",
+      "company": "NVIDIA",
+      "title": "Instructor-Led Workshops - NVIDIA",
+      "summary": "Instructor-Led Workshops &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LLTdlQlJfaFpoNmNmV0VOb1R3Sjd2SmE3X3dwRDZockpPbDdBeGtqQVhXZjJBQUkycHRXNHhBdmNGOXBWQzZqdlAtZ2tXTnVnQTNGQ1lmLUNhWi1hS2l4aGI0Q3NJZ2R1R1JSX2JCWHc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2019-06-14T15:49:22+00:00",
+      "company": "NVIDIA",
+      "title": "Pioneering AI in Higher Education and Research - NVIDIA",
+      "summary": "Pioneering AI in Higher Education and Research &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzalZJOTltVHlxb19lZWVjMGUyUDJub3BzdVRQVnpvRi03T0VoZzVrM0s5aHFBREVNdFZzYVJkY1NKNEZ5aVdvX0NsUUduTGFGNjFGZE9xeXN0OHBKVXd2MUpuNXROdVlvcERta1ZNTXN2Rl9w?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2018-07-11T19:14:33+00:00",
+      "company": "NVIDIA",
+      "title": "Like No Place You’ve Ever Worked - NVIDIA",
+      "summary": "Like No Place You’ve Ever Worked &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zVDl4Tmh0Yk8xcWlqTjdFVENodzltVjI1T2RKUGlUaHJkR3M3LVZLZWJNRjJnQnVkOUJ3MzhncUpVMmVYa21sNnRfaVNLWlFNVXZNRW1rVnIwc0VXMy00?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-02T08:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Announcing Amazon Nova 2 foundation models now available in Amazon Bedrock - Amazon Web Services",
+      "summary": "Announcing Amazon Nova 2 foundation models now available in Amazon Bedrock &nbsp;&nbsp; Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS01IZ2hSVzVVQjRON0tNSnJmd0hoM3o5ZHFmS0dYN2pJbkFURnA4N2NSQldpdkdPOVdsdE9TVzFKRTB1Tm1YVW5oQUxwdGxEV0JPY0lNWVVuYlptdkt2WGNTblhRVW1vd1hQNHUtMmdqM051LXhaWHE2UVJ4cWVBaDNvRjV0dHVGWUQ2N0stUEIxWV8wbkE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-04-30T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation - Amazon Web Services",
+      "summary": "Amazon Nova Premier, our most capable model for complex tasks and teacher for model distillation &nbsp;&nbsp; Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTFVjem9WbGFJVktmd3dDSDE2UHk0MzRxOE9IWWJXOG5uUUtSY1lBRTVwTE12SENENEppbGtmNTQwS3hrSnNJQjRfZDdFM2ViZU5UcU5yRFpHYnlQLVdCaXNDUWtCYmsxeG5ZY1RpWDhQb1czenp0XzRRT0xXNXIwdWJkc0QyZFNTdHkxZnZXcXV6THl5Q0ZoNGU3alFjY2xscHlDZlJEdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-31T07:00:00+00:00",
+      "company": "Zhipu AI",
+      "title": "Z.ai 2025 Annual Results - zhipuai.cn",
+      "summary": "Z.ai 2025 Annual Results &nbsp;&nbsp; zhipuai.cn",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fMUFhR0g3U1dzNjdXZl9PTWRJdWswbjBCbVpZdVZMd3dtTDVQWEVJUXN2N0xLUVlYYkdkeDliQkNvMFVYVkhBVUxn?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-13T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Introducing Bulbul V4 Flash text-to-speech for India - Sarvam AI",
+      "summary": "Introducing Bulbul V4 Flash text-to-speech for India &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBaMWlnenc3Qm5vOVppYWxDV1AyVng4WWROSmZQSUYtX0VnTVpoYndNM2JPemZDZ2owWmdHU00zNUJ1d05UZkQ1WjBOZTZSYkhJR1duX21R?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2023-03-14T07:00:00+00:00",
       "company": "Anthropic",
@@ -4481,86 +4561,6 @@
       "title": "API Pricing | SpaceXSI Docs - docs.x.ai",
       "summary": "API Pricing | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qZExlbzhKdzREd1NuZVZnMzd6eFZmTUQzN1hSYWF6Z0REdHMtbXpQdjc1VnJjX2dNVzVDVjlzZWJDaDFDYkZKVDZoc20?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T15:08:22+00:00",
-      "company": "Mistral AI",
-      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
-      "summary": "Timestral: Mistral's time-series foundation models &nbsp;&nbsp; Mistral AI",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE12LTNWNFd0cWpja2dzQk93QUdaWW9MWnRhUW5xRmh0bVV6MmNsOGJTbkI2VjhDRmpYLUtMLUlDQlRZUC1fNlNkaw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-18T07:00:00+00:00",
-      "company": "Microsoft",
-      "title": "Enterprise data protection in Microsoft Copilot and Microsoft Copilot Chat - Microsoft Learn",
-      "summary": "Enterprise data protection in Microsoft Copilot and Microsoft Copilot Chat &nbsp;&nbsp; Microsoft Learn",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdWc0MVNiRXllZ2lRUWxpMUFKdG5fTHdadzRoU0ZFVTBNNVpBVVNHanJlTnhjSnVjTWJsb3hFV0dGaDhzUC1mNW5RUk95RHl5c1h3NmZxQlV2d3pCNFh5ckFWeWtxTUZCcVJwLWhnVzFPS1hlZW4yODl4X3Z2U1ZjX3IyTzZ4NWlOVVE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T15:01:34+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog - NVIDIA Developer",
-      "summary": "NVIDIA Nemotron 3.5 Super VL Powers Specialized Agents with Multimodal Reasoning | NVIDIA Technical Blog &nbsp;&nbsp; NVIDIA Developer",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSW82SDRIOTB3UElVN0NhamZVakJWcEF2ZHg4aWhfODdHYTVmRTFlQzdaR005SXV4U2d0d0FJUnAtenRibGNLUHMxUmM1N24tdS04a3phX1E2ZzEySVZsMFZKQmVoVU9yMk50b2t5bG0wN3BCeUoxaGg5ai1ndzZKNk9XUzY3SUlXNHo3bkprYUU2SmY5TGFJNUEyYUxJVmlwbExoRW5QSE9mQmx4c2FmbXRSbFFWQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T15:03:57+00:00",
-      "company": "NVIDIA",
-      "title": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models - NVIDIA Blog",
-      "summary": "Open From Data Center to Desktop: NVIDIA Expands Nemotron Family With Highest Efficiency Super VL and Bolt Models &nbsp;&nbsp; NVIDIA Blog",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVVU0zYjltcWc5TzJiNlRiOC13eUlPV2NLb0lBYlRCTDVIZHZDeTBlWW1nTU1idlQ2aGNHX0xGWjBDSXJ6VTFrWGVaa1M1UHRNTXFHUUp1bWZNOXJsVDNCSkZn?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-14T06:08:47+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA Announces New Investments in the UK Startup Ecosystem - NVIDIA Blog",
-      "summary": "NVIDIA Announces New Investments in the UK Startup Ecosystem &nbsp;&nbsp; NVIDIA Blog",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xdXdCcE1NZkd1c0VFQ0RrbHRFcjQ3UVRDOG1NWkpFLUxVdUFwdFNNbHF4N2hjRUxmWS1XWDZ6dXNyLVYyblhqUkx1N3NUZzJsWmxoMEZ6RlhiTnBtVGMyV25VOVQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2010-02-21T01:28:23+00:00",
-      "company": "Baidu",
-      "title": "Investor Overview | Baidu Inc - 百度",
-      "summary": "Investor Overview | Baidu Inc &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5JRVBYNzF2dktSTXpYcm5tai1DZXdaeFFiTXdQeXA1dWlCOVVsd2hzVzdMSWdNa0Zr?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-21T16:34:30+00:00",
-      "company": "Google DeepMind",
-      "title": "Gemini 4 Argon without cyber guardrails - Google DeepMind",
-      "summary": "Gemini 4 Argon without cyber guardrails &nbsp;&nbsp; Google DeepMind",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GZW1aVlF1M2szMXQ5bi1lNlVlR2NZNnRoX01XSmtWdGNqa2pxSy1fdk5aeUtCbFdQT3AtNXJDS28wM2ltS3M5X29NanZEVTI4YWYyb3ZKdw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-09T12:21:28+00:00",
-      "company": "Mistral AI",
-      "title": "BBox and Object Detection with Mistral - Mistral AI Documentation",
-      "summary": "BBox and Object Detection with Mistral &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2pYM3FIczItNURJR01FV1N2bC1MTzBvekdOeUhfZ0kxUzJjLWVqenlEUVZKeFNrTEQ2TkNEbEZnTDBiUGdVdXhkeXJCcmhFM3hfMVpld0s3OG1kOW9HYVNvQkd6aURDbElwTVU2Q2hJbnJFQ1VTcWQzMGRYaDQyX2RUVXE1a1h0WGF1YmJsQ24?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-03T19:50:35+00:00",
-      "company": "NVIDIA",
-      "title": "Nemotron AI Models - NVIDIA",
-      "summary": "Nemotron AI Models &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVZl93Vk9LTGNFLVdHN1Itb0Fxb3Q3YjhSakx4SkF5VHZLTkxMQURkb0hsakhvam1ZNVNZYmVQRXB0VTREMmJ6WHlEdlVJNGVXMWlWblV4NkV1MHM?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2018-08-10T16:14:18+00:00",
-      "company": "NVIDIA",
-      "title": "World Leader in AI Computing - NVIDIA",
-      "summary": "World Leader in AI Computing &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5DdjBpUW5ZcWFhNnFjaG80TzZyM2M1THdWUWVkVzc4TjJRTnVORGhWZHJjQW9PMVgwV2xxTEJXRHpTN2s?oc=5",
       "kind": "News"
     }
   ]
