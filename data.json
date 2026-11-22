@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T19:10:09.239758+00:00",
+  "generated_at": "2026-11-22T19:32:19.816110+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,110 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-10-13T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "Gemini 4 Argon - Model Card - Google DeepMind",
+      "summary": "Gemini 4 Argon - Model Card &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBZk80VnBBMFNLcnJrZDdYMVYwaVBEWi1QcmNjQm1RNUhUNHBycXAtdHJ0M1h0X3FJbTRLNTVTa3NmOFJQNjM4amtzRjZYb3JzTEU4VTdVcHhLc25IUDV5b2I4eVR4X1Fzc3c?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-15T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Z.ai GLM 5.3 - Mistral AI Docs",
+      "summary": "Z.ai GLM 5.3 &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82OHF0TGZHbjdwSTZHbXlSRndSakxjZDBaVXdaTTJ3cWV6X1Z2QldZY3lxZG43MGdMM0xFSVc3UnBFalNiVW03b19CdW5KazlfWEdpdA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-28T08:25:12+00:00",
+      "company": "Mistral AI",
+      "title": "API keys and profiles - Mistral AI Docs",
+      "summary": "API keys and profiles &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Za0pZREZjeDR6VlBVNUxnS3U2X251MEwyalp2YndoVlJYMTU0S3B1M0NSUTAzMVZTYmtNNHNCcllIVkpEaWtRMjEySURSaEFGWE9nbXg1ckl4SHlBOEgwM1piZXZ2Zw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-05T13:26:52+00:00",
+      "company": "Mistral AI",
+      "title": "Testing - Mistral AI Docs",
+      "summary": "Testing &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RTUpZT3p2a0VSZHd4V3QzVjlDVE52d0lPeUF6N1AzcWtEaUJQd3BhNHVsU2NxN09iV1E3My1fZWFSVlhUOW9PWmhpNkVReXNmMU8yUFd4V1ZtNW9abWc5SmRfTEVuUQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-05T16:21:48+00:00",
+      "company": "Mistral AI",
+      "title": "Configuring the agent - Mistral AI Docs",
+      "summary": "Configuring the agent &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92RzZqU25BY0RwR2VSdDl1Y3NWNXZEd2NGVDlNSHhROGc4ZnNkWEpiZ25ELVA5aTBIcXVxVnlZUlNDbC1GRExNMWN4UC0wdkFTNkc5enF3ZEhrcEZMQl91RExtUVlEaGRNWkV4a3p5VzFiZnlGRG4yQWFUYw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-27T21:29:33+00:00",
+      "company": "Mistral AI",
+      "title": "Responses - Mistral AI Docs",
+      "summary": "Responses &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16emd3VGRnLUJKdUl6YXBhc1RJZDRSSWpOM0xnenZPOTZwamtnSlItNTJKcnJORzZGYU5uMHFnaGxzVDBPR1F6VHNYbDExaVpzU1MyeDV4ek1CZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-04T13:00:08+00:00",
+      "company": "Mistral AI",
+      "title": "Quickstart: moderate an input - Mistral AI Docs",
+      "summary": "Quickstart: moderate an input &nbsp;&nbsp; Mistral AI Docs",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaE8xdHNNZXZ5ZlpzVWtPSjRDR0VQM1B6YTlJSkZDck9ocGFUcHlSNW9uWmxOVlo1NTZkM2d5TXo1UHNLeEZEc25QLURoS3VNcDRmZHpJZ2lwa3hYT25OQUFRQW5nNjdtcUFMWDk0RDFIcXFwUnN0X3lzcXp3VGdMdHRJTG8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-14T02:40:35+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft Foundry - Pricing - Microsoft Azure",
+      "summary": "Microsoft Foundry - Pricing &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3U0JwZHJxQ3d6SW9BMHc5TlF2VVhqVnoxMHZ4aG53bVpIX2RwdlNfY0ZndUl1VF91eFVhSmZhYVJsZzlhN18xdDVwQ1hKdlpPUkNkM1QydkQ3U0E1dWNGRUxFdlVuY1hDV2pvNnM2dEVGNHBHVkhz?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-19T20:16:51+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs - NVIDIA Blog",
+      "summary": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs &nbsp;&nbsp; NVIDIA Blog",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcUM5aV9DQUo2TkswazlpZzk3Q1pWdGpQT2xzTy0zRmJCLWFlb3NCM3R6ckoxV2FpZXNFYzM0WFRvb3EycHAtQ25HeXpucTQ4WGpCSjV6QnNUMG1DZEtQZ0ItckRtZy11blhHelhpZlF3V09RX0oxOUp0SzJRUFBVYVUyMU5ybVM0YllCS09LTGg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-23T19:15:09+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Certification: Your Roadmap to the AI Stack - NVIDIA",
+      "summary": "NVIDIA Certification: Your Roadmap to the AI Stack &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObEJkMkpCeWplMlZTbHBRQmczZ3NEU0R3d0FYZXcyU21SaXB5LW85UjFqY0xGWFhtZ2lFdjJrY3JzZGltblJZZ0I5UDZLM3ZJSkRjeHZIWnNuLWdLX0VSUVpQOFV5TWdnc2VQT1RnUFlOdXNGUkhZRmtXTnJ0QldNOUtwdDlURy13VUJz?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-02T08:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Introducing Amazon Nova 2 Omni in Preview - Amazon Web Services",
+      "summary": "Introducing Amazon Nova 2 Omni in Preview &nbsp;&nbsp; Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYXpGQjVqeWp5eEE3UFQwWXppQTM2UGRnODdBZWlwbkdXX2p6Ml9WMVI4RlRnZVJYejVJNVY1UmFOZmdrajBhVlloUXMwSlBURS1FQTVUaFB6YmJFSWdzdE9fMngwYmx4R3R5RkJ4aTNhTVIyZ0tJMTdxcC13c1JlWHpkTEI?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-05T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents - Amazon Web Services",
+      "summary": "Announcing Amazon Nova 2.5 Sonic with improved reasoning for voice agents &nbsp;&nbsp; Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xUll3RlhGM0cyTzI5MDE3emNhVVRiajZSNnh1amU1OWI4cVk1elFsUWczSmNLSzRJVzNEbklsN3JGVHVRSC0tWFZCTEpaSmJjYXVGMDJoV0t3OHVEV091RjhGNHFLNEhfcEp3bGR5QldVc0doWFNFUkhFaWhuQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2020-02-27T00:24:39+00:00",
+      "company": "Baidu",
+      "title": "Baidu ERNIE - ERNIE (Baidu)",
+      "summary": "Baidu ERNIE &nbsp;&nbsp; ERNIE (Baidu)",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE01RFpDMFE5NEtZeFJselFtdDg5WUVnMUhiV05kM2J5Z0k4MFl0WER0UnA0S21jODdUT2lfVw?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-06-12T07:00:00+00:00",
       "company": "Anthropic",
@@ -4457,110 +4561,6 @@
       "title": "Introducing Muse Spark 1.1 - AI at Meta",
       "summary": "Introducing Muse Spark 1.1 &nbsp;&nbsp; AI at Meta",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T14:09:18+00:00",
-      "company": "Mistral AI",
-      "title": "Timestral 1.0 - Mistral AI Documentation",
-      "summary": "Timestral 1.0 &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzNzJaWk53eGhFWUJFeF9oaHJDckNEZFFxTHFWNHBDOEhucXdSVi1KOVhYNzE0aFVrZVBsY3lnLWhqdTFzdFdvdVVQRUxERUoyUEhWVU93MA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-19T02:17:53+00:00",
-      "company": "Mistral AI",
-      "title": "Concept Deep Dive: An Overview of Prompt Optimization - Mistral AI Documentation",
-      "summary": "Concept Deep Dive: An Overview of Prompt Optimization &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOekFVWWxvNG9YWkRiZi1xeDJlV01abGxSTFR3Q0ItY0JkYlhqc0dWaGN4OHlpcmpzZ3pUU05Mc1RvaGpVUFIwdkNESjM2ZnY1ZWs5OVBMUEJiWXF6S0ZfMEpXODlZd0tKWERlYlpZQ09tWXVaU0oxMWZWcDJqRlpCUXJWRkE1UVF4SV9VVVE1Q1BUV1VUcGhzX2pR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-08-29T09:18:36+00:00",
-      "company": "Microsoft",
-      "title": "Foundry Models - Microsoft Azure",
-      "summary": "Foundry Models &nbsp;&nbsp; Microsoft Azure",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqSWcyZG1STndodlYzT2E5Qmp1a0dDMkd1WnFkUXJZYmdOcmo4T0Q1eVpzNFhZY2Q1dGJMbWFYMWVEN3pLSlJ2Q1NLNHNoOG5kOFhQQ1o5VnBILU1LUXNjdE93V0RHa0dvTmZBag?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T14:13:52+00:00",
-      "company": "NVIDIA",
-      "title": "nemotron-3.5-super-vl-120b-a12b Model by NVIDIA - NVIDIA",
-      "summary": "nemotron-3.5-super-vl-120b-a12b Model by NVIDIA &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWW42aTRiWmlFQzFualhEZTJrT1VNSlNfeFJpTVBxeGh6dG41c2RBbVhIUUoxWGlrZXpqaDZ0dFNTY0s3SmpzSkdYNm9XZVJiX2I2X1pOOG81WVZZUFRJNkJZQ1dDeUtqWngyZGRjQW8?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-16T20:19:35+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA NemoClaw: Deploy Safer AI Agents in a Single Command - NVIDIA",
-      "summary": "NVIDIA NemoClaw: Deploy Safer AI Agents in a Single Command &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zUFFlX2ZncWJEYlFxNHljM05IaDJncTJxY0xPaXV1RDkxVHVFWjZPcm9tMWJOQ2xtdXRibWRMbExWLXBMV1VkOF9lNkNtUGRqcXFN?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-14T07:00:00+00:00",
-      "company": "NVIDIA",
-      "title": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI - NVIDIA",
-      "summary": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUlETEtXdlNJYW1YbEYwejdHZFUxaVpYM3B3bzc0OFlBVjVjNWZScldDTm5kVWo1WTFzSjF6SmhoZTB2Q1N4NmhJZ1daMUhmUW9fNlozSWl4OUFHblhFZ0hFWHpEOVpNYXRWeHhidkRURDJ3ckhQa1RWaHVYNXFfV0JPb0czM20tdDctMndkc0ZxcEVxdWMtWlBwamk2RWF0MGZqUE16THR0TEJT?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T07:00:00+00:00",
-      "company": "NVIDIA",
-      "title": "NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB - NVIDIA",
-      "summary": "NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNOHRLNERkaDNNT3BZYmNOY09VY2t6VWxJb1NScjQzS0hYZnMwTzJ2Q003cFZqbE9rdVpWX0dsVE1rWHBxaDdmQTZWbGU3dDFlS3ZVNWNxWWtGNDJhbHdET21iLVFmM2ZLRS1BRHJPR1JoN2s?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-14T18:20:52+00:00",
-      "company": "IBM",
-      "title": "IBM named a Leader in the 2026 IDC MarketScape for Worldwide Agentic AI Platforms - IBM",
-      "summary": "IBM named a Leader in the 2026 IDC MarketScape for Worldwide Agentic AI Platforms &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0pvdnQ1cVE0MkViS1FWc3dfUVk3aDJnRHVXWVlCd2U1dDJOblFqNWNHR0p0VDVkZEExT1k2M2QyY1h5SzVLQzdGb1JDS3FfZEZ2dVp6OEMyZ1k3UG5ycDhacnU4Y0ViOUMxX0ZrX05tWFFRX0hqLTcyMTJSNzVwaFVVc2NKOHRpcFdKdmYxQ0dmNDhtY3F3bWYwVS14Qy00NEZHalFuTFA0VTNVSE5QOE9tV3B5ZHFIREFJ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-13T08:43:52+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Text-to-Speech API Overview - Natural Voice Synthesis by Sarvam AI - Sarvam API Docs",
-      "summary": "Text-to-Speech API Overview - Natural Voice Synthesis by Sarvam AI &nbsp;&nbsp; Sarvam API Docs",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CbWRkUDZQdzh0RTItZy1KdG9Uakk0dnhQM2doN2kzbC1rTmFrdmZmZVphOEVQN1VJelhhM2VLMk1ua0lTN21pUG1IX2dsYzkybVBXQUE0NTR1QXhJNGFfc1E0VmxZN3h1R0hZdXE0c1I0OGFoRHVxYXlfOA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-14T18:33:00+00:00",
-      "company": "Anthropic",
-      "title": "Preparing for the 2026 US midterms - Anthropic",
-      "summary": "Preparing for the 2026 US midterms &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40a2x1bXc2VHhZaFl0SlRhdGhoWjNqNHlKZ3dGcWpzSHNWUFVHbUhwSkY3ZXVrU3dXVWJGSEh5cUlvMjUzMm5YQ2E3VHF2cUFBZ3NneDJGTnQyVUk?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-14T16:41:49+00:00",
-      "company": "xAI",
-      "title": "Introducing Grok Voice 3.0 | SpaceXSI - xAI",
-      "summary": "Introducing Grok Voice 3.0 | SpaceXSI &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mOUcxZkpjVVVyYjlLOWk1V0sxb1QyY3dVLWtpcDBFbEpqQzlDQzFPekdzSUVKbnhoaHZNd3ZzYzlweElu?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-12T22:41:48+00:00",
-      "company": "xAI",
-      "title": "Introducing The X Subscription | SpaceXSI - xAI",
-      "summary": "Introducing The X Subscription | SpaceXSI &nbsp;&nbsp; xAI",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xSHZsR1pnaUw0LXBEbHZkY0owdTZ3N1hsTlQ1MGJ5cm9nYkRCOXgyTkhFUHVmaVphZ1FNU0xfWkFMN29jMnpN?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-10T07:00:00+00:00",
-      "company": "xAI",
-      "title": "API Pricing | SpaceXSI Docs - docs.x.ai",
-      "summary": "API Pricing | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qZExlbzhKdzREd1NuZVZnMzd6eFZmTUQzN1hSYWF6Z0REdHMtbXpQdjc1VnJjX2dNVzVDVjlzZWJDaDFDYkZKVDZoc20?oc=5",
       "kind": "News"
     }
   ]
