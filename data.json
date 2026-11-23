@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T19:32:19.816110+00:00",
+  "generated_at": "2026-11-23T23:49:48.115536+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,166 @@
     }
   ],
   "updates": [
+    {
+      "date": "2025-02-24T08:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Claude 3.7 Sonnet and Claude Code - Anthropic",
+      "summary": "Claude 3.7 Sonnet and Claude Code &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5IRFlNaHhKZlNHSjlFdlEtaEM1VXJ1UzFhdXNWMGJWY2E5ckgtYjN6SHZjU3U1VFFWQ1NxeFFUeGlvRXVibGlsODEta3A5NlBWY25iajFhekl6T2Fa?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-04-02T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Introducing Claude for education - Anthropic",
+      "summary": "Introducing Claude for education &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDRDZ4Uk1nV09FN2NjQ3Y3MHE3TEtROXlzdk1mS3NCR2tIQjdxYlJucHZORTFPNnNSWDlZcmJwd2syeHlUSmxlNXBfWjJYN3Q5TmpTRWNmUjlQVWlZbXNaaG1sSlpKNUFUV21qMnFkOWI?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-06-03T07:00:00+00:00",
+      "company": "Anthropic",
+      "title": "Claude Partner Network Services Track and Partner Hub - Anthropic",
+      "summary": "Claude Partner Network Services Track and Partner Hub &nbsp;&nbsp; Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OSHlhS1hiNk9fQmJqWTJpQVpvRHFqNFNnSmVQemlpX0xBZWkxS0tGNVFxelhxTG1jR0NZRG9aNERIN3liMXZNdV9jRkJqRUw4b0pIUDdPX0psSlRtbFhNV21LeVJ4MjRP?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-06-25T07:00:00+00:00",
+      "company": "Google DeepMind",
+      "title": "AlphaGenome: AI for better understanding the genome - Google DeepMind",
+      "summary": "AlphaGenome: AI for better understanding the genome &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFQ5aUtPaDZPanB6TFdxRHZmdFZOS3UzNnVDT3BNdXF4YWJvWHUycS1hRWotOVZ6X3h5czhIVHdKcW81Q2ZTMTVaOWxzaTd2alo0RlUwcGJZdm9SZHBOZVZmNWpjdGswWl9kcnpHemo1Q0h4SjBKdWE2Y19vTGtDVmxnczg5T0E?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-05-20T17:49:33+00:00",
+      "company": "Google DeepMind",
+      "title": "AlphaFold - Google DeepMind",
+      "summary": "AlphaFold &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLNlY5RF9yX2pfb0h5cUdGanU5ckVzWE9QQVBGNDM4WjVyRlBTcWt2bkxva1pnQVIyT3FTOG9JcTRVNHBwZ250aVBkbTBDdzlrSVZWZA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-10T21:42:29+00:00",
+      "company": "xAI",
+      "title": "API Pricing | SpaceXSI Docs - docs.x.ai",
+      "summary": "API Pricing | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9qZExlbzhKdzREd1NuZVZnMzd6eFZmTUQzN1hSYWF6Z0REdHMtbXpQdjc1VnJjX2dNVzVDVjlzZWJDaDFDYkZKVDZoc20?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2020-01-30T12:54:02+00:00",
+      "company": "xAI",
+      "title": "History | SpaceXSI Status - xAI",
+      "summary": "History | SpaceXSI Status &nbsp;&nbsp; xAI",
+      "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9LU3lsV1hkWGVCX1Z0eE4ydG9UWEhfYVVfMGRKYjJsbWR1c2ppeUMxUzBLSDkxeXp0MFVRNDVLNmQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T07:00:00+00:00",
+      "company": "Mistral AI",
+      "title": "Timestral: Mistral's time-series foundation models - Mistral AI",
+      "summary": "Timestral: Mistral's time-series foundation models &nbsp;&nbsp; Mistral AI",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-09-27T15:21:42+00:00",
+      "company": "Mistral AI",
+      "title": "Latest news | Mistral - mistral.ai",
+      "summary": "Latest news | Mistral &nbsp;&nbsp; mistral.ai",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTFBUM3NrbTVBR1B3Y1BTbGplTjBfUnR0djFGZkJGMjlkOEI3ZDd1ajRwdExRWUl1V1lGZGZzWQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2022-07-27T13:09:48+00:00",
+      "company": "Microsoft",
+      "title": "Microsoft Azure Sales Support - Microsoft Azure",
+      "summary": "Microsoft Azure Sales Support &nbsp;&nbsp; Microsoft Azure",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBiZGN3ZFlDZzdCMnkydmVwSDRHdUlyb0xDdkJkT0JLZUVvaTYxRVRGSTh3VEg5TUtqdkpyNTBsSi1CalJKYVRYaGhlbWpmV1czQ2JF?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2019-09-07T21:03:04+00:00",
+      "company": "NVIDIA",
+      "title": "NVIDIA Graphics Firmware Update Tool for DisplayPort 1.3 and 1.4 Displays - NVIDIA",
+      "summary": "NVIDIA Graphics Firmware Update Tool for DisplayPort 1.3 and 1.4 Displays &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBra1NCMHp6dWVxVy14Wk1YNDdxdnlSUk45dkh3MWd0TUwzbWJ6YndNcGhVRzVqZUo0ajUyb1lYRWNsYlk2MXExcnRhVWtMcVh4T0VlUW5qQy0tUWhiTVZ2R1ZRZ3dxWDg?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2023-07-18T23:10:33+00:00",
+      "company": "NVIDIA",
+      "title": "Location and Regional Selector - NVIDIA",
+      "summary": "Location and Regional Selector &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mVElKenZPUDE0RDFIMTBWSmtCVTk3dVJDRUVMTlNsRnYzSXIzNURkQ3VHblZQNmFEZVZkOFJKY2hsUUp3eUlKcGgtSTY4a2Ewc2sw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-10-29T07:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Web Grounding: Build accurate AI applications with Amazon Nova models - Amazon Web Services",
+      "summary": "Web Grounding: Build accurate AI applications with Amazon Nova models &nbsp;&nbsp; Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVDVYdE9NR2tPekltVlF2MHBRS0Q4SnhCT0tsMXlIbTRwQUdab19WbmNDT0FaUkQxNmZRMU0tdnM0ZUVZMERPUC1qN09FVk55VHpJVTNNZVlBa1dvU0kxejRWaDJxb0tJZDJvd2RUakpLelVVUUlnZTdfYmRkcjgtLURsWkVxb2pkcm5zVmpyTjlDZG52bXNWQUJTM1ZUX0xEcFE?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2010-02-21T01:28:23+00:00",
+      "company": "Baidu",
+      "title": "Investor Overview | Baidu Inc - 百度",
+      "summary": "Investor Overview | Baidu Inc &nbsp;&nbsp; 百度",
+      "url": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5JRVBYNzF2dktSTXpYcm5tai1DZXdaeFFiTXdQeXA1dWlCOVVsd2hzVzdMSWdNa0Zr?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-09-18T11:46:05+00:00",
+      "company": "Baidu",
+      "title": "Foundation Model Pricing & API Deals - Baidu AI Cloud",
+      "summary": "Foundation Model Pricing & API Deals &nbsp;&nbsp; Baidu AI Cloud",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYzNnMXJPOTdiT2VvdFFXZ3g4MkFoUjhpWm90UXEwelFaNU94T21LTjZmVmI5U2tiSVFtUzQtVk5YSTd2ck5xV29PaEVSaVBOZ1BIUWFXNTlRRkZuTWJINHktWW9vWjl2QTJPQjdmT0lZSk0xTF9NZGN5TEhRWGpCWllrdw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-22T20:03:12+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam-105B-1711: a new Sarvam 105B checkpoint - Sarvam AI",
+      "summary": "Sarvam-105B-1711: a new Sarvam 105B checkpoint &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE10MzY2Y1daN0o5XzFhbWFEQjIxSGNwdmpubVJFbXZ1UndHcTkxdUFzVzQwZVBnd1AwY083OXhibXJaazUyOHc4Nmc4WHllOVozbWE5QXBmQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:43:52+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Text-to-Speech API Overview - Natural Voice Synthesis by Sarvam AI - Sarvam API Docs",
+      "summary": "Text-to-Speech API Overview - Natural Voice Synthesis by Sarvam AI &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CbWRkUDZQdzh0RTItZy1KdG9Uakk0dnhQM2doN2kzbC1rTmFrdmZmZVphOEVQN1VJelhhM2VLMk1ua0lTN21pUG1IX2dsYzkybVBXQUE0NTR1QXhJNGFfc1E0VmxZN3h1R0hZdXE0c1I0OGFoRHVxYXlfOA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-13T08:46:12+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Welcome to Content Studio - Sarvam API Docs",
+      "summary": "Welcome to Content Studio &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BUE1JNGt1TkdMVk5Fd0xvS3pjeGxVdzFXRVk0Q3NIYjF5T3lfaDF4NXJVWjhqYmx2QlNiaElGQnBOZ2ltVjlJQ0RBNU1lNWE0cUJVaEx5M3pUajQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-07-15T18:05:27+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Sarvam AI Help & Support - Get Technical Assistance - Sarvam API Docs",
+      "summary": "Sarvam AI Help & Support - Get Technical Assistance &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5BUFNNVFZxMzJCNE1xWlR1eWdtWVdMX1FTN25pbUVfc0dOUTJFbTFPeFFJM0FLQ19Jb1NyLXF0ektOa2VmS0ZOa1dZVl9Wc2o1ZTAxVXMwMFNfaXc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-04T06:46:27+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "GLM 5.3 API | Sarvam Token Factory - Sarvam AI",
+      "summary": "GLM 5.3 API | Sarvam Token Factory &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1QTFuX1JUeUVDYjI0eUZqdmFkblQwcm13YkZVX1Ixb1UzLW5EaWRIYVFzbmhsYWNjbWVHb0tLLUV6bkVHQmFvakhMWWprZUx6QjJnTWRuN0piSlpsWi1B?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2026-10-13T07:00:00+00:00",
       "company": "Google DeepMind",
@@ -4401,166 +4561,6 @@
       "title": "Imagine Image 2.0 - xAI",
       "summary": "Imagine Image 2.0 &nbsp;&nbsp; xAI",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HTVhhdDlteUJBZHduTWhqS0U5MW1NaFVPekdTZjNBbUd3VnNqaFlnd0FNYVlSTDVkSm9zdHJNdkVOR0kyaFlwUlpoaFh4aEU?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-16T16:59:06+00:00",
-      "company": "Mistral AI",
-      "title": "Timestral 1.0 209M - Mistral AI Documentation",
-      "summary": "Timestral 1.0 209M &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvdDdaY3NZUlBZR3dqRlhNTmFYaFVBRzNlbWRtbU1qYmI5dGlVeGVqUTIwR2FEdmRRdVN6NU0wTWd3U0F6cVVuY2JhUXA0dFRUZ2tPYjJlVWdZZDFEQ0E?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-04-28T07:00:00+00:00",
-      "company": "Mistral AI",
-      "title": "Mistral Medium 3.5 - Mistral AI Documentation",
-      "summary": "Mistral Medium 3.5 &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fWDMySDJRMHVVTVlEYTIxcXdieE1wLWlsc3Y0ZzhEUHMyOXVCbGZIZ3ZWczMyUWh2SnFHdWtfajZGVnBJSDJCcmlobWVoNEtkV1dmNHVCY2E4S1pGeTQ4cVdHOV9QQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-08-11T16:04:20+00:00",
-      "company": "Mistral AI",
-      "title": "Text Embeddings - Mistral AI Documentation",
-      "summary": "Text Embeddings &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12Rm5kYk1mdmtkRDRnMEVHMDhOSFVNclpweTZBWHRBY2g5c1l1elIyQ3VPMlo0SFVROXFtNHAxU09tWDdhVllQLUlhNnBlWF9uN2J0RjFCdlFSNENTU2x2cFNNemVKWE1KM1JNRDN6blJVUEZtMU9lZUUyQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2016-09-17T16:11:36+00:00",
-      "company": "Microsoft",
-      "title": "Home | Microsoft Community Hub - Microsoft Community Hub",
-      "summary": "Home | Microsoft Community Hub &nbsp;&nbsp; Microsoft Community Hub",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmTU8tMWVYNXZObU5nSmpHdnJqbTUybGRSZXlQY1VoZXJ6TS0wZnpZVVZ6U1o1S0ZsYzV1TlBOam9Lel9qVGF5MXZNNmU?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-05T07:00:00+00:00",
-      "company": "Microsoft",
-      "title": "Microsoft Purview DLP for Microsoft 365 Copilot and Cowork - Microsoft Learn",
-      "summary": "Microsoft Purview DLP for Microsoft 365 Copilot and Cowork &nbsp;&nbsp; Microsoft Learn",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGFia0t4SUNNVjlvWmtjQ3lTbXc3VmVobS1IR3N1SU5kcnl1RlIwRzhCc1RZLThUdDVvVFJwajcxUTRzTVgwQi1CSHY5VDh6cFBtckR1ZnlhVE1xaEVpYUl0azJRRmtDQ1NWWXhsMHp0Z0FNSENpcHBrclVoT29CM0dtdjBBMG5aNmhybTJPY3M?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-06-09T16:52:10+00:00",
-      "company": "Microsoft",
-      "title": "Create a PivotTable to analyze worksheet data - Microsoft Support",
-      "summary": "Create a PivotTable to analyze worksheet data &nbsp;&nbsp; Microsoft Support",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdWJoRnpvNEpmUGFhRzVPSVdaWlAzQkpyZkxkeTZIWTZibTE4TDNxQWI5dXE1M05tb1ZRNTBENXI3d2dYUkxhNTROMWdUMXQ2VUk0dTBybUo3TmxsM29CWjMzbW96dllORjE3dkF6Ri1rR1FrU0ZZWUpQUVJIc1JXbTNrWlloN3EzUXhMMVJxbHZ0dUNqLXhGUlBNc0c5bmtu?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-23T07:00:00+00:00",
-      "company": "Amazon / AWS",
-      "title": "Amazon CloudWatch Omni: AI-first observability for agents and applications - Amazon Web Services (AWS)",
-      "summary": "Amazon CloudWatch Omni: AI-first observability for agents and applications &nbsp;&nbsp; Amazon Web Services (AWS)",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3M3bE1ITnhNZ2QzM3MtM1V2U0ZVM1g4cjR4Ym5lY2VzTE5PcURHS1JsQXBNV1VEOWU0S3M1bWl6cW8yWjFuM0NSUFhLSFd2bzVZVGRkazVDaG5COUpTRFVDZE9USW95TDhwLVZ2a25fNl92YTRqQlliX25QTDhfb0pITQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T15:08:22+00:00",
-      "company": "Mistral AI",
-      "title": "Introducing Timestral - Mistral AI",
-      "summary": "Introducing Timestral &nbsp;&nbsp; Mistral AI",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T14:09:17+00:00",
-      "company": "Mistral AI",
-      "title": "Timestral 1.0 5M - Mistral AI Documentation",
-      "summary": "Timestral 1.0 5M &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lRkkta1czbnhCZVZ1Q0dNWl9WTzg2V3ZQZUtCdHVTYWhBV2dBOVVhLWplb0VCdDZWeVl3ekZLbTlLdEhxX0VKd3FqaUEyZVhQajI4a0VOV0lTdnc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-11T07:00:00+00:00",
-      "company": "Microsoft",
-      "title": "Snipping Tool - Free download and install on Windows - Microsoft Store",
-      "summary": "Snipping Tool - Free download and install on Windows &nbsp;&nbsp; Microsoft Store",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ha3NRTFh4NXRweUV0NG9ZNlpzY1ZoTlpPYnEtMmtoamVjbzNCbWJJYkxwbWREZE9RQWlEYlJ6bG5Db1EwTU1xc1ZVRXV6M0ZyNHl6T0tlYk1EdzJQMldRLXNoZm11a2JIckN0aVZn?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-14T02:03:36+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Text to Speech - Sarvam API Docs",
-      "summary": "Text to Speech &nbsp;&nbsp; Sarvam API Docs",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HdFhQNGFJd2xEYW9HWjl0eHhMMlVlTENWZHJuWE44c3E1S3VvbmpNdTlmaW84SW5aaWFfMXpzWkd5WW8tYml3eFVRNnk4WGRaVlhPQ0dlamZSdw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T17:20:00+00:00",
-      "company": "Anthropic",
-      "title": "An update on independent evaluators - Anthropic",
-      "summary": "An update on independent evaluators &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zZVFudWFYcC04RHNOZHI0cGhuSXBUTlk2RWZsUnFkY2MzeWZRY0NVaV9OSTJHbDVkc3BBTHBWd1FKUDVCbjdYLTQtN2tGNUZXdnFYRmt2OUZTTzRoRVZNeWNteUE1Vy1DSXBGTTUxSFJqVmRf?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-13T07:00:00+00:00",
-      "company": "xAI",
-      "title": "Speech to Speech | SpaceXSI Docs - docs.x.ai",
-      "summary": "Speech to Speech | SpaceXSI Docs &nbsp;&nbsp; docs.x.ai",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE02ZEdhb1NWeHRJM0E3RGVpYjdCeW0yTzdqRXFpZWZ4eTV3QkFEZldKSVV3Ul9ac0lLenpqd1Q2NmlWYnphWHh3b1IzcmlDUU5kT3BtaFlrMUFlQ1BUYy1VNTFzaTNuYVY4VW1SVUdzWXV6bm9wYU4wM2VR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-09-04T07:00:00+00:00",
-      "company": "DeepSeek",
-      "title": "A New Open-Source Model Combining General and Coding Capabilities - DeepSeek",
-      "summary": "A New Open-Source Model Combining General and Coding Capabilities &nbsp;&nbsp; DeepSeek",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MVUgxVHBKR0FRN3h4SXFvTldFYkNsenhKd0YtUGdSckRlcVlnbXUxcjVnRHN4NGFxWHFPVUFONWU0bVZVMEhUU3BZc2ZXMHVhVlVlS1lhREJWOGs?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T15:21:31+00:00",
-      "company": "NVIDIA",
-      "title": "Nemotron 3.5 Bolt 74B-A9B 24GB: A Hybrid Vision-Language Model for Local AI - NVIDIA",
-      "summary": "Nemotron 3.5 Bolt 74B-A9B 24GB: A Hybrid Vision-Language Model for Local AI &nbsp;&nbsp; NVIDIA",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnlNb0dldUQzcTJsVUNWaTVwUGwwQlFrMmJGeFRjelBYa0RuWE5CUkF4cVBzWFVxSl95ZWswN0xpUUdWNUloVU50blFaVTl4dVkzTjhDV2QwRUY0UHVEQUs0UlBkUTMyVXdYdlVxU2ZoRE9qTXY0VzlJV3lvU0lpTlBnd3R1SUlnNGFFbFh4bDhTQ1FSNmNtazZDRkIzVU5PY3JUMnhLd1RqUQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-12-23T08:00:00+00:00",
-      "company": "Baidu",
-      "title": "Best Text model from China in LMArena is now ERNIE-5.0-Preview-1203! - 百度",
-      "summary": "Best Text model from China in LMArena is now ERNIE-5.0-Preview-1203! &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTTY1UzdTeDFvRFhfTW9rLW43TnBKVmdEcnVnZGpxSkdwNG1kUFhjS3YxSnlYdk5iVGM4eDNvS1RqV3FHLVBSSmRDbDkta3dmUTExa2tDUFgxYlNpbkY1alRKbEw5ZG5kM1FOcDV6OHVXdy1jaEJRMGhPS3JhaU9DdkNEcw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-04T13:21:45+00:00",
-      "company": "Indian AI ecosystem",
-      "title": "Careers - Sarvam AI",
-      "summary": "Careers &nbsp;&nbsp; Sarvam AI",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1FYm9xdDg1a3dCbFppNTNDWEZHV3pfc2ZRQ1JGWnBDajFJR1gzeUF0dmlzQXR1LUdXMzVvXzMxdzRnYVU?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-14T08:30:00+00:00",
-      "company": "Anthropic",
-      "title": "Singapore office and government MOU - Anthropic",
-      "summary": "Singapore office and government MOU &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5yTTM0YUphdFBiUjFDcnlZTy1lVklPbGp4ZTczUHJkZjgxSjBkckJSMDg2MHZwYUI5SkFGWlZlNHN4NFVQN3hDdERZSTFfVS1wNlZQRXV2YWE0ZnktZDFIZ3d0NEZLQQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-10T08:00:00+00:00",
-      "company": "Meta",
-      "title": "Omnilingual ASR: Advancing Automatic Speech Recognition for 1,600+ Languages - AI at Meta",
-      "summary": "Omnilingual ASR: Advancing Automatic Speech Recognition for 1,600+ Languages &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQnNUMTI3QVBsN29jbjVJd2VuMVFzYXJjVHdLRjB1dUsyNllKSzBYenNuTTJqV2MwRzBqWi16S3REM0lXT1BkdS1LOVFfNGdwSUdnVEFVZ1VGNjJ0bUxOMHQ3MlE2cGFnRmx0X2dudkJRRXJGeXZQdlNVeFF3OG1LYmswVUNvZkU?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-07-09T07:00:00+00:00",
-      "company": "Meta",
-      "title": "Introducing Muse Spark 1.1 - AI at Meta",
-      "summary": "Introducing Muse Spark 1.1 &nbsp;&nbsp; AI at Meta",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZaGZQS2RfV05tSHU3dGRuRGFXNFd2UzNkYkJuR2tiSUg4X3RtT0UxV1VlTjNvSkZWcVUtU0NNUDJPVUo5WW5RMFR6Z055Y0dhZ1EyaG1SeGIxZlMtWFFmZTMyc2paYmxFLXE1TlBlaEg?oc=5",
       "kind": "News"
     }
   ]
