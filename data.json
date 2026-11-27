@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:27:04.685540+00:00",
+  "generated_at": "2026-11-27T21:11:36.622316+00:00",
   "companies": [
     {
       "id": "openai",
@@ -563,6 +563,158 @@
     }
   ],
   "updates": [
+    {
+      "date": "2026-01-29T17:45:16+00:00",
+      "company": "Google DeepMind",
+      "title": "How to create effective prompts with Genie 4 - Google DeepMind",
+      "summary": "How to create effective prompts with Genie 4 &nbsp;&nbsp; Google DeepMind",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4WDZmYmhhNXJldFNlRG9zUHZnOGtIVnRUMGtrZ3pCci1RbXBuVDZJaGJuUGZwZV83ZWRqM2Q4MVh4RWdUTmZIV3dfV050WjU4MVJMaG5yQzZhNko0MGg4?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-04-17T13:05:21+00:00",
+      "company": "Mistral AI",
+      "title": "Admin overview - Mistral documentation",
+      "summary": "Admin overview &nbsp;&nbsp; Mistral documentation",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE93eU1IVXd5NERDUUxuMzZxQkwzNU9iQ3BvRGJDUkZ2eENJVm5XR3MwLTh5S0U4RUxoRVh3SHdzaDZud2c?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-14T21:37:03+00:00",
+      "company": "Mistral AI",
+      "title": "Managed Agents - Mistral documentation",
+      "summary": "Managed Agents &nbsp;&nbsp; Mistral documentation",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAyQV9KMkRhYU1Qb1BhbHRPZ1hiUmNlSktwUk81bDh4WmdsNVVySmxPbXZCekczM3FpN3lMOS1BMUNTRVpHMnZsTWFSQmM1Zw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-04T13:00:07+00:00",
+      "company": "Mistral AI",
+      "title": "Chat completions - Mistral documentation",
+      "summary": "Chat completions &nbsp;&nbsp; Mistral documentation",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aaGRRRjI4N01wVWxrWUtTV2NYek1rUzVMdlZ5Q3M3a0Y4RW5ZNVlsdlJpLWgxRnIteXNUcVFLTV9YNi1pbXhVYW4zdVJMb3lVc2pRd3JSV2c3UWwzbUU4a0pEQU83RDlMd2FkR2s2RGs?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-27T21:29:33+00:00",
+      "company": "Mistral AI",
+      "title": "Responses - Mistral documentation",
+      "summary": "Responses &nbsp;&nbsp; Mistral documentation",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16emd3VGRnLUJKdUl6YXBhc1RJZDRSSWpOM0xnenZPOTZwamtnSlItNTJKcnJORzZGYU5uMHFnaGxzVDBPR1F6VHNYbDExaVpzU1MyeDV4ek1CZw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-10-20T19:31:08+00:00",
+      "company": "Mistral AI",
+      "title": "Models - Mistral documentation",
+      "summary": "Models &nbsp;&nbsp; Mistral documentation",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zSTFXRUFsdWp3dG5Yei1BY1V4a3NTZ3FhSFBVRXh6U25sWFI3SC1TNlRRUHoxRUNJOVo4OGZDSFRwS0xWQnkzVFVhZk80VlJRX1NLaWNB?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-08-11T16:04:20+00:00",
+      "company": "Mistral AI",
+      "title": "Document Processing - Mistral documentation",
+      "summary": "Document Processing &nbsp;&nbsp; Mistral documentation",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QdzlBeWtFOGo0Q0FQbkJPSlUxUC1fYjA2aHRaUVNjSHJOeDVIdnl0UkhPeFl2UkNSdGxZWlpsTVlzcTg4azJIQXBtVkRLYjZ4cWZVdkxkMEE2WTNHR1MxenF4MDNGaEU3Yk1z?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-24T16:59:03+00:00",
+      "company": "Mistral AI",
+      "title": "Classifier Factory - Mistral Documentation",
+      "summary": "Classifier Factory &nbsp;&nbsp; Mistral Documentation",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OeUxQUFBQcW9WOXJHd183Nk5FTXNKNTFVNDhrNHVkRjZ5UERwdFZiSUZka0J5WGNQU2VOaDQ0S0ZaM2ZuNFNHaE1sVlhyZzROVk1tcGhfQUE0NnRiblRBOENHdVkyTDF0aTJ6d2VQc1QyVDVIR2Jrc1BlTjl1S0U?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-15T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "nemotron-3.5-super-vl-120b-a12b Model by NVIDIA - NVIDIA",
+      "summary": "nemotron-3.5-super-vl-120b-a12b Model by NVIDIA &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xWW42aTRiWmlFQzFualhEZTJrT1VNSlNfeFJpTVBxeGh6dG41c2RBbVhIUUoxWGlrZXpqaDZ0dFNTY0s3SmpzSkdYNm9XZVJiX2I2X1pOOG81WVZZUFRJNkJZQ1dDeUtqWngyZGRjQW8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-22T07:00:00+00:00",
+      "company": "NVIDIA",
+      "title": "Nemotron 3.5 Bolt E4B Model by NVIDIA - NVIDIA",
+      "summary": "Nemotron 3.5 Bolt E4B Model by NVIDIA &nbsp;&nbsp; NVIDIA",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zY1RwQmRmNkcyWUk1SzMtYlE4cmdrWEY2UDU2NVpRV0N2cDZ3SVJDclc2LWZlTzl6eUJ2MFlOdHhxa01LUlpzaHlFZ0FJcEZXZnc1UUtRYXR0cTN5emRPRVhFMA?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-12-02T08:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Amazon Nova Forge: Build your own Frontier Models using Nova - Amazon Web Services",
+      "summary": "Amazon Nova Forge: Build your own Frontier Models using Nova &nbsp;&nbsp; Amazon Web Services",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1FQQTUwOGJLdlB6YTNrOHBzSHlzR1ZYRUozOXNiT0luWGdReUktOVNHZzExRjFmN09vNHFHSVFkRXZOVV9iSmdBcUpCbDNLVGF1R0tUc3BNZDJHeWlHdndKSGM3cjIwZGdWRGtwd2p0VldxZktjOWp2R3FZSjFrc3h3YU1xdlBHRzVpNW9XOEQ3ZmtV?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-03-05T08:00:00+00:00",
+      "company": "Amazon / AWS",
+      "title": "Announcing latency-optimized inference for Amazon Nova Pro foundation model in Amazon Bedrock - Amazon Web Services (AWS)",
+      "summary": "Announcing latency-optimized inference for Amazon Nova Pro foundation model in Amazon Bedrock &nbsp;&nbsp; Amazon Web Services (AWS)",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQREl0MnFsSlN0b1BVSjMtTXRRc1hzYlBpT0pOb0h5aTBWMEhobk02S1hIeF8yVVZ1dThuS2J6cGJ4cC04dHFraEh4X196VndUcTdsX2hXb3J4T0s0NkNha2R3djZDVS1WdzU0ckpYNUpsMnZTb3dvdHV5azgxN2ZBMHZmUkFvWGNiejU0TXJYVUFob2hRWE5NZ3BiNWVfY282WXRwd001bWFIM1oxWVJuWVdfNkszOXM5LUZQaQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-11-05T09:07:56+00:00",
+      "company": "Baidu",
+      "title": "ERNIE 5.0: A 2.4 Trillion-Parameter Unified Multimodal Foundation Model · ERNIE - Baidu ERNIE",
+      "summary": "ERNIE 5.0: A 2.4 Trillion-Parameter Unified Multimodal Foundation Model · ERNIE &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fLWIwZElHR2VoYXVWR0pBb1RVSmNPazFXcm5wVmYwb1JseVpsMXFtTDYwWWtFSmY1dkNaS0pSazhiMXB5OERoN3JLSFZrc3pGcWNUTWpUNHVtLU1W?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-11-13T13:20:27+00:00",
+      "company": "Baidu",
+      "title": "AI Studio-帮助文档 - 百度AI开放平台",
+      "summary": "AI Studio-帮助文档 &nbsp;&nbsp; 百度AI开放平台",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fMFBnSkZZbkZDS3JSNlI5M1FNaTU3T3pYVXlhWnllYWhqdlo2OUhwcmZWQzlkRkU3eVZaUFY4eXRtN1c5cUJ3WnJveUYxcHlzb3Z2NjV0NGlqQQ?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2025-06-29T07:00:00+00:00",
+      "company": "Baidu",
+      "title": "ERNIE 4.5 Technical Report - Baidu ERNIE",
+      "summary": "ERNIE 4.5 Technical Report &nbsp;&nbsp; Baidu ERNIE",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OcXFTQWhzelpIdnloU1ZJRlFUWTU3MWVLcklaQjhLVEFMWVhtV2RUdEU1ZjBMVzd2WS1lSWtwX2UtSjdLMWdqWW1sbVUzQ05GUGNic3BhUzFhYzNQNHkyY0FlVElqZUtLWjBUd0lEdUFmRjRwcGc?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-03-19T14:41:50+00:00",
+      "company": "Zhipu AI",
+      "title": "Inspiring AGI to Benefit Humanity - zhipuai.cn",
+      "summary": "Inspiring AGI to Benefit Humanity &nbsp;&nbsp; zhipuai.cn",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0zR2RJd1RidnViNkp1bEUwVklwV3hralJYRUdNaG0waFhZRTBTd2ZYOEVReTd4YUJheWIwWTlSTHd2UEQwUmNN?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-01-21T05:29:26+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Indus by Sarvam - Indus by Sarvam AI",
+      "summary": "Indus by Sarvam &nbsp;&nbsp; Indus by Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9jZTJmQVVDRHNTVlJkZjRzQkdEQlZkUUowTzJWaTdkMGMwZjJxOEJHOVUwVk1ObE9EU3ZuUw?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-10-30T07:17:33+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Open-Weight Models - Sarvam API Docs",
+      "summary": "Open-Weight Models &nbsp;&nbsp; Sarvam API Docs",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpZ2Z5RGd0dzJoTkpXVkRNSGNrWm94TFoyRjk0c2J0eWhmSlZ2NVY2aTdCbnU3bF9FdzViNmVETWN0alZrNWpkZUJkaEJyMnVPNEdRQmNXT0NGWm8?oc=5",
+      "kind": "News"
+    },
+    {
+      "date": "2026-05-06T07:00:00+00:00",
+      "company": "Indian AI ecosystem",
+      "title": "Text to Speech & AI Voice Generator for Indian Languages - Sarvam AI",
+      "summary": "Text to Speech & AI Voice Generator for Indian Languages &nbsp;&nbsp; Sarvam AI",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB2bkNTcUZTaExTSXRxOGlVV2hqNGptU29GMlBKY0taVXFMMi02U2RMbnZaclRnRDZRTU40Q1ZuZXJZTnZkTm9Vb1pSaUY?oc=5",
+      "kind": "News"
+    },
     {
       "date": "2025-10-06T07:00:00+00:00",
       "company": "Google DeepMind",
@@ -4409,158 +4561,6 @@
       "title": "Build an Autonomous AI Assistant with Agent Bricks Custom Agents - Databricks",
       "summary": "Build an Autonomous AI Assistant with Agent Bricks Custom Agents &nbsp;&nbsp; Databricks",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMlpUMV9YemlRYUoyb2tyMkt3VkZiYUZwdm1GV3BINmRpOXh1YzJXWUEtWGJXbnZCMS1ZZFEtZ1BDNnJoUlUzRFpvTFVGVmdfNEhPV3c1eTh3d2Rydlp1QXhROUNYUXc4TWdVdnlKYmRPYTdSZkhaM0o0UnNOQ0k5NElkZEV1aFQtUkhxS0V1SjA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-06-23T17:12:17+00:00",
-      "company": "IBM",
-      "title": "Access any model, anywhere on watsonx.ai - IBM",
-      "summary": "Access any model, anywhere on watsonx.ai &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRG5Ub1dVRFpJOEd2NlJjandKaTJaOTY2cmlMLUR5RjlnVm9sMWdCVnFTR1k1dnJVZjNaOGUzRThoc1JSd2hkQ0NpemVqVHMyZlFyS251ang0dDF6NDFFZE5MQlk2d2o4bmRNT2pvcmlyVXVZUVU1YjI5YUsxYVd2NDl1YWlMSzQ?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-10-01T20:00:02+00:00",
-      "company": "IBM",
-      "title": "IBM becomes first major open-source AI model developer to earn ISO 42001 certification - IBM",
-      "summary": "IBM becomes first major open-source AI model developer to earn ISO 42001 certification &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neTRERW5tWi04clJwNzFhd1ROSXM0eWs3VG0zSHBVak5obnQ0V2lLOHFpWVVJR2lSMXFzVzRNcm5BUGNwM3IzZ0xkblhBWEhxaDI0LTdOMk1QTmZEQWcxck1XM21zLTlKZVBv?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2024-12-18T16:21:36+00:00",
-      "company": "IBM",
-      "title": "IBM Granite 3.1: Powerful performance, longer context, new embedding models and more - IBM",
-      "summary": "IBM Granite 3.1: Powerful performance, longer context, new embedding models and more &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlo3eUhadDNlTmNZRDlIM3dCQVNsVEU3RXd5TGhPQXIwenJlcWMtb3lMcThObGRhbDZ2dHJPUjdvdVo4dVlRYW9YZmRSTk9PWVFwcFhKWnM2TE4wWG1BRnBJd0Zvcjh0R283TzFJZnQ2S0tFRUtuN2swVEFFejZFelJiNm4zY3FiZ2FPVGFUaVNSWHphT2Q0Z2RDdnU?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-09-01T07:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM Granite Time Series models bring real-time forecasting and anomaly detection to Confluent Cloud - IBM",
-      "summary": "IBM Granite Time Series models bring real-time forecasting and anomaly detection to Confluent Cloud &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNnBPUmF4M0dwRGJmYk82cWhuX3MxSHUxXzVxNDBwckttQkZDeU81d1p5ZDk3aGhrY0tfbzQyZEFqRUt2VFVwVzR3TC1lWlU2TGc1WE1xTEo2NFZMOEJNREF6c2tSa2xFV3p0ZjRvSE1tUnJaOTZqRzFERmVLTUVUVWRKLTBMc3V5bFFfcDJ2dm1vTW1va2tYT3FPNDBNX3BuVjN2NWl4a3dXNWZKUUlqZHBtYllYcG5UQ1ZaUy1kRzJfV3lQQVFoa0VmTzhVQm9kUWdF?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-12-11T08:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM recognized as the leader in AI transparency - IBM",
-      "summary": "IBM recognized as the leader in AI transparency &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmYtLVcxNEtydk0xMTFtWjBhWHhPYnU5WDhoSDNTTWRFNkFoR2VZbWNKN2xOZnJFVVZXbnhjb0lzQng1cW51QVZqQW95TEppMmFYR05WTDRGTzJHNXhDMnhtQ2ZlX19UYVdIYnRHbVRFaTJPOGJLT3B1VDI0TFFKTi1OSlV5dw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-06-29T11:28:46+00:00",
-      "company": "IBM",
-      "title": "Flexible AI tools and seamless integration: How IBM Granite on AWS empowers businesses - IBM",
-      "summary": "Flexible AI tools and seamless integration: How IBM Granite on AWS empowers businesses &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9XZ0h1N0lUY2dwY2ZNMm9KTnA2amo2Sl9IVEswSFpZcnE4QmNWU2pzeHFrVlFLMW02M1VRaUcxcmRNeHVwa09xYVZuLU5weDRTTFBkX1hlbW1rWGxVaEYwM1NSRkdkZw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-09-24T07:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM Granite-Docling: End-to-end document understanding with one tiny model - IBM",
-      "summary": "IBM Granite-Docling: End-to-end document understanding with one tiny model &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSHNORHNvVDBNYkhYVXJLSFZvTVVmNWducXlIVV81QjdoVThrQ3hpdDN4MDhGZ0FFOGlKQnQ5X201SkhXVnJZZExsOUptUS05NEU5RktOS2EyWTJaYm9KQWZOcXZQS3A1aEdXWGxRaVhYYW04N0pmdElCTHNfTjd2OEdJcENpVzBjZ19XVg?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-03-24T07:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM Granite 3.3: Speech recognition, refined reasoning, and RAG LoRAs - IBM",
-      "summary": "IBM Granite 3.3: Speech recognition, refined reasoning, and RAG LoRAs &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRXQ0SzBoY0p3Rk1ORjJTWXFobm9BY3dob1lyZDQyeXVHbE04LW5FYlpHS0gzVnFQZEhQY2NaeVpXVWRfaXFpbGpCWk1rbFZ3WW94dzVydjNvNzBxbmlhTHR1MUFvT0VibG9EZnRndTY0aUxRYWpEd1ZBWmJIR2l0UXg0RTBKb2R1VldIdWMzQWVpaXNMWDVUSjVuX183OGFmV2c?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-07T21:19:21+00:00",
-      "company": "IBM",
-      "title": "Bringing reasoning to Granite - IBM",
-      "summary": "Bringing reasoning to Granite &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmYUhPR0RIRWw2cmYyT1RBd2NOQ3Zqd055Zi1GM1JWeE1ETHZYU0dGaDk3eUc2VFBhSkVsa1lQczNsUXN1bzRxeTlNNjJDY2FJQUJPb0FkVk5SMU1NbmhocUt1cGlXU25mTzJ6UzkzX3ZkbmdhbFE?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-07-24T06:09:41+00:00",
-      "company": "IBM",
-      "title": "Generative AI that’s tailored for your business needs with watsonx.ai - IBM",
-      "summary": "Generative AI that’s tailored for your business needs with watsonx.ai &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GRi1hU1BPc3Q0X0FhYVRPck1meHRzZ1MzeE8tRWlnTnBLSDdmeXJLMkV1Uk9TbEhWMWt4UWtxaWRMYnc0QmdGM0RDUFJNblVMRUhEYU9lS00wWlVKWmN5YkJjQUpnQ1dxRkJlMldPNjFYZE8xSnc?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-02-23T21:33:03+00:00",
-      "company": "IBM",
-      "title": "IBM Granite 3.0: Open, state-of-the-art enterprise models - IBM",
-      "summary": "IBM Granite 3.0: Open, state-of-the-art enterprise models &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTUZtWGxTVGRacGZWamZIWE1YYWttVHJKTnI1RGtDandxdVJScEpHd3JkdjVLcEZwMVRXeFZjOGJpMU8wcTg2d3lJTENpUWVNanpoMjhCenhiZ0VWSG9SSkRnbWZJcThBaDVjcTJraXhPS1Z4SWgtZmF4M3NIcWRnakhfUkxxcXhmMWcwcDNiazl5SVhTOVc2UA?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-12-04T08:00:00+00:00",
-      "company": "IBM",
-      "title": "IBM named an Emerging Leader in the 2025 Gartner Innovation Guide for Generative AI Model Providers - IBM",
-      "summary": "IBM named an Emerging Leader in the 2025 Gartner Innovation Guide for Generative AI Model Providers &nbsp;&nbsp; IBM",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOW1DbUY4MDJUTjdTYldBTU90VXEyeGtZdFU5TDJqSkVCeTk0VUMzMmRZbnBoUHNlSm1mWHZ2dE82eEQ0UFFfMHBFbHlnQ0dsSUduQkdDU2R4emNpVkVwSkM4SWJQQzRMVEVkbnBDVFM2amVwYy1peHFnWll5LXVSQy1VQlVvaFBQckFyWkVISGQ2VDJJRGptWTdRWEEwY3FSOWhIQUp0c2JjYkZNMm5SU05Db1hncDJiVm92U0xKY19UNnAwMjVrUm00N2lkakt5MVJr?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2025-11-11T08:00:00+00:00",
-      "company": "Baidu",
-      "title": "ERNIE-4.5-VL-28B-A3B-Thinking: A Breakthrough in Multimodal AI - 百度",
-      "summary": "ERNIE-4.5-VL-28B-A3B-Thinking: A Breakthrough in Multimodal AI &nbsp;&nbsp; 百度",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPaEVmWExxS3lTWGpESTEyeU9nOXoxdUxUUXg0NTVUWFctQlVPdEVxc2x1RUJDNm5JSU5GVTQxVHA4MHB0RFJYRmd1T3FhQm8yd3FlTHVHNXR6SHBrS1ZpV0k3emVBT3VCVEFCazl3ZHhlWHM?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-02-11T10:15:57+00:00",
-      "company": "Baidu",
-      "title": "ERNIE Large Model - 百度百科",
-      "summary": "ERNIE Large Model &nbsp;&nbsp; 百度百科",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90U3RjVkhGenJSY3ZGSS1oWG9aYklJdG1DWDVFSkR5N253ZUJfcFJXbUh2OW5nQnh6bmtXZzduT3Vsbl9ZTzBtTGxkNmlHWnhsVW5raEFsVFF1cjRMTzRRTFlLLWNtZkpuSGVhTw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-03-30T07:00:00+00:00",
-      "company": "Zhipu AI",
-      "title": "Z.ai (02513.HK) Announces 2025 Annual Results Conference Call Arrangement - 智谱华章",
-      "summary": "Z.ai (02513.HK) Announces 2025 Annual Results Conference Call Arrangement &nbsp;&nbsp; 智谱华章",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9ob01Qekw5VDMwaDFOak40ZW5xRXlEUGd4Wkl3b3R0bG10Vkl2T0xPS2JsNlRhZ3dKV1FBcTMzZVc1aDVJWU9xYkJn?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-12T07:00:00+00:00",
-      "company": "Anthropic",
-      "title": "Strengthening our defenses against distillation attacks - Anthropic",
-      "summary": "Strengthening our defenses against distillation attacks &nbsp;&nbsp; Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBhWjFvMDhlcHFwVkRUdVF0NVlFT3JVaHBxTmpLMUFlZUhtM3U1ZExneVRhVnlnNDQ2a0dndjM5UWF5R1FaOWxHbkVfUHo5QmRBZGRFQ2xlTkpKRDJQOGIzbjRR?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-15T16:39:54+00:00",
-      "company": "Mistral AI",
-      "title": "Timestral: Mistral's time-series foundation models - mistral.ai",
-      "summary": "Timestral: Mistral's time-series foundation models &nbsp;&nbsp; mistral.ai",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05ZVhoN0NkX3dmRnJrMGtrbDRQb1NlaVRETlkzZmVyLWFrT1JNWkFhWG4xYnlrQWQzbmh5RS1EU01nYV92ZUMxR1l3?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-20T16:12:44+00:00",
-      "company": "Mistral AI",
-      "title": "Voxtral TTS 3 - Mistral AI Documentation",
-      "summary": "Voxtral TTS 3 &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTNkFhUWFoT29BUmNwQ0k0QWswT3ZOdFN0NXhTRHpoUnE4ekZPTkJtTmJUazJ4VEpWQ1FhWmNZeDJuWXVIOVhoUHIyNGVrSFJwUnJQcFI3X0Vod1hReTdIQw?oc=5",
-      "kind": "News"
-    },
-    {
-      "date": "2026-10-20T16:13:53+00:00",
-      "company": "Mistral AI",
-      "title": "Voxtral Mini Transcribe Realtime 3 - Mistral AI Documentation",
-      "summary": "Voxtral Mini Transcribe Realtime 3 &nbsp;&nbsp; Mistral AI Documentation",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tZHdUTGE5bUNmRGNKYzJnWlMzU0ZSS0o4TmxONVlpVm5kY1ZNaDZ3S0kteVRmQ2F4LXMtX0loUzhOMFdqWGx3dUxEYW9UMmVKQTR4VjdhVXRITE5OQW9VdXhZZHNIZDlncXNXUWtBbGlPV0g1Y1E?oc=5",
       "kind": "News"
     }
   ]
